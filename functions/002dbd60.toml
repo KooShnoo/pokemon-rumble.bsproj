@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311752Z
+addr = 0x2dbd60
+size = 0x8
+name = "AXSetAuxCReturnVolume"
+artifact_type = "Function"
+
+[header]
+name = "AXSetAuxCReturnVolume"
+addr = 0x2dbd60
+
+[header.args]

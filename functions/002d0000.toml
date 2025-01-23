@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311386Z
+addr = 0x2d0000
+size = 0x38
+name = "GXSetAlphaCompare"
+artifact_type = "Function"
+
+[header]
+name = "GXSetAlphaCompare"
+addr = 0x2d0000
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307699Z
+addr = 0x185bc0
+size = 0x1e8
+name = "startBlackOut"
+artifact_type = "Function"
+
+[header]
+name = "startBlackOut"
+addr = 0x185bc0
+
+[header.args]

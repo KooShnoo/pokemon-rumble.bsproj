@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314767Z
+addr = 0x3388b8
+size = 0x158
+name = "rfc_port_closed"
+artifact_type = "Function"
+
+[header]
+name = "rfc_port_closed"
+addr = 0x3388b8
+
+[header.args]

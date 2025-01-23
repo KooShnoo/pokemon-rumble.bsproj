@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308686Z
+addr = 0x257250
+size = 0x1f4
+name = "ApplyTexPatAnmResult"
+artifact_type = "Function"
+
+[header]
+name = "ApplyTexPatAnmResult"
+addr = 0x257250
+
+[header.args]

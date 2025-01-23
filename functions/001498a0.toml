@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307243Z
+addr = 0x1498a0
+size = 0x174
+name = "method_CNullObj_request"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_request"
+addr = 0x1498a0
+
+[header.args]

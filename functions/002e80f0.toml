@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312354Z
+addr = 0x2e80f0
+size = 0x8c
+name = "CloseCallbackFromReload"
+artifact_type = "Function"
+
+[header]
+name = "CloseCallbackFromReload"
+addr = 0x2e80f0
+
+[header.args]

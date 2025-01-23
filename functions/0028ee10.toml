@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309369Z
+addr = 0x28ee10
+size = 0x90
+name = "UpdateVoicesPriority"
+artifact_type = "Function"
+
+[header]
+name = "UpdateVoicesPriority"
+addr = 0x28ee10
+
+[header.args]

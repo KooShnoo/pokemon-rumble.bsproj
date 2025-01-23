@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313732Z
+addr = 0x31d6dc
+size = 0xfc
+name = "BTM_VendorSpecificCommand"
+artifact_type = "Function"
+
+[header]
+name = "BTM_VendorSpecificCommand"
+addr = 0x31d6dc
+
+[header.args]

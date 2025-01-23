@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309967Z
+addr = 0x2b4020
+size = 0x14
+name = "DCEnable"
+artifact_type = "Function"
+
+[header]
+name = "DCEnable"
+addr = 0x2b4020
+
+[header.args]

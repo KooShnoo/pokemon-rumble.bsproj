@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312988Z
+addr = 0x30e540
+size = 0x180
+name = "WUDiRemoveDevice"
+artifact_type = "Function"
+
+[header]
+name = "WUDiRemoveDevice"
+addr = 0x30e540
+
+[header.args]

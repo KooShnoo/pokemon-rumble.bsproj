@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314488Z
+addr = 0x330a44
+size = 0x90
+name = "l2cu_find_lcb_by_handle"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_find_lcb_by_handle"
+addr = 0x330a44
+
+[header.args]

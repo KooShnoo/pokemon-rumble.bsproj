@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307426Z
+addr = 0x15a190
+size = 0xfc
+name = "method_setMaxHP"
+artifact_type = "Function"
+
+[header]
+name = "method_setMaxHP"
+addr = 0x15a190
+
+[header.args]

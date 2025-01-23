@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306462Z
+addr = 0x4250
+size = 0xa8
+name = "__init_data"
+artifact_type = "Function"
+
+[header]
+name = "__init_data"
+addr = 0x4250
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307410Z
+addr = 0x159840
+size = 0x80
+name = "GetPlayerPii"
+artifact_type = "Function"
+
+[header]
+name = "GetPlayerPii"
+addr = 0x159840
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310046Z
+addr = 0x2b4f60
+size = 0x48
+name = "__OSContextInit"
+artifact_type = "Function"
+
+[header]
+name = "__OSContextInit"
+addr = 0x2b4f60
+
+[header.args]

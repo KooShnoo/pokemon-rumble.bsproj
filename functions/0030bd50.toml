@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312934Z
+addr = 0x30bd50
+size = 0x10c
+name = "__wudStackCheckDeviceInfo"
+artifact_type = "Function"
+
+[header]
+name = "__wudStackCheckDeviceInfo"
+addr = 0x30bd50
+
+[header.args]

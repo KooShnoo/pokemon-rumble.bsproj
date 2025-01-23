@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308940Z
+addr = 0x26fa20
+size = 0x178
+name = "CheckScnObj"
+artifact_type = "Function"
+
+[header]
+name = "CheckScnObj"
+addr = 0x26fa20
+
+[header.args]

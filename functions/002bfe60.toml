@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310484Z
+addr = 0x2bfe60
+size = 0x1e0
+name = "__OSGetValidTicketIndex"
+artifact_type = "Function"
+
+[header]
+name = "__OSGetValidTicketIndex"
+addr = 0x2bfe60
+
+[header.args]

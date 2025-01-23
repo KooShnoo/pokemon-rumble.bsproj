@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308127Z
+addr = 0x248330
+size = 0x48
+name = "GetYoungestDrawParticle"
+artifact_type = "Function"
+
+[header]
+name = "GetYoungestDrawParticle"
+addr = 0x248330
+
+[header.args]

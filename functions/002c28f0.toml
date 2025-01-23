@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310651Z
+addr = 0x2c28f0
+size = 0x2f4
+name = "CompleteTransfer"
+artifact_type = "Function"
+
+[header]
+name = "CompleteTransfer"
+addr = 0x2c28f0
+
+[header.args]

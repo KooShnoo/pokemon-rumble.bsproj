@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308024Z
+addr = 0x2352d0
+size = 0x50
+name = "static_ctor_fn_802352D0"
+artifact_type = "Function"
+
+[header]
+name = "static_ctor_fn_802352D0"
+addr = 0x2352d0
+
+[header.args]

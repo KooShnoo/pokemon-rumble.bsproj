@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308836Z
+addr = 0x267b30
+size = 0x164
+name = "ProductTexSrtMtx_SRT"
+artifact_type = "Function"
+
+[header]
+name = "ProductTexSrtMtx_SRT"
+addr = 0x267b30
+
+[header.args]

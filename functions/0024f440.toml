@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308442Z
+addr = 0x24f440
+size = 0x2c
+name = "GetTlut"
+artifact_type = "Function"
+
+[header]
+name = "GetTlut"
+addr = 0x24f440
+
+[header.args]

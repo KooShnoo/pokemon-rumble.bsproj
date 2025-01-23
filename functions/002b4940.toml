@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310023Z
+addr = 0x2b4940
+size = 0x5c
+name = "OSSetCurrentContext"
+artifact_type = "Function"
+
+[header]
+name = "OSSetCurrentContext"
+addr = 0x2b4940
+
+[header.args]

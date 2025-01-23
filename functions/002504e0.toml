@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308522Z
+addr = 0x2504e0
+size = 0x1f4
+name = "GXSetTexCoordGen2"
+artifact_type = "Function"
+
+[header]
+name = "GXSetTexCoordGen2"
+addr = 0x2504e0
+
+[header.args]

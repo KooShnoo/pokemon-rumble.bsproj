@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310853Z
+addr = 0x2c9870
+size = 0x98
+name = "C_MTXOrtho"
+artifact_type = "Function"
+
+[header]
+name = "C_MTXOrtho"
+addr = 0x2c9870
+
+[header.args]

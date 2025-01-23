@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310071Z
+addr = 0x2b6390
+size = 0x754
+name = "__OSBootDolSimple"
+artifact_type = "Function"
+
+[header]
+name = "__OSBootDolSimple"
+addr = 0x2b6390
+
+[header.args]

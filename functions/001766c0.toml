@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307508Z
+addr = 0x1766c0
+size = 0x84
+name = "GC"
+artifact_type = "Function"
+
+[header]
+name = "GC"
+addr = 0x1766c0
+
+[header.args]

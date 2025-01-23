@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314125Z
+addr = 0x327f2c
+size = 0x94
+name = "btsnd_hcic_write_policy_set"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_policy_set"
+addr = 0x327f2c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314342Z
+addr = 0x32a31c
+size = 0x228
+name = "HID_HostSetSecurityLevel"
+artifact_type = "Function"
+
+[header]
+name = "HID_HostSetSecurityLevel"
+addr = 0x32a31c
+
+[header.args]

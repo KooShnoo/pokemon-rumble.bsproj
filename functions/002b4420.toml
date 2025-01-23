@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310008Z
+addr = 0x2b4420
+size = 0x14
+name = "LCQueueWait"
+artifact_type = "Function"
+
+[header]
+name = "LCQueueWait"
+addr = 0x2b4420
+
+[header.args]

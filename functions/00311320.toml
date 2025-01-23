@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313048Z
+addr = 0x311320
+size = 0x1bc
+name = "GKI_send_msg"
+artifact_type = "Function"
+
+[header]
+name = "GKI_send_msg"
+addr = 0x311320
+
+[header.args]

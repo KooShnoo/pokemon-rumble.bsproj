@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308018Z
+addr = 0x234e70
+size = 0x120
+name = "relocateCurveTexture"
+artifact_type = "Function"
+
+[header]
+name = "relocateCurveTexture"
+addr = 0x234e70
+
+[header.args]

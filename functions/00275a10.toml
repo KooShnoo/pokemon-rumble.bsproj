@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309062Z
+addr = 0x275a10
+size = 0x13c
+name = "CalcOffsetAdpcmParam"
+artifact_type = "Function"
+
+[header]
+name = "CalcOffsetAdpcmParam"
+addr = 0x275a10
+
+[header.args]

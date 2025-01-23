@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309494Z
+addr = 0x296770
+size = 0x1d8
+name = "ConstructOpPrepairExpandSheet"
+artifact_type = "Function"
+
+[header]
+name = "ConstructOpPrepairExpandSheet"
+addr = 0x296770
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313022Z
+addr = 0x310920
+size = 0x38
+name = "bta_hh_co_data"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_co_data"
+addr = 0x310920
+
+[header.args]

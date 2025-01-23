@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311900Z
+addr = 0x2e1240
+size = 0xdc
+name = "AllocFromHead_"
+artifact_type = "Function"
+
+[header]
+name = "AllocFromHead_"
+addr = 0x2e1240
+
+[header.args]

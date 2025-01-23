@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312498Z
+addr = 0x2f18a0
+size = 0x240
+name = "__ios_Ipc2"
+artifact_type = "Function"
+
+[header]
+name = "__ios_Ipc2"
+addr = 0x2f18a0
+
+[header.args]

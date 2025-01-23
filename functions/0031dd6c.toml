@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313760Z
+addr = 0x31dd6c
+size = 0x18c
+name = "btm_return_link_keys_evt"
+artifact_type = "Function"
+
+[header]
+name = "btm_return_link_keys_evt"
+addr = 0x31dd6c
+
+[header.args]

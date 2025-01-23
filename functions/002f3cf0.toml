@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312567Z
+addr = 0x2f3cf0
+size = 0x134
+name = "ISFS_GetAttrAsync"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_GetAttrAsync"
+addr = 0x2f3cf0
+
+[header.args]

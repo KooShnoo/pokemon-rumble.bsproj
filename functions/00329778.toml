@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314266Z
+addr = 0x329778
+size = 0x4c
+name = "hidd_pm_inact_timeout"
+artifact_type = "Function"
+
+[header]
+name = "hidd_pm_inact_timeout"
+addr = 0x329778
+
+[header.args]

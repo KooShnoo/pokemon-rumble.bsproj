@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315672Z
+addr = 0x350e78
+size = 0xb8
+name = "TRKDoStop"
+artifact_type = "Function"
+
+[header]
+name = "TRKDoStop"
+addr = 0x350e78
+
+[header.args]

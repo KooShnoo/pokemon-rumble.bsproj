@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313673Z
+addr = 0x31c2b8
+size = 0xb8
+name = "btm_find_dev_by_handle"
+artifact_type = "Function"
+
+[header]
+name = "btm_find_dev_by_handle"
+addr = 0x31c2b8
+
+[header.args]

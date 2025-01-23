@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307288Z
+addr = 0x14abf0
+size = 0xe4
+name = "method_CNullObj_mpGetSpeed"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_mpGetSpeed"
+addr = 0x14abf0
+
+[header.args]

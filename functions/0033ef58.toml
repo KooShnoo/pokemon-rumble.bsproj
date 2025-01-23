@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314992Z
+addr = 0x33ef58
+size = 0x54
+name = "DBInitInterrupts"
+artifact_type = "Function"
+
+[header]
+name = "DBInitInterrupts"
+addr = 0x33ef58
+
+[header.args]

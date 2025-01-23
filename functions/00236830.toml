@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308054Z
+addr = 0x236830
+size = 0xd4
+name = "CalcLife"
+artifact_type = "Function"
+
+[header]
+name = "CalcLife"
+addr = 0x236830
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313510Z
+addr = 0x317b44
+size = 0xf8
+name = "bta_dm_pm_timer_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_pm_timer_cback"
+addr = 0x317b44
+
+[header.args]

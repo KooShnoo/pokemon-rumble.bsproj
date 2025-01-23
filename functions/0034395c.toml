@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315163Z
+addr = 0x34395c
+size = 0xe4
+name = "__equals_dec"
+artifact_type = "Function"
+
+[header]
+name = "__equals_dec"
+addr = 0x34395c
+
+[header.args]

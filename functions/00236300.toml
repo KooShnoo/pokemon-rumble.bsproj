@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308048Z
+addr = 0x236300
+size = 0x2c
+name = "IsValid"
+artifact_type = "Function"
+
+[header]
+name = "IsValid"
+addr = 0x236300
+
+[header.args]

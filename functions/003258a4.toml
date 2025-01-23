@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314020Z
+addr = 0x3258a4
+size = 0xe0
+name = "WBT_ExtCreateRecord"
+artifact_type = "Function"
+
+[header]
+name = "WBT_ExtCreateRecord"
+addr = 0x3258a4
+
+[header.args]

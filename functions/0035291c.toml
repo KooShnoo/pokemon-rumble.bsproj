@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315746Z
+addr = 0x35291c
+size = 0x90
+name = "GetThreadInfo"
+artifact_type = "Function"
+
+[header]
+name = "GetThreadInfo"
+addr = 0x35291c
+
+[header.args]

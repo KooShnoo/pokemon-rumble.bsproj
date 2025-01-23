@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311543Z
+addr = 0x2d3050
+size = 0x1a0
+name = "cbForStateReadingTOC"
+artifact_type = "Function"
+
+[header]
+name = "cbForStateReadingTOC"
+addr = 0x2d3050
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313927Z
+addr = 0x3224d0
+size = 0x29c
+name = "btm_sec_mx_access_request"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_mx_access_request"
+addr = 0x3224d0
+
+[header.args]

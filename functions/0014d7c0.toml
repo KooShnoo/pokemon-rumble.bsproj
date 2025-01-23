@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307328Z
+addr = 0x14d7c0
+size = 0x5c
+name = "method_getOutlineType"
+artifact_type = "Function"
+
+[header]
+name = "method_getOutlineType"
+addr = 0x14d7c0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306951Z
+addr = 0x13a5d0
+size = 0x1b4
+name = "MsgWin_ShowMessage"
+artifact_type = "Function"
+
+[header]
+name = "MsgWin_ShowMessage"
+addr = 0x13a5d0
+
+[header.args]

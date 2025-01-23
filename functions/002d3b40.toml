@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311553Z
+addr = 0x2d3b40
+size = 0x194
+name = "cbForStateCheckID2"
+artifact_type = "Function"
+
+[header]
+name = "cbForStateCheckID2"
+addr = 0x2d3b40
+
+[header.args]

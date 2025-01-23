@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307687Z
+addr = 0x183230
+size = 0xc14
+name = "startLeftEvent"
+artifact_type = "Function"
+
+[header]
+name = "startLeftEvent"
+addr = 0x183230
+
+[header.args]

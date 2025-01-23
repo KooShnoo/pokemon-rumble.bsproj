@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310157Z
+addr = 0x2b9760
+size = 0xc
+name = "OSGetPhysicalMem2Size"
+artifact_type = "Function"
+
+[header]
+name = "OSGetPhysicalMem2Size"
+addr = 0x2b9760
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315382Z
+addr = 0x34cd6c
+size = 0x148
+name = "ceil"
+artifact_type = "Function"
+
+[header]
+name = "ceil"
+addr = 0x34cd6c
+
+[header.args]

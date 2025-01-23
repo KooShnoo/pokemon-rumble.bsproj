@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311603Z
+addr = 0x2d63a0
+size = 0x44
+name = "__DVDResetWithNoSpinup"
+artifact_type = "Function"
+
+[header]
+name = "__DVDResetWithNoSpinup"
+addr = 0x2d63a0
+
+[header.args]

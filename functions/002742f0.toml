@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309046Z
+addr = 0x2742f0
+size = 0x3b4
+name = "SetAddr"
+artifact_type = "Function"
+
+[header]
+name = "SetAddr"
+addr = 0x2742f0
+
+[header.args]

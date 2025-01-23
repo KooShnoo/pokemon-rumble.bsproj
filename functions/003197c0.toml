@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313572Z
+addr = 0x3197c0
+size = 0x6c
+name = "BTA_HhRemoveDev"
+artifact_type = "Function"
+
+[header]
+name = "BTA_HhRemoveDev"
+addr = 0x3197c0
+
+[header.args]

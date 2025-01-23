@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312547Z
+addr = 0x2f3310
+size = 0x84
+name = "IPCiProfQueueReq"
+artifact_type = "Function"
+
+[header]
+name = "IPCiProfQueueReq"
+addr = 0x2f3310
+
+[header.args]

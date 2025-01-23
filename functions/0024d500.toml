@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308290Z
+addr = 0x24d500
+size = 0x54
+name = "GetResVtxClr"
+artifact_type = "Function"
+
+[header]
+name = "GetResVtxClr"
+addr = 0x24d500
+
+[header.args]

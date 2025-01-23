@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309639Z
+addr = 0x2a6060
+size = 0x1d0
+name = "SetTagProcessorImpl"
+artifact_type = "Function"
+
+[header]
+name = "SetTagProcessorImpl"
+addr = 0x2a6060
+
+[header.args]

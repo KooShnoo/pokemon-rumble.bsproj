@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312428Z
+addr = 0x2f0070
+size = 0x270
+name = "ARCConvertPathToEntrynum"
+artifact_type = "Function"
+
+[header]
+name = "ARCConvertPathToEntrynum"
+addr = 0x2f0070
+
+[header.args]

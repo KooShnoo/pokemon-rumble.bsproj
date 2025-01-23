@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315127Z
+addr = 0x342634
+size = 0xa8
+name = "SubBlock_merge_next"
+artifact_type = "Function"
+
+[header]
+name = "SubBlock_merge_next"
+addr = 0x342634
+
+[header.args]

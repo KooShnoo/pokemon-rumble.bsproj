@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309957Z
+addr = 0x2b3b00
+size = 0x34
+name = "OSAllocFromMEM1ArenaLo"
+artifact_type = "Function"
+
+[header]
+name = "OSAllocFromMEM1ArenaLo"
+addr = 0x2b3b00
+
+[header.args]

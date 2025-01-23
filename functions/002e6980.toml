@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312310Z
+addr = 0x2e6980
+size = 0x294
+name = "nandChangeDir"
+artifact_type = "Function"
+
+[header]
+name = "nandChangeDir"
+addr = 0x2e6980
+
+[header.args]

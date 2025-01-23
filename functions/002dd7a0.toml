@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311831Z
+addr = 0x2dd7a0
+size = 0x40
+name = "__AXGetCurrentProfile"
+artifact_type = "Function"
+
+[header]
+name = "__AXGetCurrentProfile"
+addr = 0x2dd7a0
+
+[header.args]

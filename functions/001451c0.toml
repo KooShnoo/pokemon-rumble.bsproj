@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307112Z
+addr = 0x1451c0
+size = 0xcc
+name = "method_BWorldLightSet_mpIsPlayingNotYetLooped"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldLightSet_mpIsPlayingNotYetLooped"
+addr = 0x1451c0
+
+[header.args]

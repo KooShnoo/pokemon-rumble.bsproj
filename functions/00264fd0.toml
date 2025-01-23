@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308812Z
+addr = 0x264fd0
+size = 0x80
+name = "GetEnvironmentTexMtx"
+artifact_type = "Function"
+
+[header]
+name = "GetEnvironmentTexMtx"
+addr = 0x264fd0
+
+[header.args]

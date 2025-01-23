@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307424Z
+addr = 0x159dc0
+size = 0xfc
+name = "method_setHP"
+artifact_type = "Function"
+
+[header]
+name = "method_setHP"
+addr = 0x159dc0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312670Z
+addr = 0x2f6ed0
+size = 0x1d4
+name = "__wpadSendDataSub"
+artifact_type = "Function"
+
+[header]
+name = "__wpadSendDataSub"
+addr = 0x2f6ed0
+
+[header.args]

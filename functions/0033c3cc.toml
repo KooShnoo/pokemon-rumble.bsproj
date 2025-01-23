@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314877Z
+addr = 0x33c3cc
+size = 0x88
+name = "sdp_conn_timeout"
+artifact_type = "Function"
+
+[header]
+name = "sdp_conn_timeout"
+addr = 0x33c3cc
+
+[header.args]

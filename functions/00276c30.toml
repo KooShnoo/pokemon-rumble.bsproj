@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309078Z
+addr = 0x276c30
+size = 0x94
+name = "ReserveForFreeAxVoice"
+artifact_type = "Function"
+
+[header]
+name = "ReserveForFreeAxVoice"
+addr = 0x276c30
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314232Z
+addr = 0x329164
+size = 0xf4
+name = "btsnd_hcic_vendor_spec_cmd"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_vendor_spec_cmd"
+addr = 0x329164
+
+[header.args]

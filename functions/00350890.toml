@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315664Z
+addr = 0x350890
+size = 0x2a0
+name = "TRKDoWriteRegisters"
+artifact_type = "Function"
+
+[header]
+name = "TRKDoWriteRegisters"
+addr = 0x350890
+
+[header.args]

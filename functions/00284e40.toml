@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309253Z
+addr = 0x284e40
+size = 0x44
+name = "GetGroupCount"
+artifact_type = "Function"
+
+[header]
+name = "GetGroupCount"
+addr = 0x284e40
+
+[header.args]

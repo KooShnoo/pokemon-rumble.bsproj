@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312259Z
+addr = 0x2e5a30
+size = 0x64
+name = "NANDPrivateGetStatus"
+artifact_type = "Function"
+
+[header]
+name = "NANDPrivateGetStatus"
+addr = 0x2e5a30
+
+[header.args]

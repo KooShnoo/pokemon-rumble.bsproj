@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312855Z
+addr = 0x305710
+size = 0x1b4
+name = "select_1obj_first"
+artifact_type = "Function"
+
+[header]
+name = "select_1obj_first"
+addr = 0x305710
+
+[header.args]

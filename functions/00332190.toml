@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314544Z
+addr = 0x332190
+size = 0x110
+name = "l2cu_process_our_cfg_req"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_process_our_cfg_req"
+addr = 0x332190
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312862Z
+addr = 0x306020
+size = 0x47c
+name = "read_kpad_dpd"
+artifact_type = "Function"
+
+[header]
+name = "read_kpad_dpd"
+addr = 0x306020
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308057Z
+addr = 0x236920
+size = 0x17c
+name = "AddParticleCreation"
+artifact_type = "Function"
+
+[header]
+name = "AddParticleCreation"
+addr = 0x236920
+
+[header.args]

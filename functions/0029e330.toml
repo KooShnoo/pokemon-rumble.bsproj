@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309541Z
+addr = 0x29e330
+size = 0x58
+name = "ResFont_destroy"
+artifact_type = "Function"
+
+[header]
+name = "ResFont_destroy"
+addr = 0x29e330
+
+[header.args]

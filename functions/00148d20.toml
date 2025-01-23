@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307226Z
+addr = 0x148d20
+size = 0xa0
+name = "method_BModelObj_mpResume"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_mpResume"
+addr = 0x148d20
+
+[header.args]

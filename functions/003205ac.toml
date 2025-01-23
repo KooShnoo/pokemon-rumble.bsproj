@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313864Z
+addr = 0x3205ac
+size = 0x228
+name = "btm_pm_proc_mode_change"
+artifact_type = "Function"
+
+[header]
+name = "btm_pm_proc_mode_change"
+addr = 0x3205ac
+
+[header.args]

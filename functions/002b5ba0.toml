@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310062Z
+addr = 0x2b5ba0
+size = 0x28
+name = "Run"
+artifact_type = "Function"
+
+[header]
+name = "Run"
+addr = 0x2b5ba0
+
+[header.args]

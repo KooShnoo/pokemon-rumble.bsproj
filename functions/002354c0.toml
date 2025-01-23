@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308029Z
+addr = 0x2354c0
+size = 0x114
+name = "MtxGetRotationMtx"
+artifact_type = "Function"
+
+[header]
+name = "MtxGetRotationMtx"
+addr = 0x2354c0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314384Z
+addr = 0x32c558
+size = 0x2c
+name = "hidh_conn_dereg"
+artifact_type = "Function"
+
+[header]
+name = "hidh_conn_dereg"
+addr = 0x32c558
+
+[header.args]

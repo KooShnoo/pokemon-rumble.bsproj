@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309611Z
+addr = 0x2a4e30
+size = 0x50
+name = "Pane_AppendChild"
+artifact_type = "Function"
+
+[header]
+name = "Pane_AppendChild"
+addr = 0x2a4e30
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308743Z
+addr = 0x25cab0
+size = 0x1cc
+name = "LoadResGenMode"
+artifact_type = "Function"
+
+[header]
+name = "LoadResGenMode"
+addr = 0x25cab0
+
+[header.args]

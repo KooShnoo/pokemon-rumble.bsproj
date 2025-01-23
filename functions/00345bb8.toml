@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315249Z
+addr = 0x345bb8
+size = 0xa8
+name = "raise"
+artifact_type = "Function"
+
+[header]
+name = "raise"
+addr = 0x345bb8
+
+[header.args]

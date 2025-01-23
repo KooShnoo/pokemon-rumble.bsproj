@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315651Z
+addr = 0x350178
+size = 0x6c
+name = "TRKDoReset"
+artifact_type = "Function"
+
+[header]
+name = "TRKDoReset"
+addr = 0x350178
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311416Z
+addr = 0x2d0820
+size = 0xa8
+name = "GXSetPixelFmt"
+artifact_type = "Function"
+
+[header]
+name = "GXSetPixelFmt"
+addr = 0x2d0820
+
+[header.args]

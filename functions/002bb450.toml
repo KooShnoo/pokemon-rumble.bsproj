@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310230Z
+addr = 0x2bb450
+size = 0x10
+name = "__OSSyncSram"
+artifact_type = "Function"
+
+[header]
+name = "__OSSyncSram"
+addr = 0x2bb450
+
+[header.args]

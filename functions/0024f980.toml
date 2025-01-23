@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308486Z
+addr = 0x24f980
+size = 0x18
+name = "GXSetDstAlpha"
+artifact_type = "Function"
+
+[header]
+name = "GXSetDstAlpha"
+addr = 0x24f980
+
+[header.args]

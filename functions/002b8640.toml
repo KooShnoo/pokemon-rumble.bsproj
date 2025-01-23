@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310110Z
+addr = 0x2b8640
+size = 0x26c
+name = "ExpandFontSheet"
+artifact_type = "Function"
+
+[header]
+name = "ExpandFontSheet"
+addr = 0x2b8640
+
+[header.args]

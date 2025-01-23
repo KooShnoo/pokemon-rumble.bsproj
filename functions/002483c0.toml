@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308132Z
+addr = 0x2483c0
+size = 0x3c
+name = "operator="
+artifact_type = "Function"
+
+[header]
+name = "operator="
+addr = 0x2483c0
+
+[header.args]

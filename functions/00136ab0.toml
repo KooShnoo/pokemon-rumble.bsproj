@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306900Z
+addr = 0x136ab0
+size = 0xa0
+name = "method_BWorldCamera_mpPause"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_mpPause"
+addr = 0x136ab0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307657Z
+addr = 0x17c630
+size = 0x110
+name = "HomeButton"
+artifact_type = "Function"
+
+[header]
+name = "HomeButton"
+addr = 0x17c630
+
+[header.args]

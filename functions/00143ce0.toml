@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307062Z
+addr = 0x143ce0
+size = 0x1d8
+name = "NewWorldLightSet"
+artifact_type = "Function"
+
+[header]
+name = "NewWorldLightSet"
+addr = 0x143ce0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307738Z
+addr = 0x18cc70
+size = 0xac
+name = "FindPaneByName"
+artifact_type = "Function"
+
+[header]
+name = "FindPaneByName"
+addr = 0x18cc70
+
+[header.args]

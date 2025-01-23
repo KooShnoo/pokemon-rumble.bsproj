@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312572Z
+addr = 0x2f3f10
+size = 0xd0
+name = "ISFS_DeleteAsync"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_DeleteAsync"
+addr = 0x2f3f10
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309112Z
+addr = 0x2791d0
+size = 0x34
+name = "GetAmbientPriority"
+artifact_type = "Function"
+
+[header]
+name = "GetAmbientPriority"
+addr = 0x2791d0
+
+[header.args]

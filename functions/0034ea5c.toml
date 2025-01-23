@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315515Z
+addr = 0x34ea5c
+size = 0x8c
+name = "TRKGetNextEvent"
+artifact_type = "Function"
+
+[header]
+name = "TRKGetNextEvent"
+addr = 0x34ea5c
+
+[header.args]

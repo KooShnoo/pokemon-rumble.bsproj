@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312369Z
+addr = 0x2e8ab0
+size = 0xe0
+name = "SCFindByteArrayItem"
+artifact_type = "Function"
+
+[header]
+name = "SCFindByteArrayItem"
+addr = 0x2e8ab0
+
+[header.args]

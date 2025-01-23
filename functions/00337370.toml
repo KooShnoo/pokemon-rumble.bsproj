@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314721Z
+addr = 0x337370
+size = 0x120
+name = "rfc_send_msc"
+artifact_type = "Function"
+
+[header]
+name = "rfc_send_msc"
+addr = 0x337370
+
+[header.args]

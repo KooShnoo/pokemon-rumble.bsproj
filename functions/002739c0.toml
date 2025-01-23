@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309017Z
+addr = 0x2739c0
+size = 0x128
+name = "SetLoopEnd"
+artifact_type = "Function"
+
+[header]
+name = "SetLoopEnd"
+addr = 0x2739c0
+
+[header.args]

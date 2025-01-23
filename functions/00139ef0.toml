@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306940Z
+addr = 0x139ef0
+size = 0xc8
+name = "AddEnemyToNoticeDisplay"
+artifact_type = "Function"
+
+[header]
+name = "AddEnemyToNoticeDisplay"
+addr = 0x139ef0
+
+[header.args]

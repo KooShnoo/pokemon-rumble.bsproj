@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313991Z
+addr = 0x324df0
+size = 0x8c
+name = "btu_hcif_connection_request_evt"
+artifact_type = "Function"
+
+[header]
+name = "btu_hcif_connection_request_evt"
+addr = 0x324df0
+
+[header.args]

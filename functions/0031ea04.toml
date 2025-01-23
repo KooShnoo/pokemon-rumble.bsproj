@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313799Z
+addr = 0x31ea04
+size = 0x78
+name = "BTM_CancelRemoteDeviceName"
+artifact_type = "Function"
+
+[header]
+name = "BTM_CancelRemoteDeviceName"
+addr = 0x31ea04
+
+[header.args]

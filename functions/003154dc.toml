@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313395Z
+addr = 0x3154dc
+size = 0x268
+name = "bta_dm_sdp_result"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_sdp_result"
+addr = 0x3154dc
+
+[header.args]

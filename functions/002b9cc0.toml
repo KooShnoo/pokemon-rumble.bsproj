@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310165Z
+addr = 0x2b9cc0
+size = 0x120
+name = "BATConfig"
+artifact_type = "Function"
+
+[header]
+name = "BATConfig"
+addr = 0x2b9cc0
+
+[header.args]

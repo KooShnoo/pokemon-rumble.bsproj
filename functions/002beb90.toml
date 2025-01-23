@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310403Z
+addr = 0x2beb90
+size = 0x94
+name = "NWC24iSynchronizeRtcCounter"
+artifact_type = "Function"
+
+[header]
+name = "NWC24iSynchronizeRtcCounter"
+addr = 0x2beb90
+
+[header.args]

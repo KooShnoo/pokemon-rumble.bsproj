@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311667Z
+addr = 0x2d7c70
+size = 0x18c
+name = "DVDLowReadDiskID"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowReadDiskID"
+addr = 0x2d7c70
+
+[header.args]

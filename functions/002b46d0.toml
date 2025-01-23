@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310015Z
+addr = 0x2b46d0
+size = 0x124
+name = "__OSLoadFPUContext"
+artifact_type = "Function"
+
+[header]
+name = "__OSLoadFPUContext"
+addr = 0x2b46d0
+
+[header.args]

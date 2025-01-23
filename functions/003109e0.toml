@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313032Z
+addr = 0x3109e0
+size = 0x220
+name = "gki_init_free_queue"
+artifact_type = "Function"
+
+[header]
+name = "gki_init_free_queue"
+addr = 0x3109e0
+
+[header.args]

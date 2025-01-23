@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313552Z
+addr = 0x319050
+size = 0x1c4
+name = "bta_hh_write_dev_act"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_write_dev_act"
+addr = 0x319050
+
+[header.args]

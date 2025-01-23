@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311193Z
+addr = 0x2ce390
+size = 0xd4
+name = "GXSetChanAmbColor"
+artifact_type = "Function"
+
+[header]
+name = "GXSetChanAmbColor"
+addr = 0x2ce390
+
+[header.args]

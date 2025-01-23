@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313487Z
+addr = 0x316ff0
+size = 0x8c
+name = "BTA_DmPinReply"
+artifact_type = "Function"
+
+[header]
+name = "BTA_DmPinReply"
+addr = 0x316ff0
+
+[header.args]

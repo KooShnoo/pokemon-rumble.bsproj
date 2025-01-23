@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311636Z
+addr = 0x2d6cd0
+size = 0xe8
+name = "cbForNandRead"
+artifact_type = "Function"
+
+[header]
+name = "cbForNandRead"
+addr = 0x2d6cd0
+
+[header.args]

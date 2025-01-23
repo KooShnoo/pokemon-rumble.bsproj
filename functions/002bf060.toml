@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310428Z
+addr = 0x2bf060
+size = 0x158
+name = "__OSWriteNandbootInfo"
+artifact_type = "Function"
+
+[header]
+name = "__OSWriteNandbootInfo"
+addr = 0x2bf060
+
+[header.args]

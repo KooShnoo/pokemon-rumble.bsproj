@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315618Z
+addr = 0x34f974
+size = 0x24
+name = "TRKResetBuffer"
+artifact_type = "Function"
+
+[header]
+name = "TRKResetBuffer"
+addr = 0x34f974
+
+[header.args]

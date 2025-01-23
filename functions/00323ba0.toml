@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313965Z
+addr = 0x323ba0
+size = 0x74
+name = "btm_sec_pin_code_request_timeout"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_pin_code_request_timeout"
+addr = 0x323ba0
+
+[header.args]

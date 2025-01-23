@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310390Z
+addr = 0x2bea10
+size = 0xb4
+name = "__OSInitNet"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitNet"
+addr = 0x2bea10
+
+[header.args]

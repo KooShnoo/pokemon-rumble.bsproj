@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314777Z
+addr = 0x338b3c
+size = 0x378
+name = "SDP_InitDiscoveryDb"
+artifact_type = "Function"
+
+[header]
+name = "SDP_InitDiscoveryDb"
+addr = 0x338b3c
+
+[header.args]

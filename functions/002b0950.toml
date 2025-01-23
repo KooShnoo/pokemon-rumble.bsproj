@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309772Z
+addr = 0x2b0950
+size = 0x6c
+name = "ArcResourceLink_Set"
+artifact_type = "Function"
+
+[header]
+name = "ArcResourceLink_Set"
+addr = 0x2b0950
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310638Z
+addr = 0x2c23c0
+size = 0x178
+name = "ProbeBarnacle"
+artifact_type = "Function"
+
+[header]
+name = "ProbeBarnacle"
+addr = 0x2c23c0
+
+[header.args]

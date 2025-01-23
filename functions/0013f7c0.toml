@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307019Z
+addr = 0x13f7c0
+size = 0x12c
+name = "GetBattleRoyalClearSec"
+artifact_type = "Function"
+
+[header]
+name = "GetBattleRoyalClearSec"
+addr = 0x13f7c0
+
+[header.args]

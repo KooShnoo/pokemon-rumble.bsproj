@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307024Z
+addr = 0x13fd60
+size = 0x12c
+name = "GetStageClearedNum"
+artifact_type = "Function"
+
+[header]
+name = "GetStageClearedNum"
+addr = 0x13fd60
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309096Z
+addr = 0x277600
+size = 0x11c
+name = "GetReferenceToSubRegion"
+artifact_type = "Function"
+
+[header]
+name = "GetReferenceToSubRegion"
+addr = 0x277600
+
+[header.args]

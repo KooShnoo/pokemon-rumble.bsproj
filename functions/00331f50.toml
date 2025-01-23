@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314537Z
+addr = 0x331f50
+size = 0xb8
+name = "l2cu_find_rcb_by_psm"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_find_rcb_by_psm"
+addr = 0x331f50
+
+[header.args]

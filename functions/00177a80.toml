@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307534Z
+addr = 0x177a80
+size = 0x290
+name = "contentConvertPathToEntrynumDVD"
+artifact_type = "Function"
+
+[header]
+name = "contentConvertPathToEntrynumDVD"
+addr = 0x177a80
+
+[header.args]

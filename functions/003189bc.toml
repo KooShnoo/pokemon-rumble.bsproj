@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313544Z
+addr = 0x3189bc
+size = 0x1f8
+name = "bta_hh_ctrl_dat_act"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_ctrl_dat_act"
+addr = 0x3189bc
+
+[header.args]

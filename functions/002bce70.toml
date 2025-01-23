@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310297Z
+addr = 0x2bce70
+size = 0xec
+name = "OSSleepThread"
+artifact_type = "Function"
+
+[header]
+name = "OSSleepThread"
+addr = 0x2bce70
+
+[header.args]

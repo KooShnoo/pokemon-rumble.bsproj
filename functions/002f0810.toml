@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312442Z
+addr = 0x2f0810
+size = 0xbc
+name = "ARCReadDir"
+artifact_type = "Function"
+
+[header]
+name = "ARCReadDir"
+addr = 0x2f0810
+
+[header.args]

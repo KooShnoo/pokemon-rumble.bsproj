@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314408Z
+addr = 0x32ce44
+size = 0x124
+name = "L2CA_DataWrite"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_DataWrite"
+addr = 0x32ce44
+
+[header.args]

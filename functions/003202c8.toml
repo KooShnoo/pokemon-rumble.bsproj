@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313859Z
+addr = 0x3202c8
+size = 0x234
+name = "btm_pm_snd_md_req"
+artifact_type = "Function"
+
+[header]
+name = "btm_pm_snd_md_req"
+addr = 0x3202c8
+
+[header.args]

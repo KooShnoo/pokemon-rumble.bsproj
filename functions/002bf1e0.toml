@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310437Z
+addr = 0x2bf1e0
+size = 0x1bc
+name = "__OSPlayTimeFadeLastAIDCallback"
+artifact_type = "Function"
+
+[header]
+name = "__OSPlayTimeFadeLastAIDCallback"
+addr = 0x2bf1e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312557Z
+addr = 0x2f37e0
+size = 0xf4
+name = "ISFS_CreateFileAsync"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_CreateFileAsync"
+addr = 0x2f37e0
+
+[header.args]

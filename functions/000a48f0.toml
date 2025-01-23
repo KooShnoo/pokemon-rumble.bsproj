@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306556Z
+addr = 0xa48f0
+size = 0x280
+name = "CEnemyPii_fn_800A48F0"
+artifact_type = "Function"
+
+[header]
+name = "CEnemyPii_fn_800A48F0"
+addr = 0xa48f0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312952Z
+addr = 0x30d360
+size = 0x4c
+name = "WUDRegisterAllocator"
+artifact_type = "Function"
+
+[header]
+name = "WUDRegisterAllocator"
+addr = 0x30d360
+
+[header.args]

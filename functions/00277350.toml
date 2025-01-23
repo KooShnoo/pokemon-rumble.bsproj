@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309091Z
+addr = 0x277350
+size = 0x10c
+name = "GetInstParam"
+artifact_type = "Function"
+
+[header]
+name = "GetInstParam"
+addr = 0x277350
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310957Z
+addr = 0x2cc360
+size = 0x40
+name = "GXSetArray"
+artifact_type = "Function"
+
+[header]
+name = "GXSetArray"
+addr = 0x2cc360
+
+[header.args]

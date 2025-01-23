@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314455Z
+addr = 0x32f540
+size = 0x6c
+name = "l2cap_link_chk_pkt_end"
+artifact_type = "Function"
+
+[header]
+name = "l2cap_link_chk_pkt_end"
+addr = 0x32f540
+
+[header.args]

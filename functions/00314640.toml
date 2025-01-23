@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313278Z
+addr = 0x314640
+size = 0xec
+name = "bta_sys_event"
+artifact_type = "Function"
+
+[header]
+name = "bta_sys_event"
+addr = 0x314640
+
+[header.args]

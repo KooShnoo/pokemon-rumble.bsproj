@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313701Z
+addr = 0x31cd8c
+size = 0xb4
+name = "btm_read_hci_buf_size_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_hci_buf_size_complete"
+addr = 0x31cd8c
+
+[header.args]

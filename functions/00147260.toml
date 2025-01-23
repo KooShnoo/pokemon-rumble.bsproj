@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307167Z
+addr = 0x147260
+size = 0x1d4
+name = "method_BModelObj_lengthPlay"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_lengthPlay"
+addr = 0x147260
+
+[header.args]

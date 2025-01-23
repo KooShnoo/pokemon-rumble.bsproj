@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311530Z
+addr = 0x2d2300
+size = 0x504
+name = "cbForStateGettingError"
+artifact_type = "Function"
+
+[header]
+name = "cbForStateGettingError"
+addr = 0x2d2300
+
+[header.args]

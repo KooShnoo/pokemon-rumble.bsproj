@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312414Z
+addr = 0x2e9c90
+size = 0x84
+name = "SCGetProductGameRegion"
+artifact_type = "Function"
+
+[header]
+name = "SCGetProductGameRegion"
+addr = 0x2e9c90
+
+[header.args]

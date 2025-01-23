@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312297Z
+addr = 0x2e6510
+size = 0x14
+name = "nandIsInitialized"
+artifact_type = "Function"
+
+[header]
+name = "nandIsInitialized"
+addr = 0x2e6510
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315454Z
+addr = 0x34de78
+size = 0xec
+name = "TRKNubMainLoop"
+artifact_type = "Function"
+
+[header]
+name = "TRKNubMainLoop"
+addr = 0x34de78
+
+[header.args]

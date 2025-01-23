@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310233Z
+addr = 0x2bb460
+size = 0x124
+name = "__OSReadROM"
+artifact_type = "Function"
+
+[header]
+name = "__OSReadROM"
+addr = 0x2bb460
+
+[header.args]

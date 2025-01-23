@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314063Z
+addr = 0x326e6c
+size = 0x8c
+name = "btsnd_hcic_add_SCO_conn"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_add_SCO_conn"
+addr = 0x326e6c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314122Z
+addr = 0x327e7c
+size = 0xb0
+name = "btsnd_hcic_switch_role"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_switch_role"
+addr = 0x327e7c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315118Z
+addr = 0x341d5c
+size = 0x408
+name = "ExPPC_ThrowHandler"
+artifact_type = "Function"
+
+[header]
+name = "ExPPC_ThrowHandler"
+addr = 0x341d5c
+
+[header.args]

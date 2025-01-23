@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314257Z
+addr = 0x329380
+size = 0xc8
+name = "hidd_proc_repage_timeout"
+artifact_type = "Function"
+
+[header]
+name = "hidd_proc_repage_timeout"
+addr = 0x329380
+
+[header.args]

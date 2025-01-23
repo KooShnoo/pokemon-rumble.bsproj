@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307340Z
+addr = 0x14f3a0
+size = 0x68
+name = "method_getGenerator"
+artifact_type = "Function"
+
+[header]
+name = "method_getGenerator"
+addr = 0x14f3a0
+
+[header.args]

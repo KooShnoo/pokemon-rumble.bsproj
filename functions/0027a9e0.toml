@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309134Z
+addr = 0x27a9e0
+size = 0x30
+name = "RegisterDisposeCallback"
+artifact_type = "Function"
+
+[header]
+name = "RegisterDisposeCallback"
+addr = 0x27a9e0
+
+[header.args]

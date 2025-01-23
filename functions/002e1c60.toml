@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312140Z
+addr = 0x2e1c60
+size = 0x6c
+name = "List_Remove"
+artifact_type = "Function"
+
+[header]
+name = "List_Remove"
+addr = 0x2e1c60
+
+[header.args]

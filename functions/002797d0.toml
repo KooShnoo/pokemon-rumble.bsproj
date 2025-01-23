@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309118Z
+addr = 0x2797d0
+size = 0x60
+name = "ChannelManager__dt"
+artifact_type = "Function"
+
+[header]
+name = "ChannelManager__dt"
+addr = 0x2797d0
+
+[header.args]

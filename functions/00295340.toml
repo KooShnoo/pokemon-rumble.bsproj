@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309462Z
+addr = 0x295340
+size = 0xcc
+name = "FindGlyphIndex"
+artifact_type = "Function"
+
+[header]
+name = "FindGlyphIndex"
+addr = 0x295340
+
+[header.args]

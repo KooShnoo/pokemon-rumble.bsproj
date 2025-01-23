@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306451Z
+addr = 0x4040
+size = 0x8
+name = "__get_debug_bba"
+artifact_type = "Function"
+
+[header]
+name = "__get_debug_bba"
+addr = 0x4040
+
+[header.args]

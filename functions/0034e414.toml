@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315470Z
+addr = 0x34e414
+size = 0x4
+name = "EnableMetroTRKInterrupts"
+artifact_type = "Function"
+
+[header]
+name = "EnableMetroTRKInterrupts"
+addr = 0x34e414
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311649Z
+addr = 0x2d7340
+size = 0xf0
+name = "DVDCompareDiskID"
+artifact_type = "Function"
+
+[header]
+name = "DVDCompareDiskID"
+addr = 0x2d7340
+
+[header.args]

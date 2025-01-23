@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308334Z
+addr = 0x24e150
+size = 0x5c
+name = "GetResVtxNrm"
+artifact_type = "Function"
+
+[header]
+name = "GetResVtxNrm"
+addr = 0x24e150
+
+[header.args]

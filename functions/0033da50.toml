@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314907Z
+addr = 0x33da50
+size = 0x250
+name = "sdpu_extract_attr_seq"
+artifact_type = "Function"
+
+[header]
+name = "sdpu_extract_attr_seq"
+addr = 0x33da50
+
+[header.args]

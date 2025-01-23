@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307374Z
+addr = 0x156550
+size = 0x174
+name = "method_CPii_request"
+artifact_type = "Function"
+
+[header]
+name = "method_CPii_request"
+addr = 0x156550
+
+[header.args]

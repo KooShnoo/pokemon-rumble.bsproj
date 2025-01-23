@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311211Z
+addr = 0x2ce630
+size = 0x124
+name = "GXGetTexBufferSize"
+artifact_type = "Function"
+
+[header]
+name = "GXGetTexBufferSize"
+addr = 0x2ce630
+
+[header.args]

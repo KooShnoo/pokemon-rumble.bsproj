@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313854Z
+addr = 0x31ff4c
+size = 0x21c
+name = "btm_pm_compare_modes"
+artifact_type = "Function"
+
+[header]
+name = "btm_pm_compare_modes"
+addr = 0x31ff4c
+
+[header.args]

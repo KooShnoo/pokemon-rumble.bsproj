@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306565Z
+addr = 0xc9580
+size = 0x24
+name = "aramGetFirstUserAddress"
+artifact_type = "Function"
+
+[header]
+name = "aramGetFirstUserAddress"
+addr = 0xc9580
+
+[header.args]

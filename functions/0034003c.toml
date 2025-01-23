@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315048Z
+addr = 0x34003c
+size = 0x30
+name = "__ptmf_test"
+artifact_type = "Function"
+
+[header]
+name = "__ptmf_test"
+addr = 0x34003c
+
+[header.args]

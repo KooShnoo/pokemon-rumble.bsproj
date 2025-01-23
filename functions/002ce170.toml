@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311161Z
+addr = 0x2ce170
+size = 0x10
+name = "GXInitLightPos"
+artifact_type = "Function"
+
+[header]
+name = "GXInitLightPos"
+addr = 0x2ce170
+
+[header.args]

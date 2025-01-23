@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314465Z
+addr = 0x32f774
+size = 0x44
+name = "l2c_pin_code_request"
+artifact_type = "Function"
+
+[header]
+name = "l2c_pin_code_request"
+addr = 0x32f774
+
+[header.args]

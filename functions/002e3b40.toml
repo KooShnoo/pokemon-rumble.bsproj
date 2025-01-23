@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312212Z
+addr = 0x2e3b40
+size = 0xc0
+name = "DSPInit"
+artifact_type = "Function"
+
+[header]
+name = "DSPInit"
+addr = 0x2e3b40
+
+[header.args]

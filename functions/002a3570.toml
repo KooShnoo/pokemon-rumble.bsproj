@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309569Z
+addr = 0x2a3570
+size = 0x60
+name = "CosFIdx"
+artifact_type = "Function"
+
+[header]
+name = "CosFIdx"
+addr = 0x2a3570
+
+[header.args]

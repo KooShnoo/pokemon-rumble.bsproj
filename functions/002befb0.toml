@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310423Z
+addr = 0x2befb0
+size = 0xb0
+name = "__OSCreateNandbootInfo"
+artifact_type = "Function"
+
+[header]
+name = "__OSCreateNandbootInfo"
+addr = 0x2befb0
+
+[header.args]

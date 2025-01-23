@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315621Z
+addr = 0x34f99c
+size = 0x30
+name = "TRK_SetBufferPosition"
+artifact_type = "Function"
+
+[header]
+name = "TRK_SetBufferPosition"
+addr = 0x34f99c
+
+[header.args]

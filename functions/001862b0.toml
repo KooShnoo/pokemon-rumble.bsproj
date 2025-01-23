@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307702Z
+addr = 0x1862b0
+size = 0x84
+name = "set_text"
+artifact_type = "Function"
+
+[header]
+name = "set_text"
+addr = 0x1862b0
+
+[header.args]

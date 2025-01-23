@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311189Z
+addr = 0x2ce310
+size = 0x80
+name = "GXLoadLightObjImm"
+artifact_type = "Function"
+
+[header]
+name = "GXLoadLightObjImm"
+addr = 0x2ce310
+
+[header.args]

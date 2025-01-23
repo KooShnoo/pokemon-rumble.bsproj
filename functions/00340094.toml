@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315053Z
+addr = 0x340094
+size = 0x25c
+name = "__dynamic_cast"
+artifact_type = "Function"
+
+[header]
+name = "__dynamic_cast"
+addr = 0x340094
+
+[header.args]

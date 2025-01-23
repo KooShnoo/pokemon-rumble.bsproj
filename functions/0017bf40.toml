@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307642Z
+addr = 0x17bf40
+size = 0x120
+name = "SetVolumeAllSeq"
+artifact_type = "Function"
+
+[header]
+name = "SetVolumeAllSeq"
+addr = 0x17bf40
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306547Z
+addr = 0xa3180
+size = 0x94
+name = "AllocEmitter"
+artifact_type = "Function"
+
+[header]
+name = "AllocEmitter"
+addr = 0xa3180
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309870Z
+addr = 0x2b1b40
+size = 0x6c
+name = "__OSGetIOSRev"
+artifact_type = "Function"
+
+[header]
+name = "__OSGetIOSRev"
+addr = 0x2b1b40
+
+[header.args]

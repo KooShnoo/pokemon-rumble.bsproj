@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315690Z
+addr = 0x351290
+size = 0xcc
+name = "TRK_ppc_memcpy"
+artifact_type = "Function"
+
+[header]
+name = "TRK_ppc_memcpy"
+addr = 0x351290
+
+[header.args]

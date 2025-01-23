@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308149Z
+addr = 0x24af90
+size = 0x40
+name = "ResWriteXFCmd"
+artifact_type = "Function"
+
+[header]
+name = "ResWriteXFCmd"
+addr = 0x24af90
+
+[header.args]

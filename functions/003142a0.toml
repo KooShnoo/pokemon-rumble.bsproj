@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313232Z
+addr = 0x3142a0
+size = 0x14
+name = "btu_stop_timer"
+artifact_type = "Function"
+
+[header]
+name = "btu_stop_timer"
+addr = 0x3142a0
+
+[header.args]

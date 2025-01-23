@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308910Z
+addr = 0x26b3e0
+size = 0x34c
+name = "ScnMdlSmpl_G3DPROC_CALC_VIEW"
+artifact_type = "Function"
+
+[header]
+name = "ScnMdlSmpl_G3DPROC_CALC_VIEW"
+addr = 0x26b3e0
+
+[header.args]

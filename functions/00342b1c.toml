@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315138Z
+addr = 0x342b1c
+size = 0x208
+name = "allocate_from_fixed_pools"
+artifact_type = "Function"
+
+[header]
+name = "allocate_from_fixed_pools"
+addr = 0x342b1c
+
+[header.args]

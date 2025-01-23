@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314582Z
+addr = 0x332f80
+size = 0x118
+name = "PORT_PortNegCnf"
+artifact_type = "Function"
+
+[header]
+name = "PORT_PortNegCnf"
+addr = 0x332f80
+
+[header.args]

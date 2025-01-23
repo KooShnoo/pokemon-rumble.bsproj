@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314772Z
+addr = 0x338a9c
+size = 0x3c
+name = "rfc_dec_credit"
+artifact_type = "Function"
+
+[header]
+name = "rfc_dec_credit"
+addr = 0x338a9c
+
+[header.args]

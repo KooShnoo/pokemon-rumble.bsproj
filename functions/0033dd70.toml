@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314912Z
+addr = 0x33dd70
+size = 0xe0
+name = "sdpu_is_base_uuid"
+artifact_type = "Function"
+
+[header]
+name = "sdpu_is_base_uuid"
+addr = 0x33dd70
+
+[header.args]

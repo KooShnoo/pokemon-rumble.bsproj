@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307141Z
+addr = 0x145bc0
+size = 0xc0
+name = "RandInt"
+artifact_type = "Function"
+
+[header]
+name = "RandInt"
+addr = 0x145bc0
+
+[header.args]

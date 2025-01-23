@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313797Z
+addr = 0x31e91c
+size = 0xe8
+name = "BTM_ReadRemoteDeviceName"
+artifact_type = "Function"
+
+[header]
+name = "BTM_ReadRemoteDeviceName"
+addr = 0x31e91c
+
+[header.args]

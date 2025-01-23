@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307957Z
+addr = 0x2290a0
+size = 0x12b8
+name = "AnimCurveExecuteU8"
+artifact_type = "Function"
+
+[header]
+name = "AnimCurveExecuteU8"
+addr = 0x2290a0
+
+[header.args]

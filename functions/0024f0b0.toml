@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308393Z
+addr = 0x24f0b0
+size = 0x20
+name = "GetParent"
+artifact_type = "Function"
+
+[header]
+name = "GetParent"
+addr = 0x24f0b0
+
+[header.args]

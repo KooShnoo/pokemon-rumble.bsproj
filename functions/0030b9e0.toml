@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312931Z
+addr = 0x30b9e0
+size = 0x350
+name = "__wudDeleteHandler"
+artifact_type = "Function"
+
+[header]
+name = "__wudDeleteHandler"
+addr = 0x30b9e0
+
+[header.args]

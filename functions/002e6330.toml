@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312289Z
+addr = 0x2e6330
+size = 0x13c
+name = "nandConvertPath"
+artifact_type = "Function"
+
+[header]
+name = "nandConvertPath"
+addr = 0x2e6330
+
+[header.args]

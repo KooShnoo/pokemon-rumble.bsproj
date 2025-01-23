@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315226Z
+addr = 0x3457f0
+size = 0xa8
+name = "__copy_longs_rev_aligned"
+artifact_type = "Function"
+
+[header]
+name = "__copy_longs_rev_aligned"
+addr = 0x3457f0
+
+[header.args]

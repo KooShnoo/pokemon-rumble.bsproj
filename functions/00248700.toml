@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308135Z
+addr = 0x248700
+size = 0x3a8
+name = "DrawSmoothStripeTube_BSpline_ConnectRing"
+artifact_type = "Function"
+
+[header]
+name = "DrawSmoothStripeTube_BSpline_ConnectRing"
+addr = 0x248700
+
+[header.args]

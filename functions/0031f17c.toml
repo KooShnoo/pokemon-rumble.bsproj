@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313820Z
+addr = 0x31f17c
+size = 0xe4
+name = "btm_set_inq_event_filter"
+artifact_type = "Function"
+
+[header]
+name = "btm_set_inq_event_filter"
+addr = 0x31f17c
+
+[header.args]

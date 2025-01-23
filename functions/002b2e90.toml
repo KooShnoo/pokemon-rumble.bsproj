@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309899Z
+addr = 0x2b2e90
+size = 0x10
+name = "OSRegisterVersion"
+artifact_type = "Function"
+
+[header]
+name = "OSRegisterVersion"
+addr = 0x2b2e90
+
+[header.args]

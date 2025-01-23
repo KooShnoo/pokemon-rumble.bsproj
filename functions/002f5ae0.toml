@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312647Z
+addr = 0x2f5ae0
+size = 0x108
+name = "PADReset"
+artifact_type = "Function"
+
+[header]
+name = "PADReset"
+addr = 0x2f5ae0
+
+[header.args]

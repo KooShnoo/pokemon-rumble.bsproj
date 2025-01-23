@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306571Z
+addr = 0xdcbe0
+size = 0x1a0
+name = "CPii_fn_800DCBE0"
+artifact_type = "Function"
+
+[header]
+name = "CPii_fn_800DCBE0"
+addr = 0xdcbe0
+
+[header.args]

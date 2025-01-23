@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310944Z
+addr = 0x2cbd10
+size = 0x1a0
+name = "GXSetVtxAttrFmtv"
+artifact_type = "Function"
+
+[header]
+name = "GXSetVtxAttrFmtv"
+addr = 0x2cbd10
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312926Z
+addr = 0x30b730
+size = 0x98
+name = "WUDiTerminateDevice"
+artifact_type = "Function"
+
+[header]
+name = "WUDiTerminateDevice"
+addr = 0x30b730
+
+[header.args]

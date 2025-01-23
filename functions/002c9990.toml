@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310861Z
+addr = 0x2c9990
+size = 0x44
+name = "PSVECMag"
+artifact_type = "Function"
+
+[header]
+name = "PSVECMag"
+addr = 0x2c9990
+
+[header.args]

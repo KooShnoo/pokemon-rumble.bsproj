@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314302Z
+addr = 0x329d20
+size = 0x7c
+name = "HID_HostRegister"
+artifact_type = "Function"
+
+[header]
+name = "HID_HostRegister"
+addr = 0x329d20
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309924Z
+addr = 0x2b38c0
+size = 0xf8
+name = "OSAllocFromHeap"
+artifact_type = "Function"
+
+[header]
+name = "OSAllocFromHeap"
+addr = 0x2b38c0
+
+[header.args]

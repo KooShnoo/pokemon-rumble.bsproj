@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312680Z
+addr = 0x2f7d20
+size = 0x9dc
+name = "__wpadManageHandler"
+artifact_type = "Function"
+
+[header]
+name = "__wpadManageHandler"
+addr = 0x2f7d20
+
+[header.args]

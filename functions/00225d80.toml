@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307916Z
+addr = 0x225d80
+size = 0x88
+name = "RetireEmitter"
+artifact_type = "Function"
+
+[header]
+name = "RetireEmitter"
+addr = 0x225d80
+
+[header.args]

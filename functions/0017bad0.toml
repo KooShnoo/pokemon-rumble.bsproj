@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307632Z
+addr = 0x17bad0
+size = 0x1f4
+name = "InitAxSound"
+artifact_type = "Function"
+
+[header]
+name = "InitAxSound"
+addr = 0x17bad0
+
+[header.args]

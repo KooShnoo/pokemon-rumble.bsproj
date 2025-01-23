@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310289Z
+addr = 0x2bc8f0
+size = 0x140
+name = "OSJoinThread"
+artifact_type = "Function"
+
+[header]
+name = "OSJoinThread"
+addr = 0x2bc8f0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308950Z
+addr = 0x270990
+size = 0xf0
+name = "G3D_init"
+artifact_type = "Function"
+
+[header]
+name = "G3D_init"
+addr = 0x270990
+
+[header.args]

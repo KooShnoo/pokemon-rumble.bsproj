@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314405Z
+addr = 0x32cda0
+size = 0xa4
+name = "L2CA_DisconnectRsp"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_DisconnectRsp"
+addr = 0x32cda0
+
+[header.args]

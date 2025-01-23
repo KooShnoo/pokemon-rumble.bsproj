@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307469Z
+addr = 0x15c2e0
+size = 0xd8
+name = "method_setOyaID"
+artifact_type = "Function"
+
+[header]
+name = "method_setOyaID"
+addr = 0x15c2e0
+
+[header.args]

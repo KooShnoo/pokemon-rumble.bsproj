@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307471Z
+addr = 0x15c480
+size = 0xd8
+name = "method_setRnd"
+artifact_type = "Function"
+
+[header]
+name = "method_setRnd"
+addr = 0x15c480
+
+[header.args]

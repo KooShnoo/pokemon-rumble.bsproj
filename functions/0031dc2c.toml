@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313752Z
+addr = 0x31dc2c
+size = 0x7c
+name = "btm_read_stored_link_key_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_stored_link_key_complete"
+addr = 0x31dc2c
+
+[header.args]

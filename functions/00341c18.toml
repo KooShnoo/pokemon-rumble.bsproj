@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315113Z
+addr = 0x341c18
+size = 0x40
+name = "~bad_exception"
+artifact_type = "Function"
+
+[header]
+name = "~bad_exception"
+addr = 0x341c18
+
+[header.args]

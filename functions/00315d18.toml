@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313421Z
+addr = 0x315d18
+size = 0x90
+name = "bta_dm_inq_results_cb"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_inq_results_cb"
+addr = 0x315d18
+
+[header.args]

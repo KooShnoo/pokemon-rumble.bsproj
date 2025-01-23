@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309970Z
+addr = 0x2b4040
+size = 0x2c
+name = "DCInvalidateRange"
+artifact_type = "Function"
+
+[header]
+name = "DCInvalidateRange"
+addr = 0x2b4040
+
+[header.args]

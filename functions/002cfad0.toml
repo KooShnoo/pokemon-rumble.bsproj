@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311324Z
+addr = 0x2cfad0
+size = 0x48
+name = "GXSetTevDirect"
+artifact_type = "Function"
+
+[header]
+name = "GXSetTevDirect"
+addr = 0x2cfad0
+
+[header.args]

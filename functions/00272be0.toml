@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308997Z
+addr = 0x272be0
+size = 0x1f0
+name = "AppendEffect"
+artifact_type = "Function"
+
+[header]
+name = "AppendEffect"
+addr = 0x272be0
+
+[header.args]

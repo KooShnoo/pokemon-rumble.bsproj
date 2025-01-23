@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307975Z
+addr = 0x22e280
+size = 0x104
+name = "GetTypePositionCircle"
+artifact_type = "Function"
+
+[header]
+name = "GetTypePositionCircle"
+addr = 0x22e280
+
+[header.args]

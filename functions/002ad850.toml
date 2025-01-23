@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309730Z
+addr = 0x2ad850
+size = 0xc4
+name = "SetIndStageNum"
+artifact_type = "Function"
+
+[header]
+name = "SetIndStageNum"
+addr = 0x2ad850
+
+[header.args]

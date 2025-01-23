@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309395Z
+addr = 0x292f20
+size = 0x20
+name = "List_GetNext"
+artifact_type = "Function"
+
+[header]
+name = "List_GetNext"
+addr = 0x292f20
+
+[header.args]

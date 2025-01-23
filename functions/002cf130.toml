@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311280Z
+addr = 0x2cf130
+size = 0x20
+name = "GXInitTlutRegion"
+artifact_type = "Function"
+
+[header]
+name = "GXInitTlutRegion"
+addr = 0x2cf130
+
+[header.args]

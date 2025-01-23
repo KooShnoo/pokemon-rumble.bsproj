@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309400Z
+addr = 0x292f60
+size = 0x84
+name = "LinkListImpl_destroy"
+artifact_type = "Function"
+
+[header]
+name = "LinkListImpl_destroy"
+addr = 0x292f60
+
+[header.args]

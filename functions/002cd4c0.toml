@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311088Z
+addr = 0x2cd4c0
+size = 0x24
+name = "GXSetDispCopyDst"
+artifact_type = "Function"
+
+[header]
+name = "GXSetDispCopyDst"
+addr = 0x2cd4c0
+
+[header.args]

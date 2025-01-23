@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307434Z
+addr = 0x15a840
+size = 0xd8
+name = "method_setLevel"
+artifact_type = "Function"
+
+[header]
+name = "method_setLevel"
+addr = 0x15a840
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311482Z
+addr = 0x2d0f60
+size = 0x28
+name = "GXSetClipMode"
+artifact_type = "Function"
+
+[header]
+name = "GXSetClipMode"
+addr = 0x2d0f60
+
+[header.args]

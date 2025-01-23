@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308042Z
+addr = 0x236190
+size = 0xa8
+name = "MTX34ScaleInv"
+artifact_type = "Function"
+
+[header]
+name = "MTX34ScaleInv"
+addr = 0x236190
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309554Z
+addr = 0x2a2d80
+size = 0x120
+name = "Registf"
+artifact_type = "Function"
+
+[header]
+name = "Registf"
+addr = 0x2a2d80
+
+[header.args]

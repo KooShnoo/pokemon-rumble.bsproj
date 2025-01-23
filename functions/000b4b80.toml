@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306559Z
+addr = 0xb4b80
+size = 0xc
+name = "JPACalcScaleAnmNormal"
+artifact_type = "Function"
+
+[header]
+name = "JPACalcScaleAnmNormal"
+addr = 0xb4b80
+
+[header.args]

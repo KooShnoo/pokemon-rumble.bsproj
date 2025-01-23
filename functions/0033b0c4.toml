@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314844Z
+addr = 0x33b0c4
+size = 0x1ec
+name = "save_attr_seq"
+artifact_type = "Function"
+
+[header]
+name = "save_attr_seq"
+addr = 0x33b0c4
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312852Z
+addr = 0x3054e0
+size = 0x228
+name = "select_2obj_continue"
+artifact_type = "Function"
+
+[header]
+name = "select_2obj_continue"
+addr = 0x3054e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315004Z
+addr = 0x33f4d0
+size = 0xbc
+name = "__DBEXIInit"
+artifact_type = "Function"
+
+[header]
+name = "__DBEXIInit"
+addr = 0x33f4d0
+
+[header.args]

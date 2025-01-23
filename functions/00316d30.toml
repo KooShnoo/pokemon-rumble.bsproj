@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313467Z
+addr = 0x316d30
+size = 0x50
+name = "bta_dm_send_hci_reset"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_send_hci_reset"
+addr = 0x316d30
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315050Z
+addr = 0x34006c
+size = 0x28
+name = "__ptmf_scall"
+artifact_type = "Function"
+
+[header]
+name = "__ptmf_scall"
+addr = 0x34006c
+
+[header.args]

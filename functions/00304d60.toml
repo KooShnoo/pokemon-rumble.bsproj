@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312845Z
+addr = 0x304d60
+size = 0x124
+name = "calc_acc_vertical"
+artifact_type = "Function"
+
+[header]
+name = "calc_acc_vertical"
+addr = 0x304d60
+
+[header.args]

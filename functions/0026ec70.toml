@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308930Z
+addr = 0x26ec70
+size = 0x39c
+name = "InitBuffer"
+artifact_type = "Function"
+
+[header]
+name = "InitBuffer"
+addr = 0x26ec70
+
+[header.args]

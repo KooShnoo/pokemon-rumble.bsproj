@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315667Z
+addr = 0x350b30
+size = 0xc4
+name = "TRKDoContinue"
+artifact_type = "Function"
+
+[header]
+name = "TRKDoContinue"
+addr = 0x350b30
+
+[header.args]

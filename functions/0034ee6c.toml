@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315581Z
+addr = 0x34ee6c
+size = 0x1c
+name = "TRK_strlen"
+artifact_type = "Function"
+
+[header]
+name = "TRK_strlen"
+addr = 0x34ee6c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315279Z
+addr = 0x347840
+size = 0xc4
+name = "atoi"
+artifact_type = "Function"
+
+[header]
+name = "atoi"
+addr = 0x347840
+
+[header.args]

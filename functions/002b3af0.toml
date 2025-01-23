@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309954Z
+addr = 0x2b3af0
+size = 0x8
+name = "OSSetArenaLo"
+artifact_type = "Function"
+
+[header]
+name = "OSSetArenaLo"
+addr = 0x2b3af0
+
+[header.args]

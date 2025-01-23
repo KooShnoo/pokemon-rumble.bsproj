@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309765Z
+addr = 0x2b06e0
+size = 0xcc
+name = "FindNameResource"
+artifact_type = "Function"
+
+[header]
+name = "FindNameResource"
+addr = 0x2b06e0
+
+[header.args]

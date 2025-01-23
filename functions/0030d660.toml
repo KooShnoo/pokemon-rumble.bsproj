@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312962Z
+addr = 0x30d660
+size = 0x6c
+name = "WUDSetSniffMode"
+artifact_type = "Function"
+
+[header]
+name = "WUDSetSniffMode"
+addr = 0x30d660
+
+[header.args]

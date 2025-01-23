@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314734Z
+addr = 0x3377c4
+size = 0x574
+name = "rfc_parse_data"
+artifact_type = "Function"
+
+[header]
+name = "rfc_parse_data"
+addr = 0x3377c4
+
+[header.args]

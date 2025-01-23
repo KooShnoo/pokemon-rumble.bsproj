@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307905Z
+addr = 0x21db30
+size = 0xd0
+name = "ks_VFInit"
+artifact_type = "Function"
+
+[header]
+name = "ks_VFInit"
+addr = 0x21db30
+
+[header.args]

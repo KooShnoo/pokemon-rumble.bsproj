@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307186Z
+addr = 0x147f30
+size = 0xd4
+name = "method_BModelObj_getMotionLength"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_getMotionLength"
+addr = 0x147f30
+
+[header.args]

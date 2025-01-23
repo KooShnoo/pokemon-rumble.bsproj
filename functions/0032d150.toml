@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314419Z
+addr = 0x32d150
+size = 0x1334
+name = "l2c_csm_execute"
+artifact_type = "Function"
+
+[header]
+name = "l2c_csm_execute"
+addr = 0x32d150
+
+[header.args]

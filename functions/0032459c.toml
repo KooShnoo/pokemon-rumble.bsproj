@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313981Z
+addr = 0x32459c
+size = 0x34
+name = "btm_read_trusted_mask"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_trusted_mask"
+addr = 0x32459c
+
+[header.args]

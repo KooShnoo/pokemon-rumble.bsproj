@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308943Z
+addr = 0x26fbb0
+size = 0x3f0
+name = "DrawLoop"
+artifact_type = "Function"
+
+[header]
+name = "DrawLoop"
+addr = 0x26fbb0
+
+[header.args]

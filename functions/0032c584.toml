@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314387Z
+addr = 0x32c584
+size = 0x19c
+name = "L2CA_Register"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_Register"
+addr = 0x32c584
+
+[header.args]

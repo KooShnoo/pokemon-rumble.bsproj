@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315170Z
+addr = 0x34401c
+size = 0x164
+name = "__num2dec_internal"
+artifact_type = "Function"
+
+[header]
+name = "__num2dec_internal"
+addr = 0x34401c
+
+[header.args]

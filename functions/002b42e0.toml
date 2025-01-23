@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309997Z
+addr = 0x2b42e0
+size = 0x28
+name = "LCDisable"
+artifact_type = "Function"
+
+[header]
+name = "LCDisable"
+addr = 0x2b42e0
+
+[header.args]

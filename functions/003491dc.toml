@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315294Z
+addr = 0x3491dc
+size = 0x28
+name = "wmemchr"
+artifact_type = "Function"
+
+[header]
+name = "wmemchr"
+addr = 0x3491dc
+
+[header.args]

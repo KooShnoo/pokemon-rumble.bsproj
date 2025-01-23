@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309532Z
+addr = 0x29a170
+size = 0x370
+name = "SetupGXWithColorMapping"
+artifact_type = "Function"
+
+[header]
+name = "SetupGXWithColorMapping"
+addr = 0x29a170
+
+[header.args]

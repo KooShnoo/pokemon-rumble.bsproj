@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307528Z
+addr = 0x1777f4
+size = 0xf0
+name = "LockRight"
+artifact_type = "Function"
+
+[header]
+name = "LockRight"
+addr = 0x1777f4
+
+[header.args]

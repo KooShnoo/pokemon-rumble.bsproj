@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312178Z
+addr = 0x2e2560
+size = 0x220
+name = "CXSecureUncompressLZ"
+artifact_type = "Function"
+
+[header]
+name = "CXSecureUncompressLZ"
+addr = 0x2e2560
+
+[header.args]

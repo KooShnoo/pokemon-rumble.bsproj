@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311834Z
+addr = 0x2dd850
+size = 0x24
+name = "AXFXReverbHiShutdown"
+artifact_type = "Function"
+
+[header]
+name = "AXFXReverbHiShutdown"
+addr = 0x2dd850
+
+[header.args]

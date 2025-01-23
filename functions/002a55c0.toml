@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309616Z
+addr = 0x2a55c0
+size = 0x8c
+name = "Pane_Animate"
+artifact_type = "Function"
+
+[header]
+name = "Pane_Animate"
+addr = 0x2a55c0
+
+[header.args]

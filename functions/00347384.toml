@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315274Z
+addr = 0x347384
+size = 0x414
+name = "__strtoul"
+artifact_type = "Function"
+
+[header]
+name = "__strtoul"
+addr = 0x347384
+
+[header.args]

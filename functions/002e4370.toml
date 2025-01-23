@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312225Z
+addr = 0x2e4370
+size = 0x18c
+name = "__DSP_boot_task"
+artifact_type = "Function"
+
+[header]
+name = "__DSP_boot_task"
+addr = 0x2e4370
+
+[header.args]

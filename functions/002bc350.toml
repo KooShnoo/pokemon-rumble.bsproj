@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310275Z
+addr = 0x2bc350
+size = 0x14
+name = "__OSReschedule"
+artifact_type = "Function"
+
+[header]
+name = "__OSReschedule"
+addr = 0x2bc350
+
+[header.args]

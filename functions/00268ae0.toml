@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308859Z
+addr = 0x268ae0
+size = 0x118
+name = "ScnGroup_G3DPROC_GATHER_SCNOBJ"
+artifact_type = "Function"
+
+[header]
+name = "ScnGroup_G3DPROC_GATHER_SCNOBJ"
+addr = 0x268ae0
+
+[header.args]

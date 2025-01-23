@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309916Z
+addr = 0x2b3310
+size = 0x118
+name = "OSCancelAlarm"
+artifact_type = "Function"
+
+[header]
+name = "OSCancelAlarm"
+addr = 0x2b3310
+
+[header.args]

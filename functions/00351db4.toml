@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315710Z
+addr = 0x351db4
+size = 0x5c
+name = "TRKTargetInterrupt"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetInterrupt"
+addr = 0x351db4
+
+[header.args]

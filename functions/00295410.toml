@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309465Z
+addr = 0x295410
+size = 0x50
+name = "GetCharWidthsFromIndex"
+artifact_type = "Function"
+
+[header]
+name = "GetCharWidthsFromIndex"
+addr = 0x295410
+
+[header.args]

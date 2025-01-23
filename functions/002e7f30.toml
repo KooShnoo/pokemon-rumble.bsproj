@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312349Z
+addr = 0x2e7f30
+size = 0xd0
+name = "OpenCallbackFromReload"
+artifact_type = "Function"
+
+[header]
+name = "OpenCallbackFromReload"
+addr = 0x2e7f30
+
+[header.args]

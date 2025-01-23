@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314997Z
+addr = 0x33f050
+size = 0x80
+name = "DBRead"
+artifact_type = "Function"
+
+[header]
+name = "DBRead"
+addr = 0x33f050
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307662Z
+addr = 0x17d3f0
+size = 0x168
+name = "set_config"
+artifact_type = "Function"
+
+[header]
+name = "set_config"
+addr = 0x17d3f0
+
+[header.args]

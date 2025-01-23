@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312959Z
+addr = 0x30d610
+size = 0x48
+name = "WUDGetBufferStatus"
+artifact_type = "Function"
+
+[header]
+name = "WUDGetBufferStatus"
+addr = 0x30d610
+
+[header.args]

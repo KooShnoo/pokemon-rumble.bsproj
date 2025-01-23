@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309782Z
+addr = 0x2b0c60
+size = 0x2c
+name = "EqualsMaterialName"
+artifact_type = "Function"
+
+[header]
+name = "EqualsMaterialName"
+addr = 0x2b0c60
+
+[header.args]

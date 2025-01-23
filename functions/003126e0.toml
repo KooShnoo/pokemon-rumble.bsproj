@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313100Z
+addr = 0x3126e0
+size = 0x2c
+name = "GKI_os_malloc"
+artifact_type = "Function"
+
+[header]
+name = "GKI_os_malloc"
+addr = 0x3126e0
+
+[header.args]

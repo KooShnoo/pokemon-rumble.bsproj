@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314045Z
+addr = 0x326520
+size = 0x1d8
+name = "btm_cback"
+artifact_type = "Function"
+
+[header]
+name = "btm_cback"
+addr = 0x326520
+
+[header.args]

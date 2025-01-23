@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307403Z
+addr = 0x159120
+size = 0xa8
+name = "method_pprGetCollectionType"
+artifact_type = "Function"
+
+[header]
+name = "method_pprGetCollectionType"
+addr = 0x159120
+
+[header.args]

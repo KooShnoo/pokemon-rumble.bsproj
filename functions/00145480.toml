@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307120Z
+addr = 0x145480
+size = 0x12c
+name = "method_BWorldLightSet_mpGetCurrentFrame"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldLightSet_mpGetCurrentFrame"
+addr = 0x145480
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312685Z
+addr = 0x2f89a0
+size = 0x25c
+name = "__wpadInitSub"
+artifact_type = "Function"
+
+[header]
+name = "__wpadInitSub"
+addr = 0x2f89a0
+
+[header.args]

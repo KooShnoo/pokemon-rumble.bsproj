@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309825Z
+addr = 0x2b1870
+size = 0x8
+name = "PPCSync"
+artifact_type = "Function"
+
+[header]
+name = "PPCSync"
+addr = 0x2b1870
+
+[header.args]

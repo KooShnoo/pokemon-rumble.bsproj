@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313938Z
+addr = 0x3228f4
+size = 0xb4
+name = "btm_sec_abort_access_req"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_abort_access_req"
+addr = 0x3228f4
+
+[header.args]

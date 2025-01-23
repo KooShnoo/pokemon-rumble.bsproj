@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314132Z
+addr = 0x3281d8
+size = 0x74
+name = "btsnd_hcic_write_pin_type"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_pin_type"
+addr = 0x3281d8
+
+[header.args]

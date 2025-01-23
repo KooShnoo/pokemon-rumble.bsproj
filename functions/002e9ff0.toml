@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312420Z
+addr = 0x2e9ff0
+size = 0x38
+name = "NWC24iRegister"
+artifact_type = "Function"
+
+[header]
+name = "NWC24iRegister"
+addr = 0x2e9ff0
+
+[header.args]

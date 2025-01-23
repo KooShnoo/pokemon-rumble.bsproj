@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308928Z
+addr = 0x26e1c0
+size = 0x57c
+name = "ScnMdl_G3DPROC_CALC_MAT"
+artifact_type = "Function"
+
+[header]
+name = "ScnMdl_G3DPROC_CALC_MAT"
+addr = 0x26e1c0
+
+[header.args]

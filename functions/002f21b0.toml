@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312513Z
+addr = 0x2f21b0
+size = 0x108
+name = "IOS_Write"
+artifact_type = "Function"
+
+[header]
+name = "IOS_Write"
+addr = 0x2f21b0
+
+[header.args]

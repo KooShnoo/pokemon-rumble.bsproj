@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315125Z
+addr = 0x3424e4
+size = 0x150
+name = "Block_link"
+artifact_type = "Function"
+
+[header]
+name = "Block_link"
+addr = 0x3424e4
+
+[header.args]

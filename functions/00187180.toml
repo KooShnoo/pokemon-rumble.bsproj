@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307707Z
+addr = 0x187180
+size = 0x7c
+name = "ArcResourceAccessor_Attach"
+artifact_type = "Function"
+
+[header]
+name = "ArcResourceAccessor_Attach"
+addr = 0x187180
+
+[header.args]

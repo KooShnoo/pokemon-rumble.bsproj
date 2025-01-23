@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312228Z
+addr = 0x2e4500
+size = 0x98
+name = "__DSP_insert_task"
+artifact_type = "Function"
+
+[header]
+name = "__DSP_insert_task"
+addr = 0x2e4500
+
+[header.args]

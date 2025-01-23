@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313236Z
+addr = 0x3142b4
+size = 0x34
+name = "bdcpy"
+artifact_type = "Function"
+
+[header]
+name = "bdcpy"
+addr = 0x3142b4
+
+[header.args]

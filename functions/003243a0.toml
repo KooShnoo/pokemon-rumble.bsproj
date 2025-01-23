@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313975Z
+addr = 0x3243a0
+size = 0x11c
+name = "btm_sec_start_authorization"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_start_authorization"
+addr = 0x3243a0
+
+[header.args]

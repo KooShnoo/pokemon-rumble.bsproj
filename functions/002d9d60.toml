@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311709Z
+addr = 0x2d9d60
+size = 0x168
+name = "DVDLowEnableDvdVideo"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowEnableDvdVideo"
+addr = 0x2d9d60
+
+[header.args]

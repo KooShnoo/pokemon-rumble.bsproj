@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312308Z
+addr = 0x2e68a0
+size = 0xcc
+name = "nandOnShutdown"
+artifact_type = "Function"
+
+[header]
+name = "nandOnShutdown"
+addr = 0x2e68a0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309777Z
+addr = 0x2b0b70
+size = 0x34
+name = "MultiArcResourceAccessor_RegistFont"
+artifact_type = "Function"
+
+[header]
+name = "MultiArcResourceAccessor_RegistFont"
+addr = 0x2b0b70
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314946Z
+addr = 0x33e990
+size = 0x204
+name = "GDSetTexCached"
+artifact_type = "Function"
+
+[header]
+name = "GDSetTexCached"
+addr = 0x33e990
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312998Z
+addr = 0x30ef20
+size = 0x198
+name = "WUDiMoveTopOfUnusedStdDevice"
+artifact_type = "Function"
+
+[header]
+name = "WUDiMoveTopOfUnusedStdDevice"
+addr = 0x30ef20
+
+[header.args]

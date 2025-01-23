@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308591Z
+addr = 0x2512d0
+size = 0x168
+name = "CalcChrAnmResult"
+artifact_type = "Function"
+
+[header]
+name = "CalcChrAnmResult"
+addr = 0x2512d0
+
+[header.args]

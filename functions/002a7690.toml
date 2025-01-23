@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309651Z
+addr = 0x2a7690
+size = 0x288
+name = "TextBox"
+artifact_type = "Function"
+
+[header]
+name = "TextBox"
+addr = 0x2a7690
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310920Z
+addr = 0x2cafd0
+size = 0x1e0
+name = "GXSetCPUFifo"
+artifact_type = "Function"
+
+[header]
+name = "GXSetCPUFifo"
+addr = 0x2cafd0
+
+[header.args]

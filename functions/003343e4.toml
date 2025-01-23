@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314628Z
+addr = 0x3343e4
+size = 0x108
+name = "RFCOMM_ConfigInd"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_ConfigInd"
+addr = 0x3343e4
+
+[header.args]

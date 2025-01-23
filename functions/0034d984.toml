@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315424Z
+addr = 0x34d984
+size = 0xb4
+name = "gdev_cc_read"
+artifact_type = "Function"
+
+[header]
+name = "gdev_cc_read"
+addr = 0x34d984
+
+[header.args]

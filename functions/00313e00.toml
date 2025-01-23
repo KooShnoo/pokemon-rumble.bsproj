@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313214Z
+addr = 0x313e00
+size = 0x34
+name = "BTA_CleanUp"
+artifact_type = "Function"
+
+[header]
+name = "BTA_CleanUp"
+addr = 0x313e00
+
+[header.args]

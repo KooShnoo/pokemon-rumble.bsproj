@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312447Z
+addr = 0x2f0940
+size = 0x48
+name = "ESP_CloseLib"
+artifact_type = "Function"
+
+[header]
+name = "ESP_CloseLib"
+addr = 0x2f0940
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313381Z
+addr = 0x314f50
+size = 0x84
+name = "bta_dm_search_cancel"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_search_cancel"
+addr = 0x314f50
+
+[header.args]

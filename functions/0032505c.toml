@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313999Z
+addr = 0x32505c
+size = 0x154
+name = "btu_hcif_hdl_command_complete"
+artifact_type = "Function"
+
+[header]
+name = "btu_hcif_hdl_command_complete"
+addr = 0x32505c
+
+[header.args]

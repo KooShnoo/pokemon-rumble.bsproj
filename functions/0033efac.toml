@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314994Z
+addr = 0x33efac
+size = 0xa4
+name = "DBQueryData"
+artifact_type = "Function"
+
+[header]
+name = "DBQueryData"
+addr = 0x33efac
+
+[header.args]

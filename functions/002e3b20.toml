@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312209Z
+addr = 0x2e3b20
+size = 0x14
+name = "DSPSendMailToDSP"
+artifact_type = "Function"
+
+[header]
+name = "DSPSendMailToDSP"
+addr = 0x2e3b20
+
+[header.args]

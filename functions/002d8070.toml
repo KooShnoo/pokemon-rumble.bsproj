@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311673Z
+addr = 0x2d8070
+size = 0x264
+name = "DVDLowOpenPartitionWithTmdAndTicketView"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowOpenPartitionWithTmdAndTicketView"
+addr = 0x2d8070
+
+[header.args]

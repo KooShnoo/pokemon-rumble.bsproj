@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313095Z
+addr = 0x312590
+size = 0xa4
+name = "GKI_send_event"
+artifact_type = "Function"
+
+[header]
+name = "GKI_send_event"
+addr = 0x312590
+
+[header.args]

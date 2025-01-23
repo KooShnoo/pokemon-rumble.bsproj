@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312867Z
+addr = 0x306800
+size = 0x8d0
+name = "read_kpad_ext"
+artifact_type = "Function"
+
+[header]
+name = "read_kpad_ext"
+addr = 0x306800
+
+[header.args]

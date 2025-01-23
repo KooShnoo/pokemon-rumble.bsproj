@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307710Z
+addr = 0x187730
+size = 0x34
+name = "TestFileHeader"
+artifact_type = "Function"
+
+[header]
+name = "TestFileHeader"
+addr = 0x187730
+
+[header.args]

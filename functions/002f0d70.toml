@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312457Z
+addr = 0x2f0d70
+size = 0xa4
+name = "ESP_DiGetTicketView"
+artifact_type = "Function"
+
+[header]
+name = "ESP_DiGetTicketView"
+addr = 0x2f0d70
+
+[header.args]

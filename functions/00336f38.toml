@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314708Z
+addr = 0x336f38
+size = 0xb0
+name = "rfc_send_ua"
+artifact_type = "Function"
+
+[header]
+name = "rfc_send_ua"
+addr = 0x336f38
+
+[header.args]

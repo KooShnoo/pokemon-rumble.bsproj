@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307496Z
+addr = 0x15ec10
+size = 0xcc
+name = "method_CWaza_incBlownEnemysCount"
+artifact_type = "Function"
+
+[header]
+name = "method_CWaza_incBlownEnemysCount"
+addr = 0x15ec10
+
+[header.args]

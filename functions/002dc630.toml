@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311782Z
+addr = 0x2dc630
+size = 0x6c
+name = "__AXDepopFadeRmt"
+artifact_type = "Function"
+
+[header]
+name = "__AXDepopFadeRmt"
+addr = 0x2dc630
+
+[header.args]

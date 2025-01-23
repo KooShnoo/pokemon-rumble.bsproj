@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313815Z
+addr = 0x31ef9c
+size = 0xdc
+name = "btm_inq_find_bdaddr"
+artifact_type = "Function"
+
+[header]
+name = "btm_inq_find_bdaddr"
+addr = 0x31ef9c
+
+[header.args]

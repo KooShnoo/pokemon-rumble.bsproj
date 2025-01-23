@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308956Z
+addr = 0x270c50
+size = 0x3c
+name = "InitLightPos"
+artifact_type = "Function"
+
+[header]
+name = "InitLightPos"
+addr = 0x270c50
+
+[header.args]

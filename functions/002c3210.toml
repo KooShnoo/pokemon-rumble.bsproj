@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310664Z
+addr = 0x2c3210
+size = 0x1b0
+name = "__SITransfer"
+artifact_type = "Function"
+
+[header]
+name = "__SITransfer"
+addr = 0x2c3210
+
+[header.args]

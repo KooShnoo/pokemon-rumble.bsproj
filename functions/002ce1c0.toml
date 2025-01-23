@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311175Z
+addr = 0x2ce1c0
+size = 0x28
+name = "GXGetLightDir"
+artifact_type = "Function"
+
+[header]
+name = "GXGetLightDir"
+addr = 0x2ce1c0
+
+[header.args]

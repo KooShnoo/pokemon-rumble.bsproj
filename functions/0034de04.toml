@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315449Z
+addr = 0x34de04
+size = 0x38
+name = "TRK_flush_cache"
+artifact_type = "Function"
+
+[header]
+name = "TRK_flush_cache"
+addr = 0x34de04
+
+[header.args]

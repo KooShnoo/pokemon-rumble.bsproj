@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309103Z
+addr = 0x278270
+size = 0x104
+name = "FadeIn"
+artifact_type = "Function"
+
+[header]
+name = "FadeIn"
+addr = 0x278270
+
+[header.args]

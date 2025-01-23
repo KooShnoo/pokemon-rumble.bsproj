@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314874Z
+addr = 0x33c310
+size = 0xbc
+name = "sdp_disconnect_cfm"
+artifact_type = "Function"
+
+[header]
+name = "sdp_disconnect_cfm"
+addr = 0x33c310
+
+[header.args]

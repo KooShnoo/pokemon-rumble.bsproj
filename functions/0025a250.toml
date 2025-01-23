@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308698Z
+addr = 0x25a250
+size = 0x138
+name = "GetLightSet"
+artifact_type = "Function"
+
+[header]
+name = "GetLightSet"
+addr = 0x25a250
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310545Z
+addr = 0x2c0fe0
+size = 0x27c
+name = "EXISync"
+artifact_type = "Function"
+
+[header]
+name = "EXISync"
+addr = 0x2c0fe0
+
+[header.args]

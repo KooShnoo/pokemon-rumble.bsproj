@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313398Z
+addr = 0x3157ac
+size = 0x88
+name = "bta_dm_search_result"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_search_result"
+addr = 0x3157ac
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311918Z
+addr = 0x2e17c0
+size = 0xd8
+name = "MEMGetAllocatableSizeForExpHeapEx"
+artifact_type = "Function"
+
+[header]
+name = "MEMGetAllocatableSizeForExpHeapEx"
+addr = 0x2e17c0
+
+[header.args]

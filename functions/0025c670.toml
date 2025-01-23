@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308736Z
+addr = 0x25c670
+size = 0x70
+name = "LoadResMatMisc"
+artifact_type = "Function"
+
+[header]
+name = "LoadResMatMisc"
+addr = 0x25c670
+
+[header.args]

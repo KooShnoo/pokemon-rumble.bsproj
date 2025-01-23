@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314430Z
+addr = 0x32e9b8
+size = 0xb4
+name = "l2c_link_sec_comp"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_sec_comp"
+addr = 0x32e9b8
+
+[header.args]

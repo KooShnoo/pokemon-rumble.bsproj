@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314623Z
+addr = 0x333e9c
+size = 0x68
+name = "port_get_signal_changes"
+artifact_type = "Function"
+
+[header]
+name = "port_get_signal_changes"
+addr = 0x333e9c
+
+[header.args]

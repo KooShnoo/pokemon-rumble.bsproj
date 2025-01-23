@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313405Z
+addr = 0x315954
+size = 0x44
+name = "bta_dm_search_clear_queue"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_search_clear_queue"
+addr = 0x315954
+
+[header.args]

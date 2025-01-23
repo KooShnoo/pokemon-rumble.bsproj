@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313902Z
+addr = 0x321584
+size = 0x88
+name = "btm_is_sco_active_by_bdaddr"
+artifact_type = "Function"
+
+[header]
+name = "btm_is_sco_active_by_bdaddr"
+addr = 0x321584
+
+[header.args]

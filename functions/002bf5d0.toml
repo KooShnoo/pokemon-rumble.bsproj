@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310451Z
+addr = 0x2bf5d0
+size = 0xa0
+name = "__OSPlayTimeAlarmExpired"
+artifact_type = "Function"
+
+[header]
+name = "__OSPlayTimeAlarmExpired"
+addr = 0x2bf5d0
+
+[header.args]

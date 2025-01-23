@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314884Z
+addr = 0x33c9b8
+size = 0x390
+name = "process_service_attr_req"
+artifact_type = "Function"
+
+[header]
+name = "process_service_attr_req"
+addr = 0x33c9b8
+
+[header.args]

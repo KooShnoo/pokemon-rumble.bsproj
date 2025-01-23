@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309546Z
+addr = 0x2a29d0
+size = 0x120
+name = "FID_conflict:Registerf"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:Registerf"
+addr = 0x2a29d0
+
+[header.args]

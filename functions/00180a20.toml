@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307679Z
+addr = 0x180a20
+size = 0x954
+name = "update"
+artifact_type = "Function"
+
+[header]
+name = "update"
+addr = 0x180a20
+
+[header.args]

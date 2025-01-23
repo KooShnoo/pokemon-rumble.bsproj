@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314529Z
+addr = 0x331e98
+size = 0x5c
+name = "l2cu_find_ccb_by_cid"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_find_ccb_by_cid"
+addr = 0x331e98
+
+[header.args]

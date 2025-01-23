@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312533Z
+addr = 0x2f2a10
+size = 0x2fc
+name = "IOS_IoctlvReboot"
+artifact_type = "Function"
+
+[header]
+name = "IOS_IoctlvReboot"
+addr = 0x2f2a10
+
+[header.args]

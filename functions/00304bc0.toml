@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312842Z
+addr = 0x304bc0
+size = 0x194
+name = "calc_acc_horizon"
+artifact_type = "Function"
+
+[header]
+name = "calc_acc_horizon"
+addr = 0x304bc0
+
+[header.args]

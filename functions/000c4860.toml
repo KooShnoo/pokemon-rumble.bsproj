@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306562Z
+addr = 0xc4860
+size = 0x5c
+name = "UI_Layout_destroy"
+artifact_type = "Function"
+
+[header]
+name = "UI_Layout_destroy"
+addr = 0xc4860
+
+[header.args]

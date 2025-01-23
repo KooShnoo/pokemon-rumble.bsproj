@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311706Z
+addr = 0x2d9d50
+size = 0x8
+name = "DVDLowMaskCoverInterrupt"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowMaskCoverInterrupt"
+addr = 0x2d9d50
+
+[header.args]

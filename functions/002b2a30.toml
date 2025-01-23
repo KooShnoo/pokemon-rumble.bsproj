@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309886Z
+addr = 0x2b2a30
+size = 0x280
+name = "OSExceptionInit"
+artifact_type = "Function"
+
+[header]
+name = "OSExceptionInit"
+addr = 0x2b2a30
+
+[header.args]

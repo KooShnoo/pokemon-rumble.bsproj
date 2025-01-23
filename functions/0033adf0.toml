@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314841Z
+addr = 0x33adf0
+size = 0x2d0
+name = "process_service_search_attr_rsp"
+artifact_type = "Function"
+
+[header]
+name = "process_service_search_attr_rsp"
+addr = 0x33adf0
+
+[header.args]

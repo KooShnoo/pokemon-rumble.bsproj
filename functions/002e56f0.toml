@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312251Z
+addr = 0x2e56f0
+size = 0x54
+name = "nandComposePerm"
+artifact_type = "Function"
+
+[header]
+name = "nandComposePerm"
+addr = 0x2e56f0
+
+[header.args]

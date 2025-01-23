@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306959Z
+addr = 0x13bb30
+size = 0xb8
+name = "AddTimer"
+artifact_type = "Function"
+
+[header]
+name = "AddTimer"
+addr = 0x13bb30
+
+[header.args]

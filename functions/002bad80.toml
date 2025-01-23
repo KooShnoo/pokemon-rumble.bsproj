@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310217Z
+addr = 0x2bad80
+size = 0x58
+name = "__OSHotResetForError"
+artifact_type = "Function"
+
+[header]
+name = "__OSHotResetForError"
+addr = 0x2bad80
+
+[header.args]

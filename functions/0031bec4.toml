@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313663Z
+addr = 0x31bec4
+size = 0x188
+name = "BTM_SecAddDevice"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SecAddDevice"
+addr = 0x31bec4
+
+[header.args]

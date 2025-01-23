@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313072Z
+addr = 0x311e80
+size = 0xbc
+name = "gki_timers_init"
+artifact_type = "Function"
+
+[header]
+name = "gki_timers_init"
+addr = 0x311e80
+
+[header.args]

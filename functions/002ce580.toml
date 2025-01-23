@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311206Z
+addr = 0x2ce580
+size = 0xa4
+name = "GXSetChanCtrl"
+artifact_type = "Function"
+
+[header]
+name = "GXSetChanCtrl"
+addr = 0x2ce580
+
+[header.args]

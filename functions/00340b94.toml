@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315092Z
+addr = 0x340b94
+size = 0x4c
+name = "__register_fragment"
+artifact_type = "Function"
+
+[header]
+name = "__register_fragment"
+addr = 0x340b94
+
+[header.args]

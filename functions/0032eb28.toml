@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314435Z
+addr = 0x32eb28
+size = 0x70
+name = "l2c_link_hci_qos_violation"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_hci_qos_violation"
+addr = 0x32eb28
+
+[header.args]

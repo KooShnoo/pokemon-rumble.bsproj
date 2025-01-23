@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308414Z
+addr = 0x24f180
+size = 0x30
+name = "CallDisplayList"
+artifact_type = "Function"
+
+[header]
+name = "CallDisplayList"
+addr = 0x24f180
+
+[header.args]

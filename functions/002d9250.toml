@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311688Z
+addr = 0x2d9250
+size = 0x198
+name = "DVDLowReportKey"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowReportKey"
+addr = 0x2d9250
+
+[header.args]

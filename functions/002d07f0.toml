@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311413Z
+addr = 0x2d07f0
+size = 0x30
+name = "GXSetZCompLoc"
+artifact_type = "Function"
+
+[header]
+name = "GXSetZCompLoc"
+addr = 0x2d07f0
+
+[header.args]

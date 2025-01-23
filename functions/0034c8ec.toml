@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315375Z
+addr = 0x34c8ec
+size = 0x250
+name = "__kernel_tan"
+artifact_type = "Function"
+
+[header]
+name = "__kernel_tan"
+addr = 0x34c8ec
+
+[header.args]

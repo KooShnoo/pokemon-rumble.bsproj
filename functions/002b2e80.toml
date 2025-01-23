@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309896Z
+addr = 0x2b2e80
+size = 0x10
+name = "__OSGetDIConfig"
+artifact_type = "Function"
+
+[header]
+name = "__OSGetDIConfig"
+addr = 0x2b2e80
+
+[header.args]

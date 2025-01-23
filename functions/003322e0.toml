@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314549Z
+addr = 0x3322e0
+size = 0x6c
+name = "l2cu_device_reset"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_device_reset"
+addr = 0x3322e0
+
+[header.args]

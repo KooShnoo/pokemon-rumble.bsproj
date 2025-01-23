@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311912Z
+addr = 0x2e1640
+size = 0xb0
+name = "MEMAllocFromExpHeapEx"
+artifact_type = "Function"
+
+[header]
+name = "MEMAllocFromExpHeapEx"
+addr = 0x2e1640
+
+[header.args]

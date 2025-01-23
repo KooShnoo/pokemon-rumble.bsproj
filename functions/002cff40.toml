@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311381Z
+addr = 0x2cff40
+size = 0x3c
+name = "GXSetTevSwapMode"
+artifact_type = "Function"
+
+[header]
+name = "GXSetTevSwapMode"
+addr = 0x2cff40
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308673Z
+addr = 0x255050
+size = 0x4c
+name = "GetResAnmLightByRefNumber"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmLightByRefNumber"
+addr = 0x255050
+
+[header.args]

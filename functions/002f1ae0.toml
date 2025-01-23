@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312500Z
+addr = 0x2f1ae0
+size = 0x118
+name = "IOS_OpenAsync"
+artifact_type = "Function"
+
+[header]
+name = "IOS_OpenAsync"
+addr = 0x2f1ae0
+
+[header.args]

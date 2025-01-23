@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315720Z
+addr = 0x3524d0
+size = 0x10
+name = "TRKTargetStopped"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetStopped"
+addr = 0x3524d0
+
+[header.args]

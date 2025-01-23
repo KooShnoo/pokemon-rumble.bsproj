@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312436Z
+addr = 0x2f0730
+size = 0x58
+name = "ARCChangeDir"
+artifact_type = "Function"
+
+[header]
+name = "ARCChangeDir"
+addr = 0x2f0730
+
+[header.args]

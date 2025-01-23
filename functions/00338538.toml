@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314747Z
+addr = 0x338538
+size = 0x88
+name = "rfc_release_multiplexer_channel"
+artifact_type = "Function"
+
+[header]
+name = "rfc_release_multiplexer_channel"
+addr = 0x338538
+
+[header.args]

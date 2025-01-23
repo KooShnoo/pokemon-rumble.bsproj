@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314659Z
+addr = 0x33655c
+size = 0x8c
+name = "rfc_process_rls"
+artifact_type = "Function"
+
+[header]
+name = "rfc_process_rls"
+addr = 0x33655c
+
+[header.args]

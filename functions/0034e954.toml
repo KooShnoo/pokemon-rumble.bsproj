@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315507Z
+addr = 0x34e954
+size = 0x54
+name = "InitializeProgramEndTrap"
+artifact_type = "Function"
+
+[header]
+name = "InitializeProgramEndTrap"
+addr = 0x34e954
+
+[header.args]

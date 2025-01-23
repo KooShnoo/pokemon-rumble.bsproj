@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308106Z
+addr = 0x2408c0
+size = 0x44
+name = "Matrix34f"
+artifact_type = "Function"
+
+[header]
+name = "Matrix34f"
+addr = 0x2408c0
+
+[header.args]

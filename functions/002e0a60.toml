@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311887Z
+addr = 0x2e0a60
+size = 0x140
+name = "MEM_FindHeap"
+artifact_type = "Function"
+
+[header]
+name = "MEM_FindHeap"
+addr = 0x2e0a60
+
+[header.args]

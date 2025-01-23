@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313056Z
+addr = 0x311810
+size = 0xa0
+name = "GKI_dequeue"
+artifact_type = "Function"
+
+[header]
+name = "GKI_dequeue"
+addr = 0x311810
+
+[header.args]

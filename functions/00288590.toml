@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309287Z
+addr = 0x288590
+size = 0x90
+name = "800A3B40"
+artifact_type = "Function"
+
+[header]
+name = "800A3B40"
+addr = 0x288590
+
+[header.args]

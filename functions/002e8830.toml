@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312366Z
+addr = 0x2e8830
+size = 0x278
+name = "CreateItemByID"
+artifact_type = "Function"
+
+[header]
+name = "CreateItemByID"
+addr = 0x2e8830
+
+[header.args]

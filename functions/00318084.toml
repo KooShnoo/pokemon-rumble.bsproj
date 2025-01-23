@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313523Z
+addr = 0x318084
+size = 0x134
+name = "bta_hh_sdp_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_sdp_cback"
+addr = 0x318084
+
+[header.args]

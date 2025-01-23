@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309636Z
+addr = 0x2a5fe0
+size = 0x7c
+name = "GroupContainer_FindGroupByName"
+artifact_type = "Function"
+
+[header]
+name = "GroupContainer_FindGroupByName"
+addr = 0x2a5fe0
+
+[header.args]

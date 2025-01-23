@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307563Z
+addr = 0x179270
+size = 0x78
+name = "setAllComponentTriggerTarget"
+artifact_type = "Function"
+
+[header]
+name = "setAllComponentTriggerTarget"
+addr = 0x179270
+
+[header.args]

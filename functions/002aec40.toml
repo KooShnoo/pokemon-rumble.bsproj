@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309743Z
+addr = 0x2aec40
+size = 0x14c
+name = "TexMap_Set"
+artifact_type = "Function"
+
+[header]
+name = "TexMap_Set"
+addr = 0x2aec40
+
+[header.args]

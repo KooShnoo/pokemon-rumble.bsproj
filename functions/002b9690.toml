@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310154Z
+addr = 0x2b9690
+size = 0xd0
+name = "OSJamMessage"
+artifact_type = "Function"
+
+[header]
+name = "OSJamMessage"
+addr = 0x2b9690
+
+[header.args]

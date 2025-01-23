@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306876Z
+addr = 0x136250
+size = 0xd4
+name = "method_BWorldCamera_mpIsStarted"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_mpIsStarted"
+addr = 0x136250
+
+[header.args]

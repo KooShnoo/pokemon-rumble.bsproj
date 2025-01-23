@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315097Z
+addr = 0x340c08
+size = 0x98
+name = "__find_exception_addresses"
+artifact_type = "Function"
+
+[header]
+name = "__find_exception_addresses"
+addr = 0x340c08
+
+[header.args]

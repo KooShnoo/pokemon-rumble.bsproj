@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307778Z
+addr = 0x19c0e0
+size = 0xdc
+name = "__HBMSYNResetAllControllers"
+artifact_type = "Function"
+
+[header]
+name = "__HBMSYNResetAllControllers"
+addr = 0x19c0e0
+
+[header.args]

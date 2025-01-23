@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312733Z
+addr = 0x2fa730
+size = 0x34
+name = "WPADIsMotorEnabled"
+artifact_type = "Function"
+
+[header]
+name = "WPADIsMotorEnabled"
+addr = 0x2fa730
+
+[header.args]

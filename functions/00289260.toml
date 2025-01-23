@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309303Z
+addr = 0x289260
+size = 0x5c
+name = "UnregisterPlayerCallback"
+artifact_type = "Function"
+
+[header]
+name = "UnregisterPlayerCallback"
+addr = 0x289260
+
+[header.args]

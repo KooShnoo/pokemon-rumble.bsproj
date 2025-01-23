@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309224Z
+addr = 0x283fd0
+size = 0x228
+name = "detail_OpenFileStream"
+artifact_type = "Function"
+
+[header]
+name = "detail_OpenFileStream"
+addr = 0x283fd0
+
+[header.args]

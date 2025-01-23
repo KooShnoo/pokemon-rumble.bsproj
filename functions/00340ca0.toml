@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315100Z
+addr = 0x340ca0
+size = 0x1b0
+name = "ExPPC_FindExceptionRecord"
+artifact_type = "Function"
+
+[header]
+name = "ExPPC_FindExceptionRecord"
+addr = 0x340ca0
+
+[header.args]

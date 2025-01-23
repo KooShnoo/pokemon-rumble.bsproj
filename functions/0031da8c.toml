@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313747Z
+addr = 0x31da8c
+size = 0xd0
+name = "BTM_WriteStoredLinkKey"
+artifact_type = "Function"
+
+[header]
+name = "BTM_WriteStoredLinkKey"
+addr = 0x31da8c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307857Z
+addr = 0x1e4c70
+size = 0x2f8
+name = "ks_gx_prep"
+artifact_type = "Function"
+
+[header]
+name = "ks_gx_prep"
+addr = 0x1e4c70
+
+[header.args]

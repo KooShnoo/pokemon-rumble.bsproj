@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311732Z
+addr = 0x2da740
+size = 0x7c
+name = "AXFreeVoice"
+artifact_type = "Function"
+
+[header]
+name = "AXFreeVoice"
+addr = 0x2da740
+
+[header.args]

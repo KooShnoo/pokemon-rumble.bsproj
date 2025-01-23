@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315040Z
+addr = 0x33fe10
+size = 0xbc
+name = "~__partial_array_destructor"
+artifact_type = "Function"
+
+[header]
+name = "~__partial_array_destructor"
+addr = 0x33fe10
+
+[header.args]

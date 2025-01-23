@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309543Z
+addr = 0x29e420
+size = 0x7c
+name = "GetLineHeight"
+artifact_type = "Function"
+
+[header]
+name = "GetLineHeight"
+addr = 0x29e420
+
+[header.args]

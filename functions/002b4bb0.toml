@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310041Z
+addr = 0x2b4bb0
+size = 0xbc
+name = "OSInitContext"
+artifact_type = "Function"
+
+[header]
+name = "OSInitContext"
+addr = 0x2b4bb0
+
+[header.args]

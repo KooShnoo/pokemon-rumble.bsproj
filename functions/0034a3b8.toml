@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315329Z
+addr = 0x34a3b8
+size = 0x114
+name = "__ieee754_log10"
+artifact_type = "Function"
+
+[header]
+name = "__ieee754_log10"
+addr = 0x34a3b8
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313292Z
+addr = 0x314760
+size = 0x1c
+name = "bta_sys_sendmsg"
+artifact_type = "Function"
+
+[header]
+name = "bta_sys_sendmsg"
+addr = 0x314760
+
+[header.args]

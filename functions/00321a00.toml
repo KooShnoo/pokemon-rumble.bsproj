@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313917Z
+addr = 0x321a00
+size = 0xc4
+name = "BTM_PINCodeReply"
+artifact_type = "Function"
+
+[header]
+name = "BTM_PINCodeReply"
+addr = 0x321a00
+
+[header.args]

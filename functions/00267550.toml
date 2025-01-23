@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308829Z
+addr = 0x267550
+size = 0xcc
+name = "MakeTexSrtMtx_SRT"
+artifact_type = "Function"
+
+[header]
+name = "MakeTexSrtMtx_SRT"
+addr = 0x267550
+
+[header.args]

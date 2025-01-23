@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310099Z
+addr = 0x2b7fd0
+size = 0x118
+name = "OSLoadFont"
+artifact_type = "Function"
+
+[header]
+name = "OSLoadFont"
+addr = 0x2b7fd0
+
+[header.args]

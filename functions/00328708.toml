@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314152Z
+addr = 0x328708
+size = 0x44
+name = "btsnd_hcic_write_inqscan_cfg"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_inqscan_cfg"
+addr = 0x328708
+
+[header.args]

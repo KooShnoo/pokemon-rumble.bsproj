@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313915Z
+addr = 0x3217d8
+size = 0x228
+name = "BTM_SetSecurityLevel"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetSecurityLevel"
+addr = 0x3217d8
+
+[header.args]

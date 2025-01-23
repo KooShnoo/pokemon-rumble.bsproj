@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314986Z
+addr = 0x33eba0
+size = 0x314
+name = "GDSetTexCoordScale"
+artifact_type = "Function"
+
+[header]
+name = "GDSetTexCoordScale"
+addr = 0x33eba0
+
+[header.args]

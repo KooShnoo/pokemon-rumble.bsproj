@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309022Z
+addr = 0x273b90
+size = 0x1f4
+name = "StopAtPoint"
+artifact_type = "Function"
+
+[header]
+name = "StopAtPoint"
+addr = 0x273b90
+
+[header.args]

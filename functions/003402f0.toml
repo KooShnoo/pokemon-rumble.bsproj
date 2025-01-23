@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315055Z
+addr = 0x3402f0
+size = 0x40
+name = "~bad_cast"
+artifact_type = "Function"
+
+[header]
+name = "~bad_cast"
+addr = 0x3402f0
+
+[header.args]

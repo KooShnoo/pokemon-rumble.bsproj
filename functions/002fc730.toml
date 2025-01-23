@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312759Z
+addr = 0x2fc730
+size = 0x84
+name = "WPADCanSendStreamData"
+artifact_type = "Function"
+
+[header]
+name = "WPADCanSendStreamData"
+addr = 0x2fc730
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307555Z
+addr = 0x178570
+size = 0x20
+name = "initFrame"
+artifact_type = "Function"
+
+[header]
+name = "initFrame"
+addr = 0x178570
+
+[header.args]

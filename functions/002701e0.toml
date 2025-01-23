@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308948Z
+addr = 0x2701e0
+size = 0x328
+name = "G3dProc"
+artifact_type = "Function"
+
+[header]
+name = "G3dProc"
+addr = 0x2701e0
+
+[header.args]

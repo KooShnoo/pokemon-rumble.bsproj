@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314559Z
+addr = 0x3325c4
+size = 0xe8
+name = "l2cu_lcb_disconnecting"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_lcb_disconnecting"
+addr = 0x3325c4
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314002Z
+addr = 0x3251b4
+size = 0x118
+name = "btu_hcif_command_complete_evt"
+artifact_type = "Function"
+
+[header]
+name = "btu_hcif_command_complete_evt"
+addr = 0x3251b4
+
+[header.args]

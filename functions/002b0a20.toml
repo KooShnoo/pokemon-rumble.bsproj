@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309775Z
+addr = 0x2b0a20
+size = 0x90
+name = "MultiArcResourceAccessor_destroy"
+artifact_type = "Function"
+
+[header]
+name = "MultiArcResourceAccessor_destroy"
+addr = 0x2b0a20
+
+[header.args]

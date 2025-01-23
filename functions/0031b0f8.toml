@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313635Z
+addr = 0x31b0f8
+size = 0x9c
+name = "BTM_GetHCIConnHandle"
+artifact_type = "Function"
+
+[header]
+name = "BTM_GetHCIConnHandle"
+addr = 0x31b0f8
+
+[header.args]

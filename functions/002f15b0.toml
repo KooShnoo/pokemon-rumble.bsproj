@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312490Z
+addr = 0x2f15b0
+size = 0x1ac
+name = "IPCInterruptHandler"
+artifact_type = "Function"
+
+[header]
+name = "IPCInterruptHandler"
+addr = 0x2f15b0
+
+[header.args]

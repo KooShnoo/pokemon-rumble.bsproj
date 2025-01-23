@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308631Z
+addr = 0x2532f0
+size = 0x260
+name = "GetAnmTranslation"
+artifact_type = "Function"
+
+[header]
+name = "GetAnmTranslation"
+addr = 0x2532f0
+
+[header.args]

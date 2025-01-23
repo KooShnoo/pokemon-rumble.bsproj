@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309191Z
+addr = 0x280a90
+size = 0x74
+name = "NotifyLoadAsyncEndSeqData"
+artifact_type = "Function"
+
+[header]
+name = "NotifyLoadAsyncEndSeqData"
+addr = 0x280a90
+
+[header.args]

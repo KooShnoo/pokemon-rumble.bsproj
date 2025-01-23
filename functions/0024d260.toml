@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308270Z
+addr = 0x24d260
+size = 0x54
+name = "GetResVtxPos"
+artifact_type = "Function"
+
+[header]
+name = "GetResVtxPos"
+addr = 0x24d260
+
+[header.args]

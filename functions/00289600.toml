@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309306Z
+addr = 0x289600
+size = 0x10
+name = "StrmFileReader"
+artifact_type = "Function"
+
+[header]
+name = "StrmFileReader"
+addr = 0x289600
+
+[header.args]

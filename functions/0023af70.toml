@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308071Z
+addr = 0x23af70
+size = 0x2ec
+name = "_InitTev"
+artifact_type = "Function"
+
+[header]
+name = "_InitTev"
+addr = 0x23af70
+
+[header.args]

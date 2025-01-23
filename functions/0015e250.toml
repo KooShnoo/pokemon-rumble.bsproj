@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307487Z
+addr = 0x15e250
+size = 0x2a4
+name = "NewWaza"
+artifact_type = "Function"
+
+[header]
+name = "NewWaza"
+addr = 0x15e250
+
+[header.args]

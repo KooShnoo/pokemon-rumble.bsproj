@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310889Z
+addr = 0x2c9f10
+size = 0x504
+name = "GXInit"
+artifact_type = "Function"
+
+[header]
+name = "GXInit"
+addr = 0x2c9f10
+
+[header.args]

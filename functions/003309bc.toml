@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314486Z
+addr = 0x3309bc
+size = 0x88
+name = "l2cu_find_lcb_by_bd_addr"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_find_lcb_by_bd_addr"
+addr = 0x3309bc
+
+[header.args]

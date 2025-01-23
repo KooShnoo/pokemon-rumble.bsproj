@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310716Z
+addr = 0x2c3d80
+size = 0x10c
+name = "SIGetTypeAsync"
+artifact_type = "Function"
+
+[header]
+name = "SIGetTypeAsync"
+addr = 0x2c3d80
+
+[header.args]

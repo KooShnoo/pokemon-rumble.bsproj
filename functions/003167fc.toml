@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313451Z
+addr = 0x3167fc
+size = 0x6c
+name = "bta_dm_rssi_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_rssi_cback"
+addr = 0x3167fc
+
+[header.args]

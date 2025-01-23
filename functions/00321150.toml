@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313887Z
+addr = 0x321150
+size = 0xb4
+name = "btm_sco_acl_removed"
+artifact_type = "Function"
+
+[header]
+name = "btm_sco_acl_removed"
+addr = 0x321150
+
+[header.args]

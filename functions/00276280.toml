@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309073Z
+addr = 0x276280
+size = 0x184
+name = "SetVoiceRmtIIRCoefs"
+artifact_type = "Function"
+
+[header]
+name = "SetVoiceRmtIIRCoefs"
+addr = 0x276280
+
+[header.args]

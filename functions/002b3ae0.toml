@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309952Z
+addr = 0x2b3ae0
+size = 0x8
+name = "OSSetMEM2ArenaLo"
+artifact_type = "Function"
+
+[header]
+name = "OSSetMEM2ArenaLo"
+addr = 0x2b3ae0
+
+[header.args]

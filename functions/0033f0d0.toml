@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314999Z
+addr = 0x33f0d0
+size = 0x110
+name = "DBWrite"
+artifact_type = "Function"
+
+[header]
+name = "DBWrite"
+addr = 0x33f0d0
+
+[header.args]

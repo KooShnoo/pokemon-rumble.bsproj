@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311646Z
+addr = 0x2d71c0
+size = 0x90
+name = "cbForPrepareStatusRegister"
+artifact_type = "Function"
+
+[header]
+name = "cbForPrepareStatusRegister"
+addr = 0x2d71c0
+
+[header.args]

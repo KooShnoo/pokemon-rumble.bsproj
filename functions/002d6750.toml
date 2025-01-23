@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311618Z
+addr = 0x2d6750
+size = 0xa0
+name = "__DVDPopWaitingQueue"
+artifact_type = "Function"
+
+[header]
+name = "__DVDPopWaitingQueue"
+addr = 0x2d6750
+
+[header.args]

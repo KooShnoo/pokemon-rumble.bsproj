@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314567Z
+addr = 0x33285c
+size = 0x9c
+name = "PORT_StartInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_StartInd"
+addr = 0x33285c
+
+[header.args]

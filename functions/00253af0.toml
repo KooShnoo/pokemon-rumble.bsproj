@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308639Z
+addr = 0x253af0
+size = 0x18c
+name = "SetRotTrans"
+artifact_type = "Function"
+
+[header]
+name = "SetRotTrans"
+addr = 0x253af0
+
+[header.args]

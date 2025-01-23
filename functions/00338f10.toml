@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314782Z
+addr = 0x338f10
+size = 0x64
+name = "SDP_ServiceSearchAttributeRequest"
+artifact_type = "Function"
+
+[header]
+name = "SDP_ServiceSearchAttributeRequest"
+addr = 0x338f10
+
+[header.args]

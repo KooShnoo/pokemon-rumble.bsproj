@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315600Z
+addr = 0x34f4e0
+size = 0x1c4
+name = "TRKSaveExtended1Block"
+artifact_type = "Function"
+
+[header]
+name = "TRKSaveExtended1Block"
+addr = 0x34f4e0
+
+[header.args]

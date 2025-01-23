@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308489Z
+addr = 0x24f9a0
+size = 0xbc
+name = "GXGetTevColor"
+artifact_type = "Function"
+
+[header]
+name = "GXGetTevColor"
+addr = 0x24f9a0
+
+[header.args]

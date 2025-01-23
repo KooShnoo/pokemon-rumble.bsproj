@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313009Z
+addr = 0x30fba0
+size = 0x50
+name = "WUDDeviceStatusCallback"
+artifact_type = "Function"
+
+[header]
+name = "WUDDeviceStatusCallback"
+addr = 0x30fba0
+
+[header.args]

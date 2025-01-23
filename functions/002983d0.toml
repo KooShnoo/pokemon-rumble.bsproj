@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309513Z
+addr = 0x2983d0
+size = 0x380
+name = "CharWriter"
+artifact_type = "Function"
+
+[header]
+name = "CharWriter"
+addr = 0x2983d0
+
+[header.args]

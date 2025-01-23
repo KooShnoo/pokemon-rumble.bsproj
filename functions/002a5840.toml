@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309623Z
+addr = 0x2a5840
+size = 0x34
+name = "AddAnimationLink"
+artifact_type = "Function"
+
+[header]
+name = "AddAnimationLink"
+addr = 0x2a5840
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307877Z
+addr = 0x1eb680
+size = 0x78
+name = "vprintf"
+artifact_type = "Function"
+
+[header]
+name = "vprintf"
+addr = 0x1eb680
+
+[header.args]

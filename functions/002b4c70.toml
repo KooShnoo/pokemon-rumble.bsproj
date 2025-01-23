@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310044Z
+addr = 0x2b4c70
+size = 0x260
+name = "OSDumpContext"
+artifact_type = "Function"
+
+[header]
+name = "OSDumpContext"
+addr = 0x2b4c70
+
+[header.args]

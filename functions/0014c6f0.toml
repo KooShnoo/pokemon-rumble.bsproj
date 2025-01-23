@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307314Z
+addr = 0x14c6f0
+size = 0xfc
+name = "method_findNearestPlayerPiiZX"
+artifact_type = "Function"
+
+[header]
+name = "method_findNearestPlayerPiiZX"
+addr = 0x14c6f0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308731Z
+addr = 0x25c1a0
+size = 0x414
+name = "LoadLightSet"
+artifact_type = "Function"
+
+[header]
+name = "LoadLightSet"
+addr = 0x25c1a0
+
+[header.args]

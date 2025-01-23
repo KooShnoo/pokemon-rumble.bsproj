@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315168Z
+addr = 0x343b40
+size = 0x4dc
+name = "__minus_dec"
+artifact_type = "Function"
+
+[header]
+name = "__minus_dec"
+addr = 0x343b40
+
+[header.args]

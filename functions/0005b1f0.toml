@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306515Z
+addr = 0x5b1f0
+size = 0x4
+name = "GXGetTexObjWidth"
+artifact_type = "Function"
+
+[header]
+name = "GXGetTexObjWidth"
+addr = 0x5b1f0
+
+[header.args]

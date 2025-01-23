@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312865Z
+addr = 0x3065d0
+size = 0x224
+name = "clamp_stick_cross"
+artifact_type = "Function"
+
+[header]
+name = "clamp_stick_cross"
+addr = 0x3065d0
+
+[header.args]

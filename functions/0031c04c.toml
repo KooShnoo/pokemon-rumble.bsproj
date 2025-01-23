@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313666Z
+addr = 0x31c04c
+size = 0xac
+name = "BTM_SecDeleteDevice"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SecDeleteDevice"
+addr = 0x31c04c
+
+[header.args]

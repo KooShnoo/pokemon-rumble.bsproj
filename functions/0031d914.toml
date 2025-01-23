@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313742Z
+addr = 0x31d914
+size = 0xa0
+name = "BTM_WritePageTimeout"
+artifact_type = "Function"
+
+[header]
+name = "BTM_WritePageTimeout"
+addr = 0x31d914
+
+[header.args]

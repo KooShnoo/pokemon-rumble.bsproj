@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311711Z
+addr = 0x2d9f30
+size = 0x7c
+name = "AIInitDMA"
+artifact_type = "Function"
+
+[header]
+name = "AIInitDMA"
+addr = 0x2d9f30
+
+[header.args]

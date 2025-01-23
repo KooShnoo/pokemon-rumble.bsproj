@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311038Z
+addr = 0x2cd320
+size = 0x34
+name = "GXSetPointSize"
+artifact_type = "Function"
+
+[header]
+name = "GXSetPointSize"
+addr = 0x2cd320
+
+[header.args]

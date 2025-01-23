@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314849Z
+addr = 0x33b350
+size = 0x590
+name = "add_attr"
+artifact_type = "Function"
+
+[header]
+name = "add_attr"
+addr = 0x33b350
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313744Z
+addr = 0x31d9b4
+size = 0xd8
+name = "BTM_ReadStoredLinkKey"
+artifact_type = "Function"
+
+[header]
+name = "BTM_ReadStoredLinkKey"
+addr = 0x31d9b4
+
+[header.args]

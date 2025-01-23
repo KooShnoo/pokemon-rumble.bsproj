@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307101Z
+addr = 0x144d20
+size = 0x88
+name = "method_BWorldLightSet_stop"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldLightSet_stop"
+addr = 0x144d20
+
+[header.args]

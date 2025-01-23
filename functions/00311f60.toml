@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313077Z
+addr = 0x311f60
+size = 0x14c
+name = "GKI_start_timer"
+artifact_type = "Function"
+
+[header]
+name = "GKI_start_timer"
+addr = 0x311f60
+
+[header.args]

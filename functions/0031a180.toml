@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313597Z
+addr = 0x31a180
+size = 0x1c
+name = "btm_acl_init"
+artifact_type = "Function"
+
+[header]
+name = "btm_acl_init"
+addr = 0x31a180
+
+[header.args]

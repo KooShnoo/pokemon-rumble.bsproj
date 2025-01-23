@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308186Z
+addr = 0x24b730
+size = 0x6c
+name = "GetResAnmChr"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmChr"
+addr = 0x24b730
+
+[header.args]

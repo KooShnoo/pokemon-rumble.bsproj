@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310840Z
+addr = 0x2c9500
+size = 0x88
+name = "C_MTXLightOrtho"
+artifact_type = "Function"
+
+[header]
+name = "C_MTXLightOrtho"
+addr = 0x2c9500
+
+[header.args]

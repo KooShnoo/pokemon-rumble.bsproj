@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312544Z
+addr = 0x2f3250
+size = 0xb8
+name = "IPCiProfInit"
+artifact_type = "Function"
+
+[header]
+name = "IPCiProfInit"
+addr = 0x2f3250
+
+[header.args]

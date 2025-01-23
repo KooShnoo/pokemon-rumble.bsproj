@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310033Z
+addr = 0x2b4b20
+size = 0x30
+name = "OSSwitchFiber"
+artifact_type = "Function"
+
+[header]
+name = "OSSwitchFiber"
+addr = 0x2b4b20
+
+[header.args]

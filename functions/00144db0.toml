@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307104Z
+addr = 0x144db0
+size = 0xe0
+name = "method_BWorldLightSet_getCurrentMPID"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldLightSet_getCurrentMPID"
+addr = 0x144db0
+
+[header.args]

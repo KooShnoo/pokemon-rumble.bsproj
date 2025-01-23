@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309042Z
+addr = 0x274130
+size = 0x60
+name = "EnableRemote"
+artifact_type = "Function"
+
+[header]
+name = "EnableRemote"
+addr = 0x274130
+
+[header.args]

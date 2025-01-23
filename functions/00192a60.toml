@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307763Z
+addr = 0x192a60
+size = 0x150
+name = "SetGradationMode"
+artifact_type = "Function"
+
+[header]
+name = "SetGradationMode"
+addr = 0x192a60
+
+[header.args]

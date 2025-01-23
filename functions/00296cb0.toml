@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309503Z
+addr = 0x296cb0
+size = 0x118
+name = "CachedStreamReaderRequestData"
+artifact_type = "Function"
+
+[header]
+name = "CachedStreamReaderRequestData"
+addr = 0x296cb0
+
+[header.args]

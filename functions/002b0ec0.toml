@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309795Z
+addr = 0x2b0ec0
+size = 0x94
+name = "Copy"
+artifact_type = "Function"
+
+[header]
+name = "Copy"
+addr = 0x2b0ec0
+
+[header.args]

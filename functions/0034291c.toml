@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315133Z
+addr = 0x34291c
+size = 0xdc
+name = "soft_allocate_from_var_pools"
+artifact_type = "Function"
+
+[header]
+name = "soft_allocate_from_var_pools"
+addr = 0x34291c
+
+[header.args]

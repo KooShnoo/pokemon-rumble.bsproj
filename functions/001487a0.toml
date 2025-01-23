@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307210Z
+addr = 0x1487a0
+size = 0xd8
+name = "method_BModelObj_mpIsCompletedOrIsLooped"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_mpIsCompletedOrIsLooped"
+addr = 0x1487a0
+
+[header.args]

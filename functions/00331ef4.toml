@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314532Z
+addr = 0x331ef4
+size = 0x4c
+name = "l2cu_allocate_rcb"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_allocate_rcb"
+addr = 0x331ef4
+
+[header.args]

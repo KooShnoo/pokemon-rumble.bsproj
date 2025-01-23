@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310247Z
+addr = 0x2bba80
+size = 0x60
+name = "__OSInitSystemCall"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitSystemCall"
+addr = 0x2bba80
+
+[header.args]

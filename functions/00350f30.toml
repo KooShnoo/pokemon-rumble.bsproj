@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315674Z
+addr = 0x350f30
+size = 0xcc
+name = "TRKDoSetOption"
+artifact_type = "Function"
+
+[header]
+name = "TRKDoSetOption"
+addr = 0x350f30
+
+[header.args]

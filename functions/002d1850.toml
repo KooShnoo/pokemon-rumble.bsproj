@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311501Z
+addr = 0x2d1850
+size = 0x30
+name = "__DVDFSInit"
+artifact_type = "Function"
+
+[header]
+name = "__DVDFSInit"
+addr = 0x2d1850
+
+[header.args]

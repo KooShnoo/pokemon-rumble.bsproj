@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315646Z
+addr = 0x350080
+size = 0x70
+name = "TRK_DoConnect"
+artifact_type = "Function"
+
+[header]
+name = "TRK_DoConnect"
+addr = 0x350080
+
+[header.args]

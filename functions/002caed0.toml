@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310918Z
+addr = 0x2caed0
+size = 0xf8
+name = "CPGPLinkCheck"
+artifact_type = "Function"
+
+[header]
+name = "CPGPLinkCheck"
+addr = 0x2caed0
+
+[header.args]

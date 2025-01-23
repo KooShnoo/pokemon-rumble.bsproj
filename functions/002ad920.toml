@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309733Z
+addr = 0x2ad920
+size = 0x1b8
+name = "SetColorElement"
+artifact_type = "Function"
+
+[header]
+name = "SetColorElement"
+addr = 0x2ad920
+
+[header.args]

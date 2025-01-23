@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308583Z
+addr = 0x251030
+size = 0xbc
+name = "GetTexObjCIParam"
+artifact_type = "Function"
+
+[header]
+name = "GetTexObjCIParam"
+addr = 0x251030
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313526Z
+addr = 0x3181b8
+size = 0x194
+name = "bta_hh_start_sdp"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_start_sdp"
+addr = 0x3181b8
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313434Z
+addr = 0x316014
+size = 0xc0
+name = "bta_dm_pinname_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_pinname_cback"
+addr = 0x316014
+
+[header.args]

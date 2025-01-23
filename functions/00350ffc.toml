@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315677Z
+addr = 0x350ffc
+size = 0x68
+name = "__read_console"
+artifact_type = "Function"
+
+[header]
+name = "__read_console"
+addr = 0x350ffc
+
+[header.args]

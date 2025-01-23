@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308968Z
+addr = 0x270eb0
+size = 0x3fc
+name = "LightSetting"
+artifact_type = "Function"
+
+[header]
+name = "LightSetting"
+addr = 0x270eb0
+
+[header.args]

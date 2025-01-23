@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313531Z
+addr = 0x3184b4
+size = 0x68
+name = "bta_hh_api_disc_act"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_api_disc_act"
+addr = 0x3184b4
+
+[header.args]

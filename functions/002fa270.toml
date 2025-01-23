@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312719Z
+addr = 0x2fa270
+size = 0xb8
+name = "WPADSetDataFormat"
+artifact_type = "Function"
+
+[header]
+name = "WPADSetDataFormat"
+addr = 0x2fa270
+
+[header.args]

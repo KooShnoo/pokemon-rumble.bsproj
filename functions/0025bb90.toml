@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308723Z
+addr = 0x25bb90
+size = 0x440
+name = "EnvironmentSpecularMapping"
+artifact_type = "Function"
+
+[header]
+name = "EnvironmentSpecularMapping"
+addr = 0x25bb90
+
+[header.args]

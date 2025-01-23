@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312872Z
+addr = 0x307810
+size = 0x450
+name = "KPADInitEx"
+artifact_type = "Function"
+
+[header]
+name = "KPADInitEx"
+addr = 0x307810
+
+[header.args]

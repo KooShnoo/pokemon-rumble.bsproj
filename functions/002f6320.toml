@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312657Z
+addr = 0x2f6320
+size = 0xb8
+name = "PADControlMotor"
+artifact_type = "Function"
+
+[header]
+name = "PADControlMotor"
+addr = 0x2f6320
+
+[header.args]

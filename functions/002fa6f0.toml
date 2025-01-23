@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312730Z
+addr = 0x2fa6f0
+size = 0x34
+name = "WPADEnableMotor"
+artifact_type = "Function"
+
+[header]
+name = "WPADEnableMotor"
+addr = 0x2fa6f0
+
+[header.args]

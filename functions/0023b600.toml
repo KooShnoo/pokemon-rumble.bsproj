@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308076Z
+addr = 0x23b600
+size = 0x5cc
+name = "SetupGP"
+artifact_type = "Function"
+
+[header]
+name = "SetupGP"
+addr = 0x23b600
+
+[header.args]

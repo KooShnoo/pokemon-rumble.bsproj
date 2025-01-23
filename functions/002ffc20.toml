@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312792Z
+addr = 0x2ffc20
+size = 0x1a4
+name = "__wpadGetGameInfo"
+artifact_type = "Function"
+
+[header]
+name = "__wpadGetGameInfo"
+addr = 0x2ffc20
+
+[header.args]

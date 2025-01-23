@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313807Z
+addr = 0x31ebf4
+size = 0x13c
+name = "BTM_InqDbNext"
+artifact_type = "Function"
+
+[header]
+name = "BTM_InqDbNext"
+addr = 0x31ebf4
+
+[header.args]

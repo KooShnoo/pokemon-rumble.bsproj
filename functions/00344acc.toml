@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315178Z
+addr = 0x344acc
+size = 0x28
+name = "__prep_buffer"
+artifact_type = "Function"
+
+[header]
+name = "__prep_buffer"
+addr = 0x344acc
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308660Z
+addr = 0x254ae0
+size = 0x88
+name = "GetResAnmLight"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmLight"
+addr = 0x254ae0
+
+[header.args]

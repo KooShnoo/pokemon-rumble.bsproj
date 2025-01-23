@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307240Z
+addr = 0x1496b0
+size = 0x1d4
+name = "method_CNullObj_playEx"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_playEx"
+addr = 0x1496b0
+
+[header.args]

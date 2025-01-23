@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309295Z
+addr = 0x288b60
+size = 0x74
+name = "ShutdownSoundSystem"
+artifact_type = "Function"
+
+[header]
+name = "ShutdownSoundSystem"
+addr = 0x288b60
+
+[header.args]

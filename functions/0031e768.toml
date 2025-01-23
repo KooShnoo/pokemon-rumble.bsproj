@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313794Z
+addr = 0x31e768
+size = 0x1b4
+name = "BTM_StartInquiry"
+artifact_type = "Function"
+
+[header]
+name = "BTM_StartInquiry"
+addr = 0x31e768
+
+[header.args]

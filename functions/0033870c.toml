@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314757Z
+addr = 0x33870c
+size = 0x58
+name = "rfc_port_timer_stop"
+artifact_type = "Function"
+
+[header]
+name = "rfc_port_timer_stop"
+addr = 0x33870c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308887Z
+addr = 0x269cd0
+size = 0x78
+name = "CalcView"
+artifact_type = "Function"
+
+[header]
+name = "CalcView"
+addr = 0x269cd0
+
+[header.args]

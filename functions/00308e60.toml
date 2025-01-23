@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312887Z
+addr = 0x308e60
+size = 0x144
+name = "IUSB_OpenDeviceIds"
+artifact_type = "Function"
+
+[header]
+name = "IUSB_OpenDeviceIds"
+addr = 0x308e60
+
+[header.args]

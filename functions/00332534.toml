@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314557Z
+addr = 0x332534
+size = 0x90
+name = "l2cu_find_lcb_by_state"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_find_lcb_by_state"
+addr = 0x332534
+
+[header.args]

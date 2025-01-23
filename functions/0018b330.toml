@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307732Z
+addr = 0x18b330
+size = 0x154
+name = "SetTexCoordGenNum"
+artifact_type = "Function"
+
+[header]
+name = "SetTexCoordGenNum"
+addr = 0x18b330
+
+[header.args]

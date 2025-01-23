@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309810Z
+addr = 0x2b1800
+size = 0x8
+name = "PPCMfmsr"
+artifact_type = "Function"
+
+[header]
+name = "PPCMfmsr"
+addr = 0x2b1800
+
+[header.args]

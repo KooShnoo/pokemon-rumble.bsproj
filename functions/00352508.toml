@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315728Z
+addr = 0x352508
+size = 0xdc
+name = "TRKPPCAccessSPR"
+artifact_type = "Function"
+
+[header]
+name = "TRKPPCAccessSPR"
+addr = 0x352508
+
+[header.args]

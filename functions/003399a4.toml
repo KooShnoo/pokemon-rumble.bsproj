@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314800Z
+addr = 0x3399a4
+size = 0x13c
+name = "sdp_db_service_search"
+artifact_type = "Function"
+
+[header]
+name = "sdp_db_service_search"
+addr = 0x3399a4
+
+[header.args]

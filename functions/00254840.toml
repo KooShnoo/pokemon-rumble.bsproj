@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308654Z
+addr = 0x254840
+size = 0x60
+name = "HasResAnmAmbLight"
+artifact_type = "Function"
+
+[header]
+name = "HasResAnmAmbLight"
+addr = 0x254840
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315259Z
+addr = 0x345d90
+size = 0x4c
+name = "strncat"
+artifact_type = "Function"
+
+[header]
+name = "strncat"
+addr = 0x345d90
+
+[header.args]

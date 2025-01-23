@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310960Z
+addr = 0x2cc3a0
+size = 0x10
+name = "GXInvalidateVtxCache"
+artifact_type = "Function"
+
+[header]
+name = "GXInvalidateVtxCache"
+addr = 0x2cc3a0
+
+[header.args]

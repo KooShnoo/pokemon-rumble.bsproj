@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313595Z
+addr = 0x31a0a0
+size = 0xe0
+name = "bta_hh_trace_dev_db"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_trace_dev_db"
+addr = 0x31a0a0
+
+[header.args]

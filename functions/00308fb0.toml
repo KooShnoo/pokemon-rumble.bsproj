@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312890Z
+addr = 0x308fb0
+size = 0x124
+name = "IUSB_CloseDevice"
+artifact_type = "Function"
+
+[header]
+name = "IUSB_CloseDevice"
+addr = 0x308fb0
+
+[header.args]

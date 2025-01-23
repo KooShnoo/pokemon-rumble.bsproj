@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307951Z
+addr = 0x228e40
+size = 0x150
+name = "CalcGlobalMtx"
+artifact_type = "Function"
+
+[header]
+name = "CalcGlobalMtx"
+addr = 0x228e40
+
+[header.args]

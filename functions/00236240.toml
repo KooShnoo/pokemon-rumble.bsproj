@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308045Z
+addr = 0x236240
+size = 0x58
+name = "MTXColLen"
+artifact_type = "Function"
+
+[header]
+name = "MTXColLen"
+addr = 0x236240
+
+[header.args]

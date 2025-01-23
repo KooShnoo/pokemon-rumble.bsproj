@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314831Z
+addr = 0x33a88c
+size = 0x34
+name = "sdp_disc_connected"
+artifact_type = "Function"
+
+[header]
+name = "sdp_disc_connected"
+addr = 0x33a88c
+
+[header.args]

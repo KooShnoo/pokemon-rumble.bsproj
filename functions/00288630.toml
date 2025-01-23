@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309290Z
+addr = 0x288630
+size = 0xdc
+name = "detail_CanPlaySound"
+artifact_type = "Function"
+
+[header]
+name = "detail_CanPlaySound"
+addr = 0x288630
+
+[header.args]

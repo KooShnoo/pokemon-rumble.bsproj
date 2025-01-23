@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314511Z
+addr = 0x3316a4
+size = 0xd4
+name = "l2cu_send_peer_disc_req"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_send_peer_disc_req"
+addr = 0x3316a4
+
+[header.args]

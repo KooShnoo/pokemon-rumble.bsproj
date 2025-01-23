@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308966Z
+addr = 0x270e90
+size = 0x18
+name = "GetLightPos"
+artifact_type = "Function"
+
+[header]
+name = "GetLightPos"
+addr = 0x270e90
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313017Z
+addr = 0x3101a0
+size = 0x3c
+name = "_WUDGetLinkNumber"
+artifact_type = "Function"
+
+[header]
+name = "_WUDGetLinkNumber"
+addr = 0x3101a0
+
+[header.args]

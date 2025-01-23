@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310028Z
+addr = 0x2b4a30
+size = 0xd8
+name = "OSLoadContext"
+artifact_type = "Function"
+
+[header]
+name = "OSLoadContext"
+addr = 0x2b4a30
+
+[header.args]

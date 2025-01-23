@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309221Z
+addr = 0x283ed0
+size = 0x10
+name = "ConvertLabelStringToSoundId"
+artifact_type = "Function"
+
+[header]
+name = "ConvertLabelStringToSoundId"
+addr = 0x283ed0
+
+[header.args]

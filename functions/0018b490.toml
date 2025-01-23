@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307735Z
+addr = 0x18b490
+size = 0x84
+name = "SetTextureNoWrap"
+artifact_type = "Function"
+
+[header]
+name = "SetTextureNoWrap"
+addr = 0x18b490
+
+[header.args]

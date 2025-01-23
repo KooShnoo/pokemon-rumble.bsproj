@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313802Z
+addr = 0x31ea7c
+size = 0xc0
+name = "BTM_InqDbRead"
+artifact_type = "Function"
+
+[header]
+name = "BTM_InqDbRead"
+addr = 0x31ea7c
+
+[header.args]

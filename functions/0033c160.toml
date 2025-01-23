@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314869Z
+addr = 0x33c160
+size = 0x114
+name = "sdp_conn_originate"
+artifact_type = "Function"
+
+[header]
+name = "sdp_conn_originate"
+addr = 0x33c160
+
+[header.args]

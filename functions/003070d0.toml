@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312870Z
+addr = 0x3070d0
+size = 0x738
+name = "KPADiRead"
+artifact_type = "Function"
+
+[header]
+name = "KPADiRead"
+addr = 0x3070d0
+
+[header.args]

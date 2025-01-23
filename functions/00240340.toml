@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308095Z
+addr = 0x240340
+size = 0x3c
+name = "MTX34Mult"
+artifact_type = "Function"
+
+[header]
+name = "MTX34Mult"
+addr = 0x240340
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309535Z
+addr = 0x29c320
+size = 0x38
+name = "GetCharStrmReader"
+artifact_type = "Function"
+
+[header]
+name = "GetCharStrmReader"
+addr = 0x29c320
+
+[header.args]

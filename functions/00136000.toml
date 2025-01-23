@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306873Z
+addr = 0x136000
+size = 0xe0
+name = "method_BWorldCamera_getCurrentMPID"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_getCurrentMPID"
+addr = 0x136000
+
+[header.args]

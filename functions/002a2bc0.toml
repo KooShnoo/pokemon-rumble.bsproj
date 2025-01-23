@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309552Z
+addr = 0x2a2bc0
+size = 0xac
+name = "Register"
+artifact_type = "Function"
+
+[header]
+name = "Register"
+addr = 0x2a2bc0
+
+[header.args]

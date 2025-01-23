@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306830Z
+addr = 0x12b550
+size = 0x98
+name = "static_ctor_fn_8012B550"
+artifact_type = "Function"
+
+[header]
+name = "static_ctor_fn_8012B550"
+addr = 0x12b550
+
+[header.args]

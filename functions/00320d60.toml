@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313877Z
+addr = 0x320d60
+size = 0x1a0
+name = "btm_sco_connected"
+artifact_type = "Function"
+
+[header]
+name = "btm_sco_connected"
+addr = 0x320d60
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311133Z
+addr = 0x2cdd20
+size = 0x158
+name = "GXCopyTex"
+artifact_type = "Function"
+
+[header]
+name = "GXCopyTex"
+addr = 0x2cdd20
+
+[header.args]

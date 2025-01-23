@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307888Z
+addr = 0x1ee250
+size = 0x6c
+name = "__wStringWrite"
+artifact_type = "Function"
+
+[header]
+name = "__wStringWrite"
+addr = 0x1ee250
+
+[header.args]

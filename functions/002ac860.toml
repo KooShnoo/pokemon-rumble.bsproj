@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309680Z
+addr = 0x2ac860
+size = 0x14
+name = "GetMagFilter"
+artifact_type = "Function"
+
+[header]
+name = "GetMagFilter"
+addr = 0x2ac860
+
+[header.args]

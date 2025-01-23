@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308976Z
+addr = 0x271590
+size = 0x70
+name = "SelectLightObj"
+artifact_type = "Function"
+
+[header]
+name = "SelectLightObj"
+addr = 0x271590
+
+[header.args]

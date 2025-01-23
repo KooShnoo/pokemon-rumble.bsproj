@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314587Z
+addr = 0x333210
+size = 0xc4
+name = "PORT_ControlCnf"
+artifact_type = "Function"
+
+[header]
+name = "PORT_ControlCnf"
+addr = 0x333210
+
+[header.args]

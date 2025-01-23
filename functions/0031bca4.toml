@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313661Z
+addr = 0x31bca4
+size = 0x220
+name = "btm_chg_all_acl_pkt_types"
+artifact_type = "Function"
+
+[header]
+name = "btm_chg_all_acl_pkt_types"
+addr = 0x31bca4
+
+[header.args]

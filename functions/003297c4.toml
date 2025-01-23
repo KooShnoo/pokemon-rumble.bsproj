@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314268Z
+addr = 0x3297c4
+size = 0xc8
+name = "HID_HostGetSDPRecord"
+artifact_type = "Function"
+
+[header]
+name = "HID_HostGetSDPRecord"
+addr = 0x3297c4
+
+[header.args]

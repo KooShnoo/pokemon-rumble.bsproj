@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315413Z
+addr = 0x34d798
+size = 0x4
+name = "sqrt"
+artifact_type = "Function"
+
+[header]
+name = "sqrt"
+addr = 0x34d798
+
+[header.args]

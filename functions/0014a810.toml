@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307278Z
+addr = 0x14a810
+size = 0xd8
+name = "method_CNullObj_mpIsCompletedOrIsLooped"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_mpIsCompletedOrIsLooped"
+addr = 0x14a810
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308233Z
+addr = 0x24bf90
+size = 0x4c
+name = "GetResAnmTexSrtNumEntries"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmTexSrtNumEntries"
+addr = 0x24bf90
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314361Z
+addr = 0x32ae28
+size = 0x348
+name = "hidh_l2cif_connect_cfm"
+artifact_type = "Function"
+
+[header]
+name = "hidh_l2cif_connect_cfm"
+addr = 0x32ae28
+
+[header.args]

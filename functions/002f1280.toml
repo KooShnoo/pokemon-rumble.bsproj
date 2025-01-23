@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312470Z
+addr = 0x2f1280
+size = 0x48
+name = "IPCReInit"
+artifact_type = "Function"
+
+[header]
+name = "IPCReInit"
+addr = 0x2f1280
+
+[header.args]

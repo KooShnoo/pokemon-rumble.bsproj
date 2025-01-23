@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312455Z
+addr = 0x2f0c50
+size = 0x114
+name = "ESP_GetTicketViews"
+artifact_type = "Function"
+
+[header]
+name = "ESP_GetTicketViews"
+addr = 0x2f0c50
+
+[header.args]

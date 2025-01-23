@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307648Z
+addr = 0x17c090
+size = 0x120
+name = "HBMCreate"
+artifact_type = "Function"
+
+[header]
+name = "HBMCreate"
+addr = 0x17c090
+
+[header.args]

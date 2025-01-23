@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314070Z
+addr = 0x326fb4
+size = 0x1a0
+name = "btsnd_hcic_link_key_req_reply"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_link_key_req_reply"
+addr = 0x326fb4
+
+[header.args]

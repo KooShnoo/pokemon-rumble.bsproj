@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308889Z
+addr = 0x269d50
+size = 0xec
+name = "GatherDrawScnObj"
+artifact_type = "Function"
+
+[header]
+name = "GatherDrawScnObj"
+addr = 0x269d50
+
+[header.args]

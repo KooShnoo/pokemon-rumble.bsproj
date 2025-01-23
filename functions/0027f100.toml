@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309158Z
+addr = 0x27f100
+size = 0x6c
+name = "SeqFileReader"
+artifact_type = "Function"
+
+[header]
+name = "SeqFileReader"
+addr = 0x27f100
+
+[header.args]

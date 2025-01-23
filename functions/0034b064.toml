@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315335Z
+addr = 0x34b064
+size = 0x110
+name = "__kernel_cos"
+artifact_type = "Function"
+
+[header]
+name = "__kernel_cos"
+addr = 0x34b064
+
+[header.args]

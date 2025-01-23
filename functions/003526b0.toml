@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315736Z
+addr = 0x3526b0
+size = 0x24
+name = "WriteFPSCR"
+artifact_type = "Function"
+
+[header]
+name = "WriteFPSCR"
+addr = 0x3526b0
+
+[header.args]

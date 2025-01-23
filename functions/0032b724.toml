@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314369Z
+addr = 0x32b724
+size = 0x2c4
+name = "hidh_l2cif_disconnect_ind"
+artifact_type = "Function"
+
+[header]
+name = "hidh_l2cif_disconnect_ind"
+addr = 0x32b724
+
+[header.args]

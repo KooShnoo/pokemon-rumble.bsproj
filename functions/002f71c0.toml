@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312675Z
+addr = 0x2f71c0
+size = 0x8f8
+name = "__wpadIsControllerDataChanged"
+artifact_type = "Function"
+
+[header]
+name = "__wpadIsControllerDataChanged"
+addr = 0x2f71c0
+
+[header.args]

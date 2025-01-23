@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312593Z
+addr = 0x2f4740
+size = 0xb8
+name = "ISFS_OpenAsync"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_OpenAsync"
+addr = 0x2f4740
+
+[header.args]

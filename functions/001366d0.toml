@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306889Z
+addr = 0x1366d0
+size = 0x12c
+name = "method_BWorldCamera_mpGetCurrentFrame"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_mpGetCurrentFrame"
+addr = 0x1366d0
+
+[header.args]

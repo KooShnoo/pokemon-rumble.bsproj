@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313827Z
+addr = 0x31f6f8
+size = 0x104
+name = "btm_process_inq_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_process_inq_complete"
+addr = 0x31f6f8
+
+[header.args]

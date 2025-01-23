@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310204Z
+addr = 0x2ba6e0
+size = 0x11c
+name = "OSShutdownSystem"
+artifact_type = "Function"
+
+[header]
+name = "OSShutdownSystem"
+addr = 0x2ba6e0
+
+[header.args]

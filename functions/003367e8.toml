@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314672Z
+addr = 0x3367e8
+size = 0x2c
+name = "RFCOMM_StartRsp"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_StartRsp"
+addr = 0x3367e8
+
+[header.args]

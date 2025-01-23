@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308953Z
+addr = 0x270c00
+size = 0x14
+name = "Clear"
+artifact_type = "Function"
+
+[header]
+name = "Clear"
+addr = 0x270c00
+
+[header.args]

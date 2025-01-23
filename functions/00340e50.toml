@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315102Z
+addr = 0x340e50
+size = 0x1b0
+name = "ExPPC_NextAction"
+artifact_type = "Function"
+
+[header]
+name = "ExPPC_NextAction"
+addr = 0x340e50
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312511Z
+addr = 0x2f20b0
+size = 0x100
+name = "IOS_ReadAsync"
+artifact_type = "Function"
+
+[header]
+name = "IOS_ReadAsync"
+addr = 0x2f20b0
+
+[header.args]

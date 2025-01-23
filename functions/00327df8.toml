@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314120Z
+addr = 0x327df8
+size = 0x84
+name = "btsnd_hcic_exit_park_mode"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_exit_park_mode"
+addr = 0x327df8
+
+[header.args]

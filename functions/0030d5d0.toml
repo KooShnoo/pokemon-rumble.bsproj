@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312957Z
+addr = 0x30d5d0
+size = 0x3c
+name = "WUDGetStatus"
+artifact_type = "Function"
+
+[header]
+name = "WUDGetStatus"
+addr = 0x30d5d0
+
+[header.args]

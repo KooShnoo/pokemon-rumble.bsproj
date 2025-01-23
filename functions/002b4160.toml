@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309985Z
+addr = 0x2b4160
+size = 0x34
+name = "ICInvalidateRange"
+artifact_type = "Function"
+
+[header]
+name = "ICInvalidateRange"
+addr = 0x2b4160
+
+[header.args]

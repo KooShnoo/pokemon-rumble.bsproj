@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307366Z
+addr = 0x155fe0
+size = 0x174
+name = "method_CPii_play"
+artifact_type = "Function"
+
+[header]
+name = "method_CPii_play"
+addr = 0x155fe0
+
+[header.args]

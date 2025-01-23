@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306953Z
+addr = 0x13b700
+size = 0xa8
+name = "Hitstop"
+artifact_type = "Function"
+
+[header]
+name = "Hitstop"
+addr = 0x13b700
+
+[header.args]

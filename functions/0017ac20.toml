@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307595Z
+addr = 0x17ac20
+size = 0x26c
+name = "UpdateSpeaker"
+artifact_type = "Function"
+
+[header]
+name = "UpdateSpeaker"
+addr = 0x17ac20
+
+[header.args]

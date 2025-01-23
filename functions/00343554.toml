@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315158Z
+addr = 0x343554
+size = 0xe8
+name = "__str2dec"
+artifact_type = "Function"
+
+[header]
+name = "__str2dec"
+addr = 0x343554
+
+[header.args]

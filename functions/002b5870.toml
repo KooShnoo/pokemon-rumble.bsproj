@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310056Z
+addr = 0x2b5870
+size = 0x154
+name = "Utf16ToArg"
+artifact_type = "Function"
+
+[header]
+name = "Utf16ToArg"
+addr = 0x2b5870
+
+[header.args]

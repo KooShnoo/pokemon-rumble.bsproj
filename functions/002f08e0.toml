@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312444Z
+addr = 0x2f08e0
+size = 0x54
+name = "ESP_InitLib"
+artifact_type = "Function"
+
+[header]
+name = "ESP_InitLib"
+addr = 0x2f08e0
+
+[header.args]

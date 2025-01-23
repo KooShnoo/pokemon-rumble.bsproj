@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312738Z
+addr = 0x2fa960
+size = 0xac
+name = "WPADSaveConfig"
+artifact_type = "Function"
+
+[header]
+name = "WPADSaveConfig"
+addr = 0x2fa960
+
+[header.args]

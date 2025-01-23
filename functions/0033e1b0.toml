@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314922Z
+addr = 0x33e1b0
+size = 0x114
+name = "TPLBind"
+artifact_type = "Function"
+
+[header]
+name = "TPLBind"
+addr = 0x33e1b0
+
+[header.args]

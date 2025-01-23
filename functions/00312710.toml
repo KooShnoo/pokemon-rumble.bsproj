@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313103Z
+addr = 0x312710
+size = 0x4
+name = "App_MEMfree"
+artifact_type = "Function"
+
+[header]
+name = "App_MEMfree"
+addr = 0x312710
+
+[header.args]

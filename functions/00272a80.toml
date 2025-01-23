@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308994Z
+addr = 0x272a80
+size = 0x158
+name = "AxCallbackFunc"
+artifact_type = "Function"
+
+[header]
+name = "AxCallbackFunc"
+addr = 0x272a80
+
+[header.args]

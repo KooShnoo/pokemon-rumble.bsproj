@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309696Z
+addr = 0x2ad340
+size = 0x2c
+name = "GetChanCtrlAry"
+artifact_type = "Function"
+
+[header]
+name = "GetChanCtrlAry"
+addr = 0x2ad340
+
+[header.args]

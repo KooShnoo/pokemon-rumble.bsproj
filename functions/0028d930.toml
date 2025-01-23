@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309356Z
+addr = 0x28d930
+size = 0x50
+name = "CancelWaitTask"
+artifact_type = "Function"
+
+[header]
+name = "CancelWaitTask"
+addr = 0x28d930
+
+[header.args]

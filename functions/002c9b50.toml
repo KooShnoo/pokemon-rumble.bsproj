@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310876Z
+addr = 0x2c9b50
+size = 0xe4
+name = "__GXDefaultTexRegionCallback"
+artifact_type = "Function"
+
+[header]
+name = "__GXDefaultTexRegionCallback"
+addr = 0x2c9b50
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307814Z
+addr = 0x1a7880
+size = 0x1b8
+name = "ks_file_fatal"
+artifact_type = "Function"
+
+[header]
+name = "ks_file_fatal"
+addr = 0x1a7880
+
+[header.args]

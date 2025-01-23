@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311170Z
+addr = 0x2ce1a0
+size = 0x1c
+name = "GXInitLightDir"
+artifact_type = "Function"
+
+[header]
+name = "GXInitLightDir"
+addr = 0x2ce1a0
+
+[header.args]

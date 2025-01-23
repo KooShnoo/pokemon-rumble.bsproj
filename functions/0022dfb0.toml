@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307967Z
+addr = 0x22dfb0
+size = 0x11c
+name = "GetTypePositionSphere"
+artifact_type = "Function"
+
+[header]
+name = "GetTypePositionSphere"
+addr = 0x22dfb0
+
+[header.args]

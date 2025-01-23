@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315526Z
+addr = 0x34ebd4
+size = 0xac
+name = "TRKInitializeNub"
+artifact_type = "Function"
+
+[header]
+name = "TRKInitializeNub"
+addr = 0x34ebd4
+
+[header.args]

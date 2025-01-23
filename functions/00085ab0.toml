@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306536Z
+addr = 0x85ab0
+size = 0x28
+name = "VMBASEIsPageValid"
+artifact_type = "Function"
+
+[header]
+name = "VMBASEIsPageValid"
+addr = 0x85ab0
+
+[header.args]

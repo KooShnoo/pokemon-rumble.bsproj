@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312993Z
+addr = 0x30e9e0
+size = 0x168
+name = "WUDiMoveTopOfDisconnectedSmpDevice"
+artifact_type = "Function"
+
+[header]
+name = "WUDiMoveTopOfDisconnectedSmpDevice"
+addr = 0x30e9e0
+
+[header.args]

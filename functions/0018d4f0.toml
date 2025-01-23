@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307745Z
+addr = 0x18d4f0
+size = 0x78
+name = "FindAnimationLink"
+artifact_type = "Function"
+
+[header]
+name = "FindAnimationLink"
+addr = 0x18d4f0
+
+[header.args]

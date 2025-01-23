@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309987Z
+addr = 0x2b41a0
+size = 0x10
+name = "ICFlashInvalidate"
+artifact_type = "Function"
+
+[header]
+name = "ICFlashInvalidate"
+addr = 0x2b41a0
+
+[header.args]

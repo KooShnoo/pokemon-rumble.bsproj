@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307804Z
+addr = 0x19d1a0
+size = 0xa4
+name = "__HBMSYNClearVoiceReferences"
+artifact_type = "Function"
+
+[header]
+name = "__HBMSYNClearVoiceReferences"
+addr = 0x19d1a0
+
+[header.args]

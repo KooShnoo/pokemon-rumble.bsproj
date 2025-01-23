@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314790Z
+addr = 0x339068
+size = 0x108
+name = "SDP_FindServiceUUIDInDb"
+artifact_type = "Function"
+
+[header]
+name = "SDP_FindServiceUUIDInDb"
+addr = 0x339068
+
+[header.args]

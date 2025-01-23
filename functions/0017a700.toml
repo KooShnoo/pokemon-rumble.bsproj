@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307582Z
+addr = 0x17a700
+size = 0x9c
+name = "playSound"
+artifact_type = "Function"
+
+[header]
+name = "playSound"
+addr = 0x17a700
+
+[header.args]

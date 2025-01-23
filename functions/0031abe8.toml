@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313617Z
+addr = 0x31abe8
+size = 0x104
+name = "btm_read_link_policy_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_link_policy_complete"
+addr = 0x31abe8
+
+[header.args]

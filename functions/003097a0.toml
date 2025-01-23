@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312897Z
+addr = 0x3097a0
+size = 0x74
+name = "usb_"
+artifact_type = "Function"
+
+[header]
+name = "usb_"
+addr = 0x3097a0
+
+[header.args]

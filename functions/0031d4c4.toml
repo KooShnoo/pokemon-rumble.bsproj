@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313711Z
+addr = 0x31d4c4
+size = 0x8c
+name = "btm_read_local_name_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_local_name_complete"
+addr = 0x31d4c4
+
+[header.args]

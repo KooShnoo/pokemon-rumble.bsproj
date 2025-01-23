@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309452Z
+addr = 0x294950
+size = 0x8c
+name = "GetCharWidth"
+artifact_type = "Function"
+
+[header]
+name = "GetCharWidth"
+addr = 0x294950
+
+[header.args]

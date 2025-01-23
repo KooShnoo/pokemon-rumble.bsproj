@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307448Z
+addr = 0x15b060
+size = 0xd8
+name = "method_setBonusAP"
+artifact_type = "Function"
+
+[header]
+name = "method_setBonusAP"
+addr = 0x15b060
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308620Z
+addr = 0x252120
+size = 0x2a8
+name = "GetAnmScale"
+artifact_type = "Function"
+
+[header]
+name = "GetAnmScale"
+addr = 0x252120
+
+[header.args]

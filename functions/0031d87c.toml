@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313739Z
+addr = 0x31d87c
+size = 0x98
+name = "btm_vendor_specific_evt"
+artifact_type = "Function"
+
+[header]
+name = "btm_vendor_specific_evt"
+addr = 0x31d87c
+
+[header.args]

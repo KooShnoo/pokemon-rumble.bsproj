@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314899Z
+addr = 0x33d470
+size = 0x154
+name = "sdpu_build_attrib_entry"
+artifact_type = "Function"
+
+[header]
+name = "sdpu_build_attrib_entry"
+addr = 0x33d470
+
+[header.args]

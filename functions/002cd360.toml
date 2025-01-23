@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311059Z
+addr = 0x2cd360
+size = 0x3c
+name = "GXEnableTexOffsets"
+artifact_type = "Function"
+
+[header]
+name = "GXEnableTexOffsets"
+addr = 0x2cd360
+
+[header.args]

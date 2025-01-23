@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307357Z
+addr = 0x153e60
+size = 0xac
+name = "method_faceHeadTowardXYZ"
+artifact_type = "Function"
+
+[header]
+name = "method_faceHeadTowardXYZ"
+addr = 0x153e60
+
+[header.args]

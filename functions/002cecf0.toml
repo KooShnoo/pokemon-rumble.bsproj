@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311258Z
+addr = 0x2cecf0
+size = 0xdc
+name = "GXGetTexObjLODAll"
+artifact_type = "Function"
+
+[header]
+name = "GXGetTexObjLODAll"
+addr = 0x2cecf0
+
+[header.args]

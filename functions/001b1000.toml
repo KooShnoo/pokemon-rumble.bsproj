@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307824Z
+addr = 0x1b1000
+size = 0xb8
+name = "ks_make_heap"
+artifact_type = "Function"
+
+[header]
+name = "ks_make_heap"
+addr = 0x1b1000
+
+[header.args]

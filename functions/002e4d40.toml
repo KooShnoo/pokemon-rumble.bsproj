@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312233Z
+addr = 0x2e4d40
+size = 0x68
+name = "NANDRead"
+artifact_type = "Function"
+
+[header]
+name = "NANDRead"
+addr = 0x2e4d40
+
+[header.args]

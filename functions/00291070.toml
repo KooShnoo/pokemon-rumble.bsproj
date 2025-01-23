@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309377Z
+addr = 0x291070
+size = 0x24
+name = "GetDataRefAddress"
+artifact_type = "Function"
+
+[header]
+name = "GetDataRefAddress"
+addr = 0x291070
+
+[header.args]

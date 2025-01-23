@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313088Z
+addr = 0x3122e0
+size = 0x11c
+name = "GKI_remove_from_timer_list"
+artifact_type = "Function"
+
+[header]
+name = "GKI_remove_from_timer_list"
+addr = 0x3122e0
+
+[header.args]

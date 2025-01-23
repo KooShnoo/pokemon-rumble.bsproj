@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313722Z
+addr = 0x31d624
+size = 0x80
+name = "BTM_SetDeviceClass"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetDeviceClass"
+addr = 0x31d624
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307445Z
+addr = 0x15aec0
+size = 0xd8
+name = "method_setSPD"
+artifact_type = "Function"
+
+[header]
+name = "method_setSPD"
+addr = 0x15aec0
+
+[header.args]

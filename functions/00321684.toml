@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313907Z
+addr = 0x321684
+size = 0x50
+name = "BTM_SecAddRmtNameNotifyCallback"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SecAddRmtNameNotifyCallback"
+addr = 0x321684
+
+[header.args]

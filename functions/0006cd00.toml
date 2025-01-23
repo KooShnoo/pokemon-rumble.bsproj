@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306527Z
+addr = 0x6cd00
+size = 0xd8
+name = "static_ctor_fn_8006CD00"
+artifact_type = "Function"
+
+[header]
+name = "static_ctor_fn_8006CD00"
+addr = 0x6cd00
+
+[header.args]

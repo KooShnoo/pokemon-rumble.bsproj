@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313681Z
+addr = 0x31c590
+size = 0xa0
+name = "btm_dev_init"
+artifact_type = "Function"
+
+[header]
+name = "btm_dev_init"
+addr = 0x31c590
+
+[header.args]

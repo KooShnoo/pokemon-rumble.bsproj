@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310141Z
+addr = 0x2b9160
+size = 0x2a8
+name = "__OSDispatchInterrupt"
+artifact_type = "Function"
+
+[header]
+name = "__OSDispatchInterrupt"
+addr = 0x2b9160
+
+[header.args]

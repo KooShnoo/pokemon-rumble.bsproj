@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312616Z
+addr = 0x2f4b20
+size = 0x84
+name = "ISFS_CloseAsync"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_CloseAsync"
+addr = 0x2f4b20
+
+[header.args]

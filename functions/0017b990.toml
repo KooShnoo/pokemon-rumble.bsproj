@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307629Z
+addr = 0x17b990
+size = 0x13c
+name = "PlaySeq"
+artifact_type = "Function"
+
+[header]
+name = "PlaySeq"
+addr = 0x17b990
+
+[header.args]

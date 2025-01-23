@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308945Z
+addr = 0x270040
+size = 0x158
+name = "Construct"
+artifact_type = "Function"
+
+[header]
+name = "Construct"
+addr = 0x270040
+
+[header.args]

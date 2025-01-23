@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306809Z
+addr = 0xf78d0
+size = 0x74
+name = "ArcPlayer_destroy"
+artifact_type = "Function"
+
+[header]
+name = "ArcPlayer_destroy"
+addr = 0xf78d0
+
+[header.args]

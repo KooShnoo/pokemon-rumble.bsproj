@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310775Z
+addr = 0x2c6520
+size = 0x90
+name = "VIGetCurrentLine"
+artifact_type = "Function"
+
+[header]
+name = "VIGetCurrentLine"
+addr = 0x2c6520
+
+[header.args]

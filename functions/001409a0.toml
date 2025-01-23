@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307036Z
+addr = 0x1409a0
+size = 0xd0
+name = "method_CSimpleGround_loadModel"
+artifact_type = "Function"
+
+[header]
+name = "method_CSimpleGround_loadModel"
+addr = 0x1409a0
+
+[header.args]

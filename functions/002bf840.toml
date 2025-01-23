@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310461Z
+addr = 0x2bf840
+size = 0x158
+name = "__OSInitPlayTime"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitPlayTime"
+addr = 0x2bf840
+
+[header.args]

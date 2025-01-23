@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309523Z
+addr = 0x299c70
+size = 0x60
+name = "CharWriter_GetFontHeight"
+artifact_type = "Function"
+
+[header]
+name = "CharWriter_GetFontHeight"
+addr = 0x299c70
+
+[header.args]

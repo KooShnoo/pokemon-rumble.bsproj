@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314112Z
+addr = 0x327bf4
+size = 0xcc
+name = "btsnd_hcic_sniff_mode"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_sniff_mode"
+addr = 0x327bf4
+
+[header.args]

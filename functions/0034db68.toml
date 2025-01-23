@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315436Z
+addr = 0x34db68
+size = 0x24
+name = "gdev_cc_initinterrupts"
+artifact_type = "Function"
+
+[header]
+name = "gdev_cc_initinterrupts"
+addr = 0x34db68
+
+[header.args]

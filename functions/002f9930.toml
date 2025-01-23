@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312708Z
+addr = 0x2f9930
+size = 0x4b4
+name = "__wpadConnectionCallback"
+artifact_type = "Function"
+
+[header]
+name = "__wpadConnectionCallback"
+addr = 0x2f9930
+
+[header.args]

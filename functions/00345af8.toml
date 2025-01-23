@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315241Z
+addr = 0x345af8
+size = 0x10
+name = "__stdio_atexit"
+artifact_type = "Function"
+
+[header]
+name = "__stdio_atexit"
+addr = 0x345af8
+
+[header.args]

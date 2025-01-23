@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311023Z
+addr = 0x2cce30
+size = 0x278
+name = "__GXSetDirtyState"
+artifact_type = "Function"
+
+[header]
+name = "__GXSetDirtyState"
+addr = 0x2cce30
+
+[header.args]

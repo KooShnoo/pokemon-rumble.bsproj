@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315733Z
+addr = 0x35268c
+size = 0x24
+name = "__setjmp"
+artifact_type = "Function"
+
+[header]
+name = "__setjmp"
+addr = 0x35268c
+
+[header.args]

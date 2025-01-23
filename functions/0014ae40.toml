@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307296Z
+addr = 0x14ae40
+size = 0xc8
+name = "method_CNullObj_mpIsPausing"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_mpIsPausing"
+addr = 0x14ae40
+
+[header.args]

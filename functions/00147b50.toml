@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307180Z
+addr = 0x147b50
+size = 0x1d4
+name = "method_BModelObj_requestNextEx"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_requestNextEx"
+addr = 0x147b50
+
+[header.args]

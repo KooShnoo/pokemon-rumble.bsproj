@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314363Z
+addr = 0x32b170
+size = 0x2a8
+name = "hidh_l2cif_config_ind"
+artifact_type = "Function"
+
+[header]
+name = "hidh_l2cif_config_ind"
+addr = 0x32b170
+
+[header.args]

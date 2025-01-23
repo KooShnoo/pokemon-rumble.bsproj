@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312882Z
+addr = 0x308bb0
+size = 0xf8
+name = "IUSB_OpenLib"
+artifact_type = "Function"
+
+[header]
+name = "IUSB_OpenLib"
+addr = 0x308bb0
+
+[header.args]

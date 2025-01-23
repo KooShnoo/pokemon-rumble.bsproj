@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310646Z
+addr = 0x2c2890
+size = 0x1c
+name = "SIBusy"
+artifact_type = "Function"
+
+[header]
+name = "SIBusy"
+addr = 0x2c2890
+
+[header.args]

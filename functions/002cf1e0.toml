@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311289Z
+addr = 0x2cf1e0
+size = 0x90
+name = "__SetSURegs"
+artifact_type = "Function"
+
+[header]
+name = "__SetSURegs"
+addr = 0x2cf1e0
+
+[header.args]

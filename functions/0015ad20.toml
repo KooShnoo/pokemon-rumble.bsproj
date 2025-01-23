@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307443Z
+addr = 0x15ad20
+size = 0xd8
+name = "method_setDP"
+artifact_type = "Function"
+
+[header]
+name = "method_setDP"
+addr = 0x15ad20
+
+[header.args]

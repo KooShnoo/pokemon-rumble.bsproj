@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306826Z
+addr = 0x124ee0
+size = 0x28
+name = "ks_getPiiStats"
+artifact_type = "Function"
+
+[header]
+name = "ks_getPiiStats"
+addr = 0x124ee0
+
+[header.args]

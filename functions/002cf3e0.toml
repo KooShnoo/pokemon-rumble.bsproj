@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311298Z
+addr = 0x2cf3e0
+size = 0x350
+name = "__GXSetTmemConfig"
+artifact_type = "Function"
+
+[header]
+name = "__GXSetTmemConfig"
+addr = 0x2cf3e0
+
+[header.args]

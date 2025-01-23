@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312786Z
+addr = 0x2fe650
+size = 0x15c
+name = "__wpadAbortInitExtension"
+artifact_type = "Function"
+
+[header]
+name = "__wpadAbortInitExtension"
+addr = 0x2fe650
+
+[header.args]

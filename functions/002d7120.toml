@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311644Z
+addr = 0x2d7120
+size = 0x94
+name = "cbForNandCreateDir"
+artifact_type = "Function"
+
+[header]
+name = "cbForNandCreateDir"
+addr = 0x2d7120
+
+[header.args]

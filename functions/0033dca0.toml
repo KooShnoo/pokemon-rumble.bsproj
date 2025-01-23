@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314910Z
+addr = 0x33dca0
+size = 0xd0
+name = "sdpu_get_len_from_type"
+artifact_type = "Function"
+
+[header]
+name = "sdpu_get_len_from_type"
+addr = 0x33dca0
+
+[header.args]

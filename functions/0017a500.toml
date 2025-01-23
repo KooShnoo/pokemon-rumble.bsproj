@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307576Z
+addr = 0x17a500
+size = 0x184
+name = "setKpad"
+artifact_type = "Function"
+
+[header]
+name = "setKpad"
+addr = 0x17a500
+
+[header.args]

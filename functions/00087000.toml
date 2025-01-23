@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306539Z
+addr = 0x87000
+size = 0x4
+name = "wcslen"
+artifact_type = "Function"
+
+[header]
+name = "wcslen"
+addr = 0x87000
+
+[header.args]

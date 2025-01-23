@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315712Z
+addr = 0x352010
+size = 0x9c
+name = "TRKTargetAddExceptionInfo"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetAddExceptionInfo"
+addr = 0x352010
+
+[header.args]

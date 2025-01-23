@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312595Z
+addr = 0x2f4800
+size = 0xd0
+name = "ISFS_GetFileStats"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_GetFileStats"
+addr = 0x2f4800
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315392Z
+addr = 0x34d0fc
+size = 0x88
+name = "frexp"
+artifact_type = "Function"
+
+[header]
+name = "frexp"
+addr = 0x34d0fc
+
+[header.args]

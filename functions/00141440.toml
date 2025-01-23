@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307039Z
+addr = 0x141440
+size = 0xf0
+name = "method_loadModel"
+artifact_type = "Function"
+
+[header]
+name = "method_loadModel"
+addr = 0x141440
+
+[header.args]

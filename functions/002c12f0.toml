@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310555Z
+addr = 0x2c12f0
+size = 0x180
+name = "__EXIProbe"
+artifact_type = "Function"
+
+[header]
+name = "__EXIProbe"
+addr = 0x2c12f0
+
+[header.args]

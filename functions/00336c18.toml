@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314695Z
+addr = 0x336c18
+size = 0x98
+name = "RFCOMM_LineStatusReq"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_LineStatusReq"
+addr = 0x336c18
+
+[header.args]

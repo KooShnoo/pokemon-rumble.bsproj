@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308314Z
+addr = 0x24d820
+size = 0x34
+name = "GetResShpNumEntries"
+artifact_type = "Function"
+
+[header]
+name = "GetResShpNumEntries"
+addr = 0x24d820
+
+[header.args]

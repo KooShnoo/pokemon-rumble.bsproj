@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309106Z
+addr = 0x278f20
+size = 0x58
+name = "SetPlayerPriority"
+artifact_type = "Function"
+
+[header]
+name = "SetPlayerPriority"
+addr = 0x278f20
+
+[header.args]

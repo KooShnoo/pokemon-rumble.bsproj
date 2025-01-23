@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312402Z
+addr = 0x2e98e0
+size = 0x68
+name = "SCGetBtDpdSensibility"
+artifact_type = "Function"
+
+[header]
+name = "SCGetBtDpdSensibility"
+addr = 0x2e98e0
+
+[header.args]

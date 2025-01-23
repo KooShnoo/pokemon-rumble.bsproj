@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308820Z
+addr = 0x265780
+size = 0x168
+name = "CalcWorldMtx_Basic"
+artifact_type = "Function"
+
+[header]
+name = "CalcWorldMtx_Basic"
+addr = 0x265780
+
+[header.args]

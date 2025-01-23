@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314892Z
+addr = 0x33d1f4
+size = 0x74
+name = "sdpu_allocate_ccb"
+artifact_type = "Function"
+
+[header]
+name = "sdpu_allocate_ccb"
+addr = 0x33d1f4
+
+[header.args]

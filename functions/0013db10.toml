@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306990Z
+addr = 0x13db10
+size = 0x70
+name = "HideMoneyLifeDisplay"
+artifact_type = "Function"
+
+[header]
+name = "HideMoneyLifeDisplay"
+addr = 0x13db10
+
+[header.args]

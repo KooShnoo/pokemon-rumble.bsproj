@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312919Z
+addr = 0x30a720
+size = 0x134
+name = "__wudSyncStoredDevInfoToNand"
+artifact_type = "Function"
+
+[header]
+name = "__wudSyncStoredDevInfoToNand"
+addr = 0x30a720
+
+[header.args]

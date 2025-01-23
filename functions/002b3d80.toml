@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309962Z
+addr = 0x2b3d80
+size = 0x1cc
+name = "__OSInitAudioSystem"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitAudioSystem"
+addr = 0x2b3d80
+
+[header.args]

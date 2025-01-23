@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309483Z
+addr = 0x295fd0
+size = 0x3bc
+name = "ConstructOpAnalyzeGLGR"
+artifact_type = "Function"
+
+[header]
+name = "ConstructOpAnalyzeGLGR"
+addr = 0x295fd0
+
+[header.args]

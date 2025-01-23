@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314669Z
+addr = 0x336744
+size = 0xa4
+name = "rfc_set_port_state"
+artifact_type = "Function"
+
+[header]
+name = "rfc_set_port_state"
+addr = 0x336744
+
+[header.args]

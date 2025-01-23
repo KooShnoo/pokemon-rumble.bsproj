@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312339Z
+addr = 0x2e77c0
+size = 0x484
+name = "asyncRoutine"
+artifact_type = "Function"
+
+[header]
+name = "asyncRoutine"
+addr = 0x2e77c0
+
+[header.args]

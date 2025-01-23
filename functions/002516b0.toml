@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308599Z
+addr = 0x2516b0
+size = 0x120
+name = "GetAnmResult"
+artifact_type = "Function"
+
+[header]
+name = "GetAnmResult"
+addr = 0x2516b0
+
+[header.args]

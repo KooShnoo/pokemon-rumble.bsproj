@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314593Z
+addr = 0x33339c
+size = 0x68
+name = "PORT_DlcReleaseInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_DlcReleaseInd"
+addr = 0x33339c
+
+[header.args]

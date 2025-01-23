@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314403Z
+addr = 0x32ccfc
+size = 0xa4
+name = "L2CA_DisconnectReq"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_DisconnectReq"
+addr = 0x32ccfc
+
+[header.args]

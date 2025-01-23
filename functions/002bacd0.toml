@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310215Z
+addr = 0x2bacd0
+size = 0xa4
+name = "__OSReturnToMenuForError"
+artifact_type = "Function"
+
+[header]
+name = "__OSReturnToMenuForError"
+addr = 0x2bacd0
+
+[header.args]

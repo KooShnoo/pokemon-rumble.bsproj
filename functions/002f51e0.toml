@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312631Z
+addr = 0x2f51e0
+size = 0xa8
+name = "PADClampTrigger"
+artifact_type = "Function"
+
+[header]
+name = "PADClampTrigger"
+addr = 0x2f51e0
+
+[header.args]

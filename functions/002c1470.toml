@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310561Z
+addr = 0x2c1470
+size = 0x118
+name = "EXIAttach"
+artifact_type = "Function"
+
+[header]
+name = "EXIAttach"
+addr = 0x2c1470
+
+[header.args]

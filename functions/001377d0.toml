@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306907Z
+addr = 0x1377d0
+size = 0x1d4
+name = "NewEffectWithPosDir"
+artifact_type = "Function"
+
+[header]
+name = "NewEffectWithPosDir"
+addr = 0x1377d0
+
+[header.args]

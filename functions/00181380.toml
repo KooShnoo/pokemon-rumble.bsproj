@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307682Z
+addr = 0x181380
+size = 0x984
+name = "update_controller"
+artifact_type = "Function"
+
+[header]
+name = "update_controller"
+addr = 0x181380
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310751Z
+addr = 0x2c4df0
+size = 0x548
+name = "VIInit"
+artifact_type = "Function"
+
+[header]
+name = "VIInit"
+addr = 0x2c4df0
+
+[header.args]

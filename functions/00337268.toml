@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314716Z
+addr = 0x337268
+size = 0x84
+name = "rfc_send_fcon"
+artifact_type = "Function"
+
+[header]
+name = "rfc_send_fcon"
+addr = 0x337268
+
+[header.args]

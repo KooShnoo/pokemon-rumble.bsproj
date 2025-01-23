@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310049Z
+addr = 0x2b4fb0
+size = 0x80
+name = "OSReport"
+artifact_type = "Function"
+
+[header]
+name = "OSReport"
+addr = 0x2b4fb0
+
+[header.args]

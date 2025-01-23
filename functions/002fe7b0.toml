@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312789Z
+addr = 0x2fe7b0
+size = 0xae8
+name = "__wpadGetDevConfig"
+artifact_type = "Function"
+
+[header]
+name = "__wpadGetDevConfig"
+addr = 0x2fe7b0
+
+[header.args]

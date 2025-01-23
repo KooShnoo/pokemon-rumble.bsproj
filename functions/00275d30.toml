@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309065Z
+addr = 0x275d30
+size = 0x278
+name = "SetVoiceMix"
+artifact_type = "Function"
+
+[header]
+name = "SetVoiceMix"
+addr = 0x275d30
+
+[header.args]

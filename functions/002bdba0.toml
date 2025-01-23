@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310346Z
+addr = 0x2bdba0
+size = 0x118
+name = "__OSInitSTM"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitSTM"
+addr = 0x2bdba0
+
+[header.args]

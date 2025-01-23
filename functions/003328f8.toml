@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314569Z
+addr = 0x3328f8
+size = 0x1b0
+name = "PORT_ParNegInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_ParNegInd"
+addr = 0x3328f8
+
+[header.args]

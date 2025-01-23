@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309759Z
+addr = 0x2b05f0
+size = 0x84
+name = "UnbindAnimation"
+artifact_type = "Function"
+
+[header]
+name = "UnbindAnimation"
+addr = 0x2b05f0
+
+[header.args]

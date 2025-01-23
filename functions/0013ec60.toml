@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307016Z
+addr = 0x13ec60
+size = 0x5c
+name = "GetMaxGrade"
+artifact_type = "Function"
+
+[header]
+name = "GetMaxGrade"
+addr = 0x13ec60
+
+[header.args]

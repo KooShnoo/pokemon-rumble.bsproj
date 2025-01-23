@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312541Z
+addr = 0x2f3060
+size = 0x1e4
+name = "iosFree"
+artifact_type = "Function"
+
+[header]
+name = "iosFree"
+addr = 0x2f3060
+
+[header.args]

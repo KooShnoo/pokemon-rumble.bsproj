@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313768Z
+addr = 0x31df18
+size = 0x78
+name = "btm_discovery_db_init"
+artifact_type = "Function"
+
+[header]
+name = "btm_discovery_db_init"
+addr = 0x31df18
+
+[header.args]

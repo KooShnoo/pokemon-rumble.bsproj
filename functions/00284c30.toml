@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309245Z
+addr = 0x284c30
+size = 0x138
+name = "ReadGroupItemInfo"
+artifact_type = "Function"
+
+[header]
+name = "ReadGroupItemInfo"
+addr = 0x284c30
+
+[header.args]

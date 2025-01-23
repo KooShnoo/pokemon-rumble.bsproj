@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314539Z
+addr = 0x332008
+size = 0x148
+name = "l2cu_process_peer_cfg_req"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_process_peer_cfg_req"
+addr = 0x332008
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313940Z
+addr = 0x3229a8
+size = 0x2e8
+name = "btm_sec_rmt_name_request_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_rmt_name_request_complete"
+addr = 0x3229a8
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310788Z
+addr = 0x2c6a30
+size = 0x88
+name = "WaitMicroTime"
+artifact_type = "Function"
+
+[header]
+name = "WaitMicroTime"
+addr = 0x2c6a30
+
+[header.args]

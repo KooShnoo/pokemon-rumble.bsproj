@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307899Z
+addr = 0x21b680
+size = 0x28
+name = "VFipf2_detach"
+artifact_type = "Function"
+
+[header]
+name = "VFipf2_detach"
+addr = 0x21b680
+
+[header.args]

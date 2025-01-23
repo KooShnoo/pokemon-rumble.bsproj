@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308637Z
+addr = 0x2539e0
+size = 0xa4
+name = "GetRotTrans"
+artifact_type = "Function"
+
+[header]
+name = "GetRotTrans"
+addr = 0x2539e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307796Z
+addr = 0x19caa0
+size = 0x110
+name = "__HBMSYNGetRelativePitch"
+artifact_type = "Function"
+
+[header]
+name = "__HBMSYNGetRelativePitch"
+addr = 0x19caa0
+
+[header.args]

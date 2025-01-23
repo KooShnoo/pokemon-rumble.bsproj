@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309665Z
+addr = 0x2a9f50
+size = 0x10c
+name = "DrawContent"
+artifact_type = "Function"
+
+[header]
+name = "DrawContent"
+addr = 0x2a9f50
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313978Z
+addr = 0x3244bc
+size = 0xe0
+name = "btm_sec_collision_timeout"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_collision_timeout"
+addr = 0x3244bc
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315490Z
+addr = 0x34e808
+size = 0x54
+name = "TRKInitializeIntDrivenUART"
+artifact_type = "Function"
+
+[header]
+name = "TRKInitializeIntDrivenUART"
+addr = 0x34e808
+
+[header.args]

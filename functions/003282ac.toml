@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314137Z
+addr = 0x3282ac
+size = 0x1c0
+name = "btsnd_hcic_write_stored_key"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_stored_key"
+addr = 0x3282ac
+
+[header.args]

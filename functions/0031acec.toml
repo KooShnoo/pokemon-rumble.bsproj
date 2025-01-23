@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313620Z
+addr = 0x31acec
+size = 0x8c
+name = "btm_read_remote_version_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_remote_version_complete"
+addr = 0x31acec
+
+[header.args]

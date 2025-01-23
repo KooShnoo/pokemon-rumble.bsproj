@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310931Z
+addr = 0x2cb6c0
+size = 0x264
+name = "SETVCDATTR"
+artifact_type = "Function"
+
+[header]
+name = "SETVCDATTR"
+addr = 0x2cb6c0
+
+[header.args]

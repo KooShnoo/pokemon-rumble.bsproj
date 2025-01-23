@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307194Z
+addr = 0x148130
+size = 0x8c
+name = "method_BModelObj_stop"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_stop"
+addr = 0x148130
+
+[header.args]

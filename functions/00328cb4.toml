@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314188Z
+addr = 0x328cb4
+size = 0x420
+name = "btsnd_hcic_set_afh_channels"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_set_afh_channels"
+addr = 0x328cb4
+
+[header.args]

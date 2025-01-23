@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314135Z
+addr = 0x32824c
+size = 0x60
+name = "btsnd_hcic_read_stored_key"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_read_stored_key"
+addr = 0x32824c
+
+[header.args]

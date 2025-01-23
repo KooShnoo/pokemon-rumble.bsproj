@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308151Z
+addr = 0x24afd0
+size = 0x54
+name = "ResWriteSSMask"
+artifact_type = "Function"
+
+[header]
+name = "ResWriteSSMask"
+addr = 0x24afd0
+
+[header.args]

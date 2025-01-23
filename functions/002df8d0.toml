@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311863Z
+addr = 0x2df8d0
+size = 0x144
+name = "AXFXReverbStdExp__AllocDelayLine"
+artifact_type = "Function"
+
+[header]
+name = "AXFXReverbStdExp__AllocDelayLine"
+addr = 0x2df8d0
+
+[header.args]

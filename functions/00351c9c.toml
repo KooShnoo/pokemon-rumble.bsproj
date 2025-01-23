@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315707Z
+addr = 0x351c9c
+size = 0x118
+name = "TRKSwapAndGo"
+artifact_type = "Function"
+
+[header]
+name = "TRKSwapAndGo"
+addr = 0x351c9c
+
+[header.args]

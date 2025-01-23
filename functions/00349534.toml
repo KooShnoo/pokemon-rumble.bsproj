@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315319Z
+addr = 0x349534
+size = 0x34
+name = "abort"
+artifact_type = "Function"
+
+[header]
+name = "abort"
+addr = 0x349534
+
+[header.args]

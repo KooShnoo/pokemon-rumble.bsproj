@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313925Z
+addr = 0x32206c
+size = 0x454
+name = "btm_sec_l2cap_access_req"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_l2cap_access_req"
+addr = 0x32206c
+
+[header.args]

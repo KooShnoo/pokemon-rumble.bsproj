@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307765Z
+addr = 0x192bb0
+size = 0x180
+name = "SetTextColor"
+artifact_type = "Function"
+
+[header]
+name = "SetTextColor"
+addr = 0x192bb0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314499Z
+addr = 0x330ca4
+size = 0xc4
+name = "l2cu_send_peer_connect_req"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_send_peer_connect_req"
+addr = 0x330ca4
+
+[header.args]

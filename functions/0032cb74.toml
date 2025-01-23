@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314398Z
+addr = 0x32cb74
+size = 0xb8
+name = "L2CA_ConfigReq"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_ConfigReq"
+addr = 0x32cb74
+
+[header.args]

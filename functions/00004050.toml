@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306456Z
+addr = 0x4050
+size = 0x16c
+name = "__start"
+artifact_type = "Function"
+
+[header]
+name = "__start"
+addr = 0x4050
+
+[header.args]

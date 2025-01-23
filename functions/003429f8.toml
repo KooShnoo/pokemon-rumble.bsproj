@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315135Z
+addr = 0x3429f8
+size = 0x124
+name = "FixBlock_construct"
+artifact_type = "Function"
+
+[header]
+name = "FixBlock_construct"
+addr = 0x3429f8
+
+[header.args]

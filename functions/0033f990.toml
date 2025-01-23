@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315022Z
+addr = 0x33f990
+size = 0xc8
+name = "__va_arg"
+artifact_type = "Function"
+
+[header]
+name = "__va_arg"
+addr = 0x33f990
+
+[header.args]

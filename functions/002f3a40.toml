@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312562Z
+addr = 0x2f3a40
+size = 0x148
+name = "ISFS_ReadDirAsync"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_ReadDirAsync"
+addr = 0x2f3a40
+
+[header.args]

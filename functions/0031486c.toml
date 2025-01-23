@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313315Z
+addr = 0x31486c
+size = 0xb4
+name = "ptim_timer_update"
+artifact_type = "Function"
+
+[header]
+name = "ptim_timer_update"
+addr = 0x31486c
+
+[header.args]

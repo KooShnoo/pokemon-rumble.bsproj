@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307046Z
+addr = 0x142200
+size = 0x50
+name = "GetGameRegion"
+artifact_type = "Function"
+
+[header]
+name = "GetGameRegion"
+addr = 0x142200
+
+[header.args]

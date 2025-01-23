@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307783Z
+addr = 0x19c3f0
+size = 0x11c
+name = "__HBMSYNMidiIn"
+artifact_type = "Function"
+
+[header]
+name = "__HBMSYNMidiIn"
+addr = 0x19c3f0
+
+[header.args]

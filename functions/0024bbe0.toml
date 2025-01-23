@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308210Z
+addr = 0x24bbe0
+size = 0x98
+name = "GetResAnmTexSrt"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmTexSrt"
+addr = 0x24bbe0
+
+[header.args]

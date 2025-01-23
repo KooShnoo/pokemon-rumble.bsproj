@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314445Z
+addr = 0x32f0e0
+size = 0x198
+name = "l2c_link_adjust_allocation"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_adjust_allocation"
+addr = 0x32f0e0
+
+[header.args]

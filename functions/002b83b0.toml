@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310107Z
+addr = 0x2b83b0
+size = 0x288
+name = "OSGetFontTexel"
+artifact_type = "Function"
+
+[header]
+name = "OSGetFontTexel"
+addr = 0x2b83b0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313612Z
+addr = 0x31a878
+size = 0x16c
+name = "btm_acl_encrypt_change"
+artifact_type = "Function"
+
+[header]
+name = "btm_acl_encrypt_change"
+addr = 0x31a878
+
+[header.args]

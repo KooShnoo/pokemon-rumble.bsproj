@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313085Z
+addr = 0x3121f0
+size = 0xec
+name = "GKI_add_to_timer_list"
+artifact_type = "Function"
+
+[header]
+name = "GKI_add_to_timer_list"
+addr = 0x3121f0
+
+[header.args]

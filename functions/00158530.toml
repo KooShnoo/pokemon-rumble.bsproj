@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307400Z
+addr = 0x158530
+size = 0xac
+name = "method_pprGetWazaKouka"
+artifact_type = "Function"
+
+[header]
+name = "method_pprGetWazaKouka"
+addr = 0x158530
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314818Z
+addr = 0x33a1e0
+size = 0xd8
+name = "SDP_AddUuidSequence"
+artifact_type = "Function"
+
+[header]
+name = "SDP_AddUuidSequence"
+addr = 0x33a1e0
+
+[header.args]

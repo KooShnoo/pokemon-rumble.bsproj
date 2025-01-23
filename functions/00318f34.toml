@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313549Z
+addr = 0x318f34
+size = 0x11c
+name = "bta_hh_get_acl_q_info"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_get_acl_q_info"
+addr = 0x318f34
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313410Z
+addr = 0x3159dc
+size = 0x5c
+name = "bta_dm_search_cancel_transac_cmpl"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_search_cancel_transac_cmpl"
+addr = 0x3159dc
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313653Z
+addr = 0x31b878
+size = 0x13c
+name = "BTM_ReadLinkQuality"
+artifact_type = "Function"
+
+[header]
+name = "BTM_ReadLinkQuality"
+addr = 0x31b878
+
+[header.args]

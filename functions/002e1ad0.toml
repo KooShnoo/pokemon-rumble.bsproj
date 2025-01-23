@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312121Z
+addr = 0x2e1ad0
+size = 0xa0
+name = "MEMFreeToFrmHeap"
+artifact_type = "Function"
+
+[header]
+name = "MEMFreeToFrmHeap"
+addr = 0x2e1ad0
+
+[header.args]

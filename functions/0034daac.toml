@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315429Z
+addr = 0x34daac
+size = 0x24
+name = "gdev_cc_pre_continue"
+artifact_type = "Function"
+
+[header]
+name = "gdev_cc_pre_continue"
+addr = 0x34daac
+
+[header.args]

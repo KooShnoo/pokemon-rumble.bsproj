@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308455Z
+addr = 0x24f650
+size = 0x7c
+name = "SetEffectMtx"
+artifact_type = "Function"
+
+[header]
+name = "SetEffectMtx"
+addr = 0x24f650
+
+[header.args]

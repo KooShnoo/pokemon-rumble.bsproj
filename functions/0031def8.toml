@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313762Z
+addr = 0x31def8
+size = 0x1c
+name = "btm_report_device_status"
+artifact_type = "Function"
+
+[header]
+name = "btm_report_device_status"
+addr = 0x31def8
+
+[header.args]

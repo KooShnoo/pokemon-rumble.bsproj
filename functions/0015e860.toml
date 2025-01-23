@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307493Z
+addr = 0x15e860
+size = 0x128
+name = "SetWazaDescRow"
+artifact_type = "Function"
+
+[header]
+name = "SetWazaDescRow"
+addr = 0x15e860
+
+[header.args]

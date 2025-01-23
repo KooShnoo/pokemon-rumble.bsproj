@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307170Z
+addr = 0x147450
+size = 0x174
+name = "method_BModelObj_request"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_request"
+addr = 0x147450
+
+[header.args]

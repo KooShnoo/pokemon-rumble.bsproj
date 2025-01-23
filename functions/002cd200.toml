@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311028Z
+addr = 0x2cd200
+size = 0xd8
+name = "__GXSendFlushPrim"
+artifact_type = "Function"
+
+[header]
+name = "__GXSendFlushPrim"
+addr = 0x2cd200
+
+[header.args]

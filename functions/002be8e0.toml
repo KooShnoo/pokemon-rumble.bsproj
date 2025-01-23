@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310385Z
+addr = 0x2be8e0
+size = 0x128
+name = "__OSReadStateFlags"
+artifact_type = "Function"
+
+[header]
+name = "__OSReadStateFlags"
+addr = 0x2be8e0
+
+[header.args]

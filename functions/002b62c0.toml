@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310069Z
+addr = 0x2b62c0
+size = 0xc8
+name = "__OSLaunchMenu"
+artifact_type = "Function"
+
+[header]
+name = "__OSLaunchMenu"
+addr = 0x2b62c0
+
+[header.args]

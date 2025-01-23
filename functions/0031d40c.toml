@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313709Z
+addr = 0x31d40c
+size = 0xb8
+name = "BTM_SetLocalDeviceName"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetLocalDeviceName"
+addr = 0x31d40c
+
+[header.args]

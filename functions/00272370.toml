@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308984Z
+addr = 0x272370
+size = 0x6c
+name = "GetOutputVolume"
+artifact_type = "Function"
+
+[header]
+name = "GetOutputVolume"
+addr = 0x272370
+
+[header.args]

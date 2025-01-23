@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310953Z
+addr = 0x2cc100
+size = 0x25c
+name = "GXGetVtxAttrFmt"
+artifact_type = "Function"
+
+[header]
+name = "GXGetVtxAttrFmt"
+addr = 0x2cc100
+
+[header.args]

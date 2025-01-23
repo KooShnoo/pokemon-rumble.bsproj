@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313950Z
+addr = 0x32320c
+size = 0x40
+name = "btm_sec_is_bonding"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_is_bonding"
+addr = 0x32320c
+
+[header.args]

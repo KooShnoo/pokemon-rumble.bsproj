@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315589Z
+addr = 0x34f1a4
+size = 0x118
+name = "HandleOpenFileSupportRequest"
+artifact_type = "Function"
+
+[header]
+name = "HandleOpenFileSupportRequest"
+addr = 0x34f1a4
+
+[header.args]

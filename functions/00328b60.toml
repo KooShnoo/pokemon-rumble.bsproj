@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314181Z
+addr = 0x328b60
+size = 0x60
+name = "btsnd_hcic_read_bd_addr"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_read_bd_addr"
+addr = 0x328b60
+
+[header.args]

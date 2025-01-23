@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313930Z
+addr = 0x32276c
+size = 0x12c
+name = "btm_sec_conn_req"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_conn_req"
+addr = 0x32276c
+
+[header.args]

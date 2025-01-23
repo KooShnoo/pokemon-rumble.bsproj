@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312678Z
+addr = 0x2f7b80
+size = 0x194
+name = "__wpadCalcControllerData"
+artifact_type = "Function"
+
+[header]
+name = "__wpadCalcControllerData"
+addr = 0x2f7b80
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309497Z
+addr = 0x296c50
+size = 0x10
+name = "MWInitializeMutex"
+artifact_type = "Function"
+
+[header]
+name = "MWInitializeMutex"
+addr = 0x296c50
+
+[header.args]

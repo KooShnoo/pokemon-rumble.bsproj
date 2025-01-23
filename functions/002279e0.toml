@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307946Z
+addr = 0x2279e0
+size = 0x774
+name = "CreateEmitterTmp"
+artifact_type = "Function"
+
+[header]
+name = "CreateEmitterTmp"
+addr = 0x2279e0
+
+[header.args]

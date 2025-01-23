@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309366Z
+addr = 0x28db50
+size = 0x58
+name = "ThreadFunc"
+artifact_type = "Function"
+
+[header]
+name = "ThreadFunc"
+addr = 0x28db50
+
+[header.args]

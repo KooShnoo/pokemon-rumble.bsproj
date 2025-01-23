@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308999Z
+addr = 0x272f30
+size = 0xf4
+name = "ShutdownEffect"
+artifact_type = "Function"
+
+[header]
+name = "ShutdownEffect"
+addr = 0x272f30
+
+[header.args]

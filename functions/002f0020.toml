@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312426Z
+addr = 0x2f0020
+size = 0x50
+name = "ARCFastOpen"
+artifact_type = "Function"
+
+[header]
+name = "ARCFastOpen"
+addr = 0x2f0020
+
+[header.args]

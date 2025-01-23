@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311559Z
+addr = 0x2d3db0
+size = 0x250
+name = "ResetAlarmHandler"
+artifact_type = "Function"
+
+[header]
+name = "ResetAlarmHandler"
+addr = 0x2d3db0
+
+[header.args]

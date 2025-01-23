@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311569Z
+addr = 0x2d4400
+size = 0x178
+name = "stateCoverClosed_CMD"
+artifact_type = "Function"
+
+[header]
+name = "stateCoverClosed_CMD"
+addr = 0x2d4400
+
+[header.args]

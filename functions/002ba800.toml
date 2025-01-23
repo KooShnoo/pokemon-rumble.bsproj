@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310206Z
+addr = 0x2ba800
+size = 0xd4
+name = "OSRestart"
+artifact_type = "Function"
+
+[header]
+name = "OSRestart"
+addr = 0x2ba800
+
+[header.args]

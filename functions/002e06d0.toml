@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311877Z
+addr = 0x2e06d0
+size = 0x1f8
+name = "__InitParams"
+artifact_type = "Function"
+
+[header]
+name = "__InitParams"
+addr = 0x2e06d0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314491Z
+addr = 0x330ad4
+size = 0x10
+name = "l2cu_get_conn_role"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_get_conn_role"
+addr = 0x330ad4
+
+[header.args]

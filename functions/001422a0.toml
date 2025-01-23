@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307052Z
+addr = 0x1422a0
+size = 0x50
+name = "GetGameLang"
+artifact_type = "Function"
+
+[header]
+name = "GetGameLang"
+addr = 0x1422a0
+
+[header.args]

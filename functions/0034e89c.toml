@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315495Z
+addr = 0x34e89c
+size = 0x3c
+name = "TRKReadUARTN"
+artifact_type = "Function"
+
+[header]
+name = "TRKReadUARTN"
+addr = 0x34e89c
+
+[header.args]

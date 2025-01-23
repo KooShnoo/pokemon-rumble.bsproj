@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314631Z
+addr = 0x3344f0
+size = 0x124
+name = "RFCOMM_DisconnectInd"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_DisconnectInd"
+addr = 0x3344f0
+
+[header.args]

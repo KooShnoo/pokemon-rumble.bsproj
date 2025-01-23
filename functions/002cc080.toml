@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310949Z
+addr = 0x2cc080
+size = 0x80
+name = "__GXSetVAT"
+artifact_type = "Function"
+
+[header]
+name = "__GXSetVAT"
+addr = 0x2cc080
+
+[header.args]

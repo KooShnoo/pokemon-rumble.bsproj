@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313920Z
+addr = 0x321ac4
+size = 0x1dc
+name = "BTM_DeviceAuthorized"
+artifact_type = "Function"
+
+[header]
+name = "BTM_DeviceAuthorized"
+addr = 0x321ac4
+
+[header.args]

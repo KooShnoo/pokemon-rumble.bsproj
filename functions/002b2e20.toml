@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309893Z
+addr = 0x2b2e20
+size = 0x54
+name = "__OSPSInit"
+artifact_type = "Function"
+
+[header]
+name = "__OSPSInit"
+addr = 0x2b2e20
+
+[header.args]

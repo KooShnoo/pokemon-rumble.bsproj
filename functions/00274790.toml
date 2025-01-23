@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309049Z
+addr = 0x274790
+size = 0x148
+name = "SetAdpcm"
+artifact_type = "Function"
+
+[header]
+name = "SetAdpcm"
+addr = 0x274790
+
+[header.args]

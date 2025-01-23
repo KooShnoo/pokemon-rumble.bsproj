@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309770Z
+addr = 0x2b0910
+size = 0x40
+name = "FontRefLink_Set"
+artifact_type = "Function"
+
+[header]
+name = "FontRefLink_Set"
+addr = 0x2b0910
+
+[header.args]

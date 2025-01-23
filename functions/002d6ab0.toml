@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311631Z
+addr = 0x2d6ab0
+size = 0x154
+name = "cbForNandWrite0"
+artifact_type = "Function"
+
+[header]
+name = "cbForNandWrite0"
+addr = 0x2d6ab0
+
+[header.args]

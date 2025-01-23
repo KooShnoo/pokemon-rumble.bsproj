@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312412Z
+addr = 0x2e9a90
+size = 0x16c
+name = "__SCF1"
+artifact_type = "Function"
+
+[header]
+name = "__SCF1"
+addr = 0x2e9a90
+
+[header.args]

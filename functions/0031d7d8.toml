@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313734Z
+addr = 0x31d7d8
+size = 0x6c
+name = "btm_vsc_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_vsc_complete"
+addr = 0x31d7d8
+
+[header.args]

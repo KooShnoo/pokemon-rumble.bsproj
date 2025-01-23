@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314698Z
+addr = 0x336cb0
+size = 0x2c
+name = "RFCOMM_DlcReleaseReq"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_DlcReleaseReq"
+addr = 0x336cb0
+
+[header.args]

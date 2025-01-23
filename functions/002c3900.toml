@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310707Z
+addr = 0x2c3900
+size = 0x2b4
+name = "GetTypeCallback"
+artifact_type = "Function"
+
+[header]
+name = "GetTypeCallback"
+addr = 0x2c3900
+
+[header.args]

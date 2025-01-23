@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315500Z
+addr = 0x34e914
+size = 0x14
+name = "ReserveEXI2Port"
+artifact_type = "Function"
+
+[header]
+name = "ReserveEXI2Port"
+addr = 0x34e914
+
+[header.args]

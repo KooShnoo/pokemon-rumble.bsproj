@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315019Z
+addr = 0x33f974
+size = 0x1c
+name = "strlen"
+artifact_type = "Function"
+
+[header]
+name = "strlen"
+addr = 0x33f974
+
+[header.args]

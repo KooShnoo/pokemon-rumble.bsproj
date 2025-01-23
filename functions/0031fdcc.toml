@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313846Z
+addr = 0x31fdcc
+size = 0xb8
+name = "BTM_ReadPowerMode"
+artifact_type = "Function"
+
+[header]
+name = "BTM_ReadPowerMode"
+addr = 0x31fdcc
+
+[header.args]

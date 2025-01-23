@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315669Z
+addr = 0x350bf4
+size = 0x284
+name = "TRKDoStep"
+artifact_type = "Function"
+
+[header]
+name = "TRKDoStep"
+addr = 0x350bf4
+
+[header.args]

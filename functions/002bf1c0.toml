@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310433Z
+addr = 0x2bf1c0
+size = 0x18
+name = "OSPlayTimeIsLimited"
+artifact_type = "Function"
+
+[header]
+name = "OSPlayTimeIsLimited"
+addr = 0x2bf1c0
+
+[header.args]

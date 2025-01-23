@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309260Z
+addr = 0x285090
+size = 0x120
+name = "ReadFilePos"
+artifact_type = "Function"
+
+[header]
+name = "ReadFilePos"
+addr = 0x285090
+
+[header.args]

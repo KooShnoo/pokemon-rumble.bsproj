@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315597Z
+addr = 0x34f4ac
+size = 0x34
+name = "TRKTargetContinue"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetContinue"
+addr = 0x34f4ac
+
+[header.args]

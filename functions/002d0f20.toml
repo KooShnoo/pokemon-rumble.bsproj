@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311478Z
+addr = 0x2d0f20
+size = 0x3c
+name = "GXSetScissorBoxOffset"
+artifact_type = "Function"
+
+[header]
+name = "GXSetScissorBoxOffset"
+addr = 0x2d0f20
+
+[header.args]

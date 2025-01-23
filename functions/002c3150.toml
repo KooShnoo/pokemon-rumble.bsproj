@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310660Z
+addr = 0x2c3150
+size = 0xc0
+name = "SIInit"
+artifact_type = "Function"
+
+[header]
+name = "SIInit"
+addr = 0x2c3150
+
+[header.args]

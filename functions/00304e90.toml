@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312847Z
+addr = 0x304e90
+size = 0x460
+name = "read_kpad_acc"
+artifact_type = "Function"
+
+[header]
+name = "read_kpad_acc"
+addr = 0x304e90
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309205Z
+addr = 0x2816e0
+size = 0x94
+name = "PauseAllChannel"
+artifact_type = "Function"
+
+[header]
+name = "PauseAllChannel"
+addr = 0x2816e0
+
+[header.args]

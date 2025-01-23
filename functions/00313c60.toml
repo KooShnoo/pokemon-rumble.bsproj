@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313190Z
+addr = 0x313c60
+size = 0x14
+name = "LogMsg_2"
+artifact_type = "Function"
+
+[header]
+name = "LogMsg_2"
+addr = 0x313c60
+
+[header.args]

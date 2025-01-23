@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307466Z
+addr = 0x15bdc0
+size = 0xa8
+name = "method_getBossHideHP"
+artifact_type = "Function"
+
+[header]
+name = "method_getBossHideHP"
+addr = 0x15bdc0
+
+[header.args]

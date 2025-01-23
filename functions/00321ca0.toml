@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313922Z
+addr = 0x321ca0
+size = 0x3cc
+name = "BTM_SecBond"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SecBond"
+addr = 0x321ca0
+
+[header.args]

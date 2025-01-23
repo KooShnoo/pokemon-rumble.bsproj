@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314053Z
+addr = 0x326be4
+size = 0x60
+name = "btsnd_hcic_inq_cancel"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_inq_cancel"
+addr = 0x326be4
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314481Z
+addr = 0x3307e8
+size = 0xd4
+name = "l2cu_allocate_lcb"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_allocate_lcb"
+addr = 0x3307e8
+
+[header.args]

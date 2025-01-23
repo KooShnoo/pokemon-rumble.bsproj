@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307674Z
+addr = 0x180470
+size = 0x204
+name = "calc_battery"
+artifact_type = "Function"
+
+[header]
+name = "calc_battery"
+addr = 0x180470
+
+[header.args]

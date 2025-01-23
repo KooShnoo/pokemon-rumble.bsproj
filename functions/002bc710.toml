@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310286Z
+addr = 0x2bc710
+size = 0x1d4
+name = "OSCancelThread"
+artifact_type = "Function"
+
+[header]
+name = "OSCancelThread"
+addr = 0x2bc710
+
+[header.args]

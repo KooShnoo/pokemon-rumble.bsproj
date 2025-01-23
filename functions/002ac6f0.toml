@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309675Z
+addr = 0x2ac6f0
+size = 0x24
+name = "__as"
+artifact_type = "Function"
+
+[header]
+name = "__as"
+addr = 0x2ac6f0
+
+[header.args]

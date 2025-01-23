@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307004Z
+addr = 0x13e5d0
+size = 0x58
+name = "GetTicketMonsno"
+artifact_type = "Function"
+
+[header]
+name = "GetTicketMonsno"
+addr = 0x13e5d0
+
+[header.args]

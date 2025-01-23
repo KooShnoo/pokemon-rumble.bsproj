@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308992Z
+addr = 0x272890
+size = 0x104
+name = "SetOutputMode"
+artifact_type = "Function"
+
+[header]
+name = "SetOutputMode"
+addr = 0x272890
+
+[header.args]

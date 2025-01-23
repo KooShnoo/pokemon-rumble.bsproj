@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314055Z
+addr = 0x326c44
+size = 0xc0
+name = "btsnd_hcic_per_inq_mode"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_per_inq_mode"
+addr = 0x326c44
+
+[header.args]

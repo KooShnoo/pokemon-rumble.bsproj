@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311446Z
+addr = 0x2d0c90
+size = 0x34
+name = "GXLoadNrmMtxIndx3x3"
+artifact_type = "Function"
+
+[header]
+name = "GXLoadNrmMtxIndx3x3"
+addr = 0x2d0c90
+
+[header.args]

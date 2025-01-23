@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309235Z
+addr = 0x2845c0
+size = 0x10c
+name = "ReadSound3DParam"
+artifact_type = "Function"
+
+[header]
+name = "ReadSound3DParam"
+addr = 0x2845c0
+
+[header.args]

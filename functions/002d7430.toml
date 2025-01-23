@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311651Z
+addr = 0x2d7430
+size = 0xcc
+name = "__DVDShowFatalMessage"
+artifact_type = "Function"
+
+[header]
+name = "__DVDShowFatalMessage"
+addr = 0x2d7430
+
+[header.args]

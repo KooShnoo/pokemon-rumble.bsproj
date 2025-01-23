@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315421Z
+addr = 0x34d914
+size = 0x3c
+name = "gdev_cc_initialize"
+artifact_type = "Function"
+
+[header]
+name = "gdev_cc_initialize"
+addr = 0x34d914
+
+[header.args]

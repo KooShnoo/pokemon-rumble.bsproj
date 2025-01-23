@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314675Z
+addr = 0x336814
+size = 0x68
+name = "RFCOMM_DlcEstablishReq"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_DlcEstablishReq"
+addr = 0x336814
+
+[header.args]

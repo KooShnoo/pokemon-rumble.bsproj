@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309161Z
+addr = 0x27f180
+size = 0xb8
+name = "ReadOffsetByLabel"
+artifact_type = "Function"
+
+[header]
+name = "ReadOffsetByLabel"
+addr = 0x27f180
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310982Z
+addr = 0x2cc9e0
+size = 0xcc
+name = "GXDrawDone"
+artifact_type = "Function"
+
+[header]
+name = "GXDrawDone"
+addr = 0x2cc9e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308894Z
+addr = 0x269fa0
+size = 0x2c
+name = "ForceDrawMode"
+artifact_type = "Function"
+
+[header]
+name = "ForceDrawMode"
+addr = 0x269fa0
+
+[header.args]

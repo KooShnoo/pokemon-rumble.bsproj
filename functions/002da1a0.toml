@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311719Z
+addr = 0x2da1a0
+size = 0xa8
+name = "__AIDHandler"
+artifact_type = "Function"
+
+[header]
+name = "__AIDHandler"
+addr = 0x2da1a0
+
+[header.args]

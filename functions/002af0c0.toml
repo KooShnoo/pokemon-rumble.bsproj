@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309748Z
+addr = 0x2af0c0
+size = 0xe8
+name = "GetStepCurveValue"
+artifact_type = "Function"
+
+[header]
+name = "GetStepCurveValue"
+addr = 0x2af0c0
+
+[header.args]

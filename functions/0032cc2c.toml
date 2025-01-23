@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314400Z
+addr = 0x32cc2c
+size = 0xd0
+name = "L2CA_ConfigRsp"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_ConfigRsp"
+addr = 0x32cc2c
+
+[header.args]

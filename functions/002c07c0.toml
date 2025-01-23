@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310502Z
+addr = 0x2c07c0
+size = 0x108
+name = "__OSReturnToMenul"
+artifact_type = "Function"
+
+[header]
+name = "__OSReturnToMenul"
+addr = 0x2c07c0
+
+[header.args]

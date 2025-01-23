@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314109Z
+addr = 0x327b40
+size = 0xb4
+name = "btsnd_hcic_hold_mode"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_hold_mode"
+addr = 0x327b40
+
+[header.args]

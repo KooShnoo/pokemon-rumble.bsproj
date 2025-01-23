@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314816Z
+addr = 0x339e48
+size = 0x398
+name = "SDP_AddAttribute"
+artifact_type = "Function"
+
+[header]
+name = "SDP_AddAttribute"
+addr = 0x339e48
+
+[header.args]

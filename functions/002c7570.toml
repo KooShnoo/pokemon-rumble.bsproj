@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310804Z
+addr = 0x2c7570
+size = 0xd78
+name = "__VISetMacrovision"
+artifact_type = "Function"
+
+[header]
+name = "__VISetMacrovision"
+addr = 0x2c7570
+
+[header.args]

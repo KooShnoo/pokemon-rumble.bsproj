@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315571Z
+addr = 0x34edf0
+size = 0x2c
+name = "TRKGetInput"
+artifact_type = "Function"
+
+[header]
+name = "TRKGetInput"
+addr = 0x34edf0
+
+[header.args]

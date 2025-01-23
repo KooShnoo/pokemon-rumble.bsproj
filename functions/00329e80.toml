@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314308Z
+addr = 0x329e80
+size = 0x190
+name = "HID_HostAddDev"
+artifact_type = "Function"
+
+[header]
+name = "HID_HostAddDev"
+addr = 0x329e80
+
+[header.args]

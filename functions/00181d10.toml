@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307684Z
+addr = 0x181d10
+size = 0x484
+name = "updateTrigPane"
+artifact_type = "Function"
+
+[header]
+name = "updateTrigPane"
+addr = 0x181d10
+
+[header.args]

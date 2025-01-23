@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314856Z
+addr = 0x33bb4c
+size = 0x190
+name = "sdp_connect_cfm"
+artifact_type = "Function"
+
+[header]
+name = "sdp_connect_cfm"
+addr = 0x33bb4c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309827Z
+addr = 0x2b1880
+size = 0x14
+name = "PPCHalt"
+artifact_type = "Function"
+
+[header]
+name = "PPCHalt"
+addr = 0x2b1880
+
+[header.args]

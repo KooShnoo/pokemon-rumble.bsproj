@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306935Z
+addr = 0x139e10
+size = 0x70
+name = "IsNoticeDisplayShown"
+artifact_type = "Function"
+
+[header]
+name = "IsNoticeDisplayShown"
+addr = 0x139e10
+
+[header.args]

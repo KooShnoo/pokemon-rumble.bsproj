@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313628Z
+addr = 0x31afb4
+size = 0xd8
+name = "BTM_IsAclConnectionUp"
+artifact_type = "Function"
+
+[header]
+name = "BTM_IsAclConnectionUp"
+addr = 0x31afb4
+
+[header.args]

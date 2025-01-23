@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314534Z
+addr = 0x331f40
+size = 0x10
+name = "l2cu_release_rcb"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_release_rcb"
+addr = 0x331f40
+
+[header.args]

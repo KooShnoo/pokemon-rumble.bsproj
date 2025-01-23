@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311628Z
+addr = 0x2d69b0
+size = 0xfc
+name = "cbForNandSeek"
+artifact_type = "Function"
+
+[header]
+name = "cbForNandSeek"
+addr = 0x2d69b0
+
+[header.args]

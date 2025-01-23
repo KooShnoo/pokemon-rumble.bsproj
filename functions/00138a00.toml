@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306925Z
+addr = 0x138a00
+size = 0x60
+name = "method_effFinalize"
+artifact_type = "Function"
+
+[header]
+name = "method_effFinalize"
+addr = 0x138a00
+
+[header.args]

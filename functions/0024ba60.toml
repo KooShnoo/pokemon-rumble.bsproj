@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308202Z
+addr = 0x24ba60
+size = 0x6c
+name = "GetResAnmTexPat"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmTexPat"
+addr = 0x24ba60
+
+[header.args]

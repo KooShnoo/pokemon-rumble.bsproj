@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314882Z
+addr = 0x33c5a8
+size = 0x410
+name = "process_service_search"
+artifact_type = "Function"
+
+[header]
+name = "process_service_search"
+addr = 0x33c5a8
+
+[header.args]

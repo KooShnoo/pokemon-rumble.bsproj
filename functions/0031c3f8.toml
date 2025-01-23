@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313678Z
+addr = 0x31c3f8
+size = 0x198
+name = "btm_find_oldest_dev"
+artifact_type = "Function"
+
+[header]
+name = "btm_find_oldest_dev"
+addr = 0x31c3f8
+
+[header.args]

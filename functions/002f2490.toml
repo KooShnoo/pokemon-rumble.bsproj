@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312518Z
+addr = 0x2f2490
+size = 0x138
+name = "IOS_IoctlAsync"
+artifact_type = "Function"
+
+[header]
+name = "IOS_IoctlAsync"
+addr = 0x2f2490
+
+[header.args]

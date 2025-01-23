@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307949Z
+addr = 0x2286b0
+size = 0x1b4
+name = "CalcEmitter"
+artifact_type = "Function"
+
+[header]
+name = "CalcEmitter"
+addr = 0x2286b0
+
+[header.args]

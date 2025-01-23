@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314807Z
+addr = 0x339c14
+size = 0x40
+name = "sdp_db_find_attr_in_rec"
+artifact_type = "Function"
+
+[header]
+name = "sdp_db_find_attr_in_rec"
+addr = 0x339c14
+
+[header.args]

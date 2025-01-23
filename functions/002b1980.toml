@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309860Z
+addr = 0x2b1980
+size = 0x28
+name = "PPCDisableSpeculation"
+artifact_type = "Function"
+
+[header]
+name = "PPCDisableSpeculation"
+addr = 0x2b1980
+
+[header.args]

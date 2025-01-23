@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310456Z
+addr = 0x2bf670
+size = 0x1cc
+name = "__OSGetPlayTime"
+artifact_type = "Function"
+
+[header]
+name = "__OSGetPlayTime"
+addr = 0x2bf670
+
+[header.args]

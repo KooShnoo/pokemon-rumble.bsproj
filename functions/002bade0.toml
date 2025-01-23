@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310220Z
+addr = 0x2bade0
+size = 0x30
+name = "OSGetResetCode"
+artifact_type = "Function"
+
+[header]
+name = "OSGetResetCode"
+addr = 0x2bade0
+
+[header.args]

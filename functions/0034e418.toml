@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315472Z
+addr = 0x34e418
+size = 0x68
+name = "TRKTargetTranslate"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetTranslate"
+addr = 0x34e418
+
+[header.args]

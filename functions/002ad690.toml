@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309723Z
+addr = 0x2ad690
+size = 0x88
+name = "SetTexCoordGenNum_"
+artifact_type = "Function"
+
+[header]
+name = "SetTexCoordGenNum_"
+addr = 0x2ad690
+
+[header.args]

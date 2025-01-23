@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312409Z
+addr = 0x2e9a20
+size = 0x54
+name = "SCGetWpadSpeakerVolume"
+artifact_type = "Function"
+
+[header]
+name = "SCGetWpadSpeakerVolume"
+addr = 0x2e9a20
+
+[header.args]

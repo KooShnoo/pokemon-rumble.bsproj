@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312598Z
+addr = 0x2f48d0
+size = 0x4
+name = "ISFS_Seek"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_Seek"
+addr = 0x2f48d0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310180Z
+addr = 0x2ba160
+size = 0xbc
+name = "OSTryLockMutex"
+artifact_type = "Function"
+
+[header]
+name = "OSTryLockMutex"
+addr = 0x2ba160
+
+[header.args]

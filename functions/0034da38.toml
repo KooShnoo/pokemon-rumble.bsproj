@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315426Z
+addr = 0x34da38
+size = 0x70
+name = "gdev_cc_write"
+artifact_type = "Function"
+
+[header]
+name = "gdev_cc_write"
+addr = 0x34da38
+
+[header.args]

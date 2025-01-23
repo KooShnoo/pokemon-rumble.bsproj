@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307841Z
+addr = 0x1c6db0
+size = 0x1dc
+name = "ks_initGX"
+artifact_type = "Function"
+
+[header]
+name = "ks_initGX"
+addr = 0x1c6db0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315032Z
+addr = 0x33facc
+size = 0xc
+name = "unexpected"
+artifact_type = "Function"
+
+[header]
+name = "unexpected"
+addr = 0x33facc
+
+[header.args]

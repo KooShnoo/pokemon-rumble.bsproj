@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306969Z
+addr = 0x13be30
+size = 0x11c
+name = "ShowDlgPiiList"
+artifact_type = "Function"
+
+[header]
+name = "ShowDlgPiiList"
+addr = 0x13be30
+
+[header.args]

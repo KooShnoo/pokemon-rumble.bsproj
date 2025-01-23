@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315584Z
+addr = 0x34ee88
+size = 0x1f4
+name = "TRK_SuppAccessFile"
+artifact_type = "Function"
+
+[header]
+name = "TRK_SuppAccessFile"
+addr = 0x34ee88
+
+[header.args]

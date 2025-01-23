@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310323Z
+addr = 0x2bd850
+size = 0x70
+name = "OSUTF16to32"
+artifact_type = "Function"
+
+[header]
+name = "OSUTF16to32"
+addr = 0x2bd850
+
+[header.args]

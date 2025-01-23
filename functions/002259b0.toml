@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307911Z
+addr = 0x2259b0
+size = 0x60
+name = "Effect__dt"
+artifact_type = "Function"
+
+[header]
+name = "Effect__dt"
+addr = 0x2259b0
+
+[header.args]

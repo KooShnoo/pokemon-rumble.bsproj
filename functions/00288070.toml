@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309285Z
+addr = 0x288070
+size = 0xf8
+name = "detail_SortPriorityList"
+artifact_type = "Function"
+
+[header]
+name = "detail_SortPriorityList"
+addr = 0x288070
+
+[header.args]

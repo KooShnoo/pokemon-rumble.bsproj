@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308465Z
+addr = 0x24f770
+size = 0x14
+name = "GXSetNumTevStages"
+artifact_type = "Function"
+
+[header]
+name = "GXSetNumTevStages"
+addr = 0x24f770
+
+[header.args]

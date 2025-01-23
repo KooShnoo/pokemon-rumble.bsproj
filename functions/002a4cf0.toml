@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309608Z
+addr = 0x2a4cf0
+size = 0x13c
+name = "Pane__dt"
+artifact_type = "Function"
+
+[header]
+name = "Pane__dt"
+addr = 0x2a4cf0
+
+[header.args]

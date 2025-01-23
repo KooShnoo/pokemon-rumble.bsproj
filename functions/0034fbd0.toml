@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315631Z
+addr = 0x34fbd0
+size = 0xf4
+name = "TRKAppendBuffer1_ui64"
+artifact_type = "Function"
+
+[header]
+name = "TRKAppendBuffer1_ui64"
+addr = 0x34fbd0
+
+[header.args]

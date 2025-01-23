@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307651Z
+addr = 0x17c390
+size = 0x54
+name = "Video_initialize"
+artifact_type = "Function"
+
+[header]
+name = "Video_initialize"
+addr = 0x17c390
+
+[header.args]

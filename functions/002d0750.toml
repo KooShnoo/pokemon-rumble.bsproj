@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311405Z
+addr = 0x2d0750
+size = 0x2c
+name = "GXSetColorUpdate"
+artifact_type = "Function"
+
+[header]
+name = "GXSetColorUpdate"
+addr = 0x2d0750
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308668Z
+addr = 0x254fb0
+size = 0x4c
+name = "GetResLightSetByRefNumber"
+artifact_type = "Function"
+
+[header]
+name = "GetResLightSetByRefNumber"
+addr = 0x254fb0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309255Z
+addr = 0x284f50
+size = 0x40
+name = "GetFileCount"
+artifact_type = "Function"
+
+[header]
+name = "GetFileCount"
+addr = 0x284f50
+
+[header.args]

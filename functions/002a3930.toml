@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309587Z
+addr = 0x2a3930
+size = 0x38
+name = "MTX34RotAxisFIdx"
+artifact_type = "Function"
+
+[header]
+name = "MTX34RotAxisFIdx"
+addr = 0x2a3930
+
+[header.args]

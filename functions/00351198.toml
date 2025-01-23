@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315687Z
+addr = 0x351198
+size = 0xf8
+name = "TRKValidMemory32"
+artifact_type = "Function"
+
+[header]
+name = "TRKValidMemory32"
+addr = 0x351198
+
+[header.args]

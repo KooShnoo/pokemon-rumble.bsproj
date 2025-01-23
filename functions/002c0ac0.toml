@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310527Z
+addr = 0x2c0ac0
+size = 0xe8
+name = "SetExiInterruptMask"
+artifact_type = "Function"
+
+[header]
+name = "SetExiInterruptMask"
+addr = 0x2c0ac0
+
+[header.args]

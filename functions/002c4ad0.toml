@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310745Z
+addr = 0x2c4ad0
+size = 0x118
+name = "getTiming"
+artifact_type = "Function"
+
+[header]
+name = "getTiming"
+addr = 0x2c4ad0
+
+[header.args]

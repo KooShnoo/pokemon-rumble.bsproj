@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306938Z
+addr = 0x139e80
+size = 0x70
+name = "GetCurrentNoticeDisplayType"
+artifact_type = "Function"
+
+[header]
+name = "GetCurrentNoticeDisplayType"
+addr = 0x139e80
+
+[header.args]

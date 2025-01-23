@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310342Z
+addr = 0x2bdab0
+size = 0xec
+name = "OSSetPowerCallback"
+artifact_type = "Function"
+
+[header]
+name = "OSSetPowerCallback"
+addr = 0x2bdab0
+
+[header.args]

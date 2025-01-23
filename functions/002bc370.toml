@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310278Z
+addr = 0x2bc370
+size = 0x3c
+name = "OSYieldThread"
+artifact_type = "Function"
+
+[header]
+name = "OSYieldThread"
+addr = 0x2bc370
+
+[header.args]

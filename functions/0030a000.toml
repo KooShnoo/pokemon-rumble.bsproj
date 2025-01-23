@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312906Z
+addr = 0x30a000
+size = 0x50
+name = "App_MEMalloc"
+artifact_type = "Function"
+
+[header]
+name = "App_MEMalloc"
+addr = 0x30a000
+
+[header.args]

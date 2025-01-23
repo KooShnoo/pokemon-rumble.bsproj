@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308786Z
+addr = 0x263390
+size = 0x160
+name = "DrawResMdlLoop"
+artifact_type = "Function"
+
+[header]
+name = "DrawResMdlLoop"
+addr = 0x263390
+
+[header.args]

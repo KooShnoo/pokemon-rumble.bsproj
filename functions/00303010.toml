@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312814Z
+addr = 0x303010
+size = 0x6f8
+name = "WPADiCreateKeyFor3rd"
+artifact_type = "Function"
+
+[header]
+name = "WPADiCreateKeyFor3rd"
+addr = 0x303010
+
+[header.args]

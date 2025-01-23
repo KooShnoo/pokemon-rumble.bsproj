@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308051Z
+addr = 0x236330
+size = 0x40
+name = "GetPtr"
+artifact_type = "Function"
+
+[header]
+name = "GetPtr"
+addr = 0x236330
+
+[header.args]

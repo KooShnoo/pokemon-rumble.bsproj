@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313630Z
+addr = 0x31b08c
+size = 0x5c
+name = "BTM_GetNumAclLinks"
+artifact_type = "Function"
+
+[header]
+name = "BTM_GetNumAclLinks"
+addr = 0x31b08c
+
+[header.args]

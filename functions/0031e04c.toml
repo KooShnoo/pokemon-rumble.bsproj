@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313775Z
+addr = 0x31e04c
+size = 0x284
+name = "BTM_SetDiscoverability"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetDiscoverability"
+addr = 0x31e04c
+
+[header.args]

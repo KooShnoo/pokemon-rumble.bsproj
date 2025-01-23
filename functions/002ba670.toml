@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310201Z
+addr = 0x2ba670
+size = 0x6c
+name = "__OSGetDiscState"
+artifact_type = "Function"
+
+[header]
+name = "__OSGetDiscState"
+addr = 0x2ba670
+
+[header.args]

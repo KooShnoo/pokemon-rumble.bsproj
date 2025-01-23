@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311582Z
+addr = 0x2d5bc0
+size = 0xd8
+name = "DVDInquiryAsync"
+artifact_type = "Function"
+
+[header]
+name = "DVDInquiryAsync"
+addr = 0x2d5bc0
+
+[header.args]

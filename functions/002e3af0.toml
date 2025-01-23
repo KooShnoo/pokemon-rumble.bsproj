@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312204Z
+addr = 0x2e3af0
+size = 0x10
+name = "DSPCheckMailFromDSP"
+artifact_type = "Function"
+
+[header]
+name = "DSPCheckMailFromDSP"
+addr = 0x2e3af0
+
+[header.args]

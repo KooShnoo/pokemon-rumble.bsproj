@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310466Z
+addr = 0x2bf9a0
+size = 0x134
+name = "NETCalcCRC32"
+artifact_type = "Function"
+
+[header]
+name = "NETCalcCRC32"
+addr = 0x2bf9a0
+
+[header.args]

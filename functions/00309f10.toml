@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312903Z
+addr = 0x309f10
+size = 0x8c
+name = "IUSB_WriteCtrlMsgAsync"
+artifact_type = "Function"
+
+[header]
+name = "IUSB_WriteCtrlMsgAsync"
+addr = 0x309f10
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309397Z
+addr = 0x292f40
+size = 0x1c
+name = "List_GetPrev"
+artifact_type = "Function"
+
+[header]
+name = "List_GetPrev"
+addr = 0x292f40
+
+[header.args]

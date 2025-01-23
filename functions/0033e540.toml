@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314938Z
+addr = 0x33e540
+size = 0x260
+name = "GDSetTexLookupMode"
+artifact_type = "Function"
+
+[header]
+name = "GDSetTexLookupMode"
+addr = 0x33e540
+
+[header.args]

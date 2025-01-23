@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314737Z
+addr = 0x337d38
+size = 0x624
+name = "rfc_process_mx_message"
+artifact_type = "Function"
+
+[header]
+name = "rfc_process_mx_message"
+addr = 0x337d38
+
+[header.args]

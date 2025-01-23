@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310066Z
+addr = 0x2b5c30
+size = 0x684
+name = "__OSLaunchNextFirmware"
+artifact_type = "Function"
+
+[header]
+name = "__OSLaunchNextFirmware"
+addr = 0x2b5c30
+
+[header.args]

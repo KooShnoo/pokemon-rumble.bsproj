@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308357Z
+addr = 0x24ee20
+size = 0xa8
+name = "GXSetTevColorOp"
+artifact_type = "Function"
+
+[header]
+name = "GXSetTevColorOp"
+addr = 0x24ee20
+
+[header.args]

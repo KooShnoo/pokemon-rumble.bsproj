@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309277Z
+addr = 0x287e70
+size = 0xd4
+name = "SoundPlayer__dt"
+artifact_type = "Function"
+
+[header]
+name = "SoundPlayer__dt"
+addr = 0x287e70
+
+[header.args]

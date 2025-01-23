@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312279Z
+addr = 0x2e6070
+size = 0x5c
+name = "nandCloseCallback"
+artifact_type = "Function"
+
+[header]
+name = "nandCloseCallback"
+addr = 0x2e6070
+
+[header.args]

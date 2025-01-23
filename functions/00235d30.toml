@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308035Z
+addr = 0x235d30
+size = 0x78
+name = "PSSinCosRad"
+artifact_type = "Function"
+
+[header]
+name = "PSSinCosRad"
+addr = 0x235d30
+
+[header.args]

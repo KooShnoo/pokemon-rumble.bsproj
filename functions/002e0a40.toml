@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311885Z
+addr = 0x2e0a40
+size = 0x14
+name = "AXFXGetHooks"
+artifact_type = "Function"
+
+[header]
+name = "AXFXGetHooks"
+addr = 0x2e0a40
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314930Z
+addr = 0x33e3d0
+size = 0x18
+name = "GDInitGDLObj"
+artifact_type = "Function"
+
+[header]
+name = "GDInitGDLObj"
+addr = 0x33e3d0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307275Z
+addr = 0x14a720
+size = 0xd8
+name = "method_CNullObj_mpIsCompleted"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_mpIsCompleted"
+addr = 0x14a720
+
+[header.args]

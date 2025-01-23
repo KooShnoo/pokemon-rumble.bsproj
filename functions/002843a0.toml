@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309230Z
+addr = 0x2843a0
+size = 0xe8
+name = "GetSoundType"
+artifact_type = "Function"
+
+[header]
+name = "GetSoundType"
+addr = 0x2843a0
+
+[header.args]

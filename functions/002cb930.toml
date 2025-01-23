@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310933Z
+addr = 0x2cb930
+size = 0xb0
+name = "__GXSetVCD"
+artifact_type = "Function"
+
+[header]
+name = "__GXSetVCD"
+addr = 0x2cb930
+
+[header.args]

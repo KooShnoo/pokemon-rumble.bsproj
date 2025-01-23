@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309805Z
+addr = 0x2b1660
+size = 0x130
+name = "DrawQuad"
+artifact_type = "Function"
+
+[header]
+name = "DrawQuad"
+addr = 0x2b1660
+
+[header.args]

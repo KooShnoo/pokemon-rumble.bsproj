@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307133Z
+addr = 0x145910
+size = 0xa0
+name = "method_BWorldLightSet_mpResume"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldLightSet_mpResume"
+addr = 0x145910
+
+[header.args]

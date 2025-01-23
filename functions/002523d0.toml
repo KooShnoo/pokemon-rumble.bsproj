@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308624Z
+addr = 0x2523d0
+size = 0x134
+name = "CalcAnimationFVS<nw4r::g3d::@unnamed@g3d_resanmchr_cpp@::CAnmFmtTraits<nw4r::g3d::ResAnmChrFVS96Data>>"
+artifact_type = "Function"
+
+[header]
+name = "CalcAnimationFVS<nw4r::g3d::@unnamed@g3d_resanmchr_cpp@::CAnmFmtTraits<nw4r::g3d::ResAnmChrFVS96Data>>"
+addr = 0x2523d0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309508Z
+addr = 0x296e70
+size = 0x404
+name = "GetRequireBufferSize"
+artifact_type = "Function"
+
+[header]
+name = "GetRequireBufferSize"
+addr = 0x296e70
+
+[header.args]

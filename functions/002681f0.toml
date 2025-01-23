@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308844Z
+addr = 0x2681f0
+size = 0x5c
+name = "SetMtx"
+artifact_type = "Function"
+
+[header]
+name = "SetMtx"
+addr = 0x2681f0
+
+[header.args]

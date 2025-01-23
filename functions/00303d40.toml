@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312823Z
+addr = 0x303d40
+size = 0x3a4
+name = "WPADWriteGameData"
+artifact_type = "Function"
+
+[header]
+name = "WPADWriteGameData"
+addr = 0x303d40
+
+[header.args]

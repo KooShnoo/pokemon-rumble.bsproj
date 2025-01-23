@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312127Z
+addr = 0x2e1b90
+size = 0x10
+name = "MEMAllocFromAllocator"
+artifact_type = "Function"
+
+[header]
+name = "MEMAllocFromAllocator"
+addr = 0x2e1b90
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313004Z
+addr = 0x30f180
+size = 0x554
+name = "__wudSecurityEventStackCallback"
+artifact_type = "Function"
+
+[header]
+name = "__wudSecurityEventStackCallback"
+addr = 0x30f180
+
+[header.args]

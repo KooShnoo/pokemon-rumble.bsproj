@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312641Z
+addr = 0x2f5680
+size = 0x320
+name = "PADTypeAndStatusCallback"
+artifact_type = "Function"
+
+[header]
+name = "PADTypeAndStatusCallback"
+addr = 0x2f5680
+
+[header.args]

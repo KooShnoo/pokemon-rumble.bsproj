@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313134Z
+addr = 0x313030
+size = 0x19c
+name = "uusb_ReadBulkDataCB"
+artifact_type = "Function"
+
+[header]
+name = "uusb_ReadBulkDataCB"
+addr = 0x313030
+
+[header.args]

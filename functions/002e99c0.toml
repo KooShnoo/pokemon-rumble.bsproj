@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312407Z
+addr = 0x2e99c0
+size = 0x54
+name = "SCGetWpadSensorBarPosition"
+artifact_type = "Function"
+
+[header]
+name = "SCGetWpadSensorBarPosition"
+addr = 0x2e99c0
+
+[header.args]

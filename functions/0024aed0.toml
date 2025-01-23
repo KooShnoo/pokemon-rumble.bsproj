@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308141Z
+addr = 0x24aed0
+size = 0x28
+name = "ResWriteBPCmd"
+artifact_type = "Function"
+
+[header]
+name = "ResWriteBPCmd"
+addr = 0x24aed0
+
+[header.args]

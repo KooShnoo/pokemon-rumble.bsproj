@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315480Z
+addr = 0x34e60c
+size = 0x88
+name = "TRKLoadContext"
+artifact_type = "Function"
+
+[header]
+name = "TRKLoadContext"
+addr = 0x34e60c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307860Z
+addr = 0x1e5cc0
+size = 0xd8
+name = "static_ctor_fn_801E5CC0"
+artifact_type = "Function"
+
+[header]
+name = "static_ctor_fn_801E5CC0"
+addr = 0x1e5cc0
+
+[header.args]

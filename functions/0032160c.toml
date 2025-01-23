@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313905Z
+addr = 0x32160c
+size = 0x78
+name = "BTM_SecRegister"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SecRegister"
+addr = 0x32160c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310858Z
+addr = 0x2c9940
+size = 0x44
+name = "PSVECNormalize"
+artifact_type = "Function"
+
+[header]
+name = "PSVECNormalize"
+addr = 0x2c9940
+
+[header.args]

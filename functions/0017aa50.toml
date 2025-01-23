@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307590Z
+addr = 0x17aa50
+size = 0x10
+name = "isPlayReady"
+artifact_type = "Function"
+
+[header]
+name = "isPlayReady"
+addr = 0x17aa50
+
+[header.args]

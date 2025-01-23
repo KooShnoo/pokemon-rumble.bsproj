@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312267Z
+addr = 0x2e5df0
+size = 0x78
+name = "NANDOpenAsync"
+artifact_type = "Function"
+
+[header]
+name = "NANDOpenAsync"
+addr = 0x2e5df0
+
+[header.args]

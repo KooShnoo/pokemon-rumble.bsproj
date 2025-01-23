@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310225Z
+addr = 0x2baf70
+size = 0x200
+name = "__OSInitSram"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitSram"
+addr = 0x2baf70
+
+[header.args]

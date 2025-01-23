@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312885Z
+addr = 0x308cc0
+size = 0x19c
+name = "_intrBlkCtrlIsoCb"
+artifact_type = "Function"
+
+[header]
+name = "_intrBlkCtrlIsoCb"
+addr = 0x308cc0
+
+[header.args]

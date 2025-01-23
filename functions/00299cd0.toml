@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309526Z
+addr = 0x299cd0
+size = 0x60
+name = "CharWriter_GetFontAscent"
+artifact_type = "Function"
+
+[header]
+name = "CharWriter_GetFontAscent"
+addr = 0x299cd0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309521Z
+addr = 0x299c10
+size = 0x60
+name = "CharWriter_GetFontWidth"
+artifact_type = "Function"
+
+[header]
+name = "CharWriter_GetFontWidth"
+addr = 0x299c10
+
+[header.args]

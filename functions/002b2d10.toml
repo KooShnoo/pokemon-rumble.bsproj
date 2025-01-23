@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309891Z
+addr = 0x2b2d10
+size = 0x10
+name = "__OSGetExceptionHandler"
+artifact_type = "Function"
+
+[header]
+name = "__OSGetExceptionHandler"
+addr = 0x2b2d10
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312261Z
+addr = 0x2e5aa0
+size = 0x84
+name = "NANDPrivateGetStatusAsync"
+artifact_type = "Function"
+
+[header]
+name = "NANDPrivateGetStatusAsync"
+addr = 0x2e5aa0
+
+[header.args]

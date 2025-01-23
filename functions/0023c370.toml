@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308082Z
+addr = 0x23c370
+size = 0x658
+name = "_SetupTexture"
+artifact_type = "Function"
+
+[header]
+name = "_SetupTexture"
+addr = 0x23c370
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307499Z
+addr = 0x170490
+size = 0x2c
+name = "ks_get_pkc_external_call"
+artifact_type = "Function"
+
+[header]
+name = "ks_get_pkc_external_call"
+addr = 0x170490
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309444Z
+addr = 0x294620
+size = 0xd4
+name = "Load"
+artifact_type = "Function"
+
+[header]
+name = "Load"
+addr = 0x294620
+
+[header.args]

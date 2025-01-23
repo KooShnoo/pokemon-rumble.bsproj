@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312465Z
+addr = 0x2f10c0
+size = 0x98
+name = "ESP_GetTitleId"
+artifact_type = "Function"
+
+[header]
+name = "ESP_GetTitleId"
+addr = 0x2f10c0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312565Z
+addr = 0x2f3b90
+size = 0x158
+name = "ISFS_GetAttr"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_GetAttr"
+addr = 0x2f3b90
+
+[header.args]

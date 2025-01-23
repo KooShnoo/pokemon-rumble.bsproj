@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308352Z
+addr = 0x24ea60
+size = 0xa8
+name = "GXSetTevAlphaOp"
+artifact_type = "Function"
+
+[header]
+name = "GXSetTevAlphaOp"
+addr = 0x24ea60
+
+[header.args]

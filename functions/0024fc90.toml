@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308502Z
+addr = 0x24fc90
+size = 0x2b8
+name = "GXGetIndTexMtx"
+artifact_type = "Function"
+
+[header]
+name = "GXGetIndTexMtx"
+addr = 0x24fc90
+
+[header.args]

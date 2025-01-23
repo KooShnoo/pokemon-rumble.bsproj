@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313562Z
+addr = 0x319570
+size = 0x64
+name = "BTA_HhClose"
+artifact_type = "Function"
+
+[header]
+name = "BTA_HhClose"
+addr = 0x319570
+
+[header.args]

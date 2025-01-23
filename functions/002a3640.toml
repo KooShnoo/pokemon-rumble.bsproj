@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309574Z
+addr = 0x2a3640
+size = 0x1b8
+name = "Atan2FIdx"
+artifact_type = "Function"
+
+[header]
+name = "Atan2FIdx"
+addr = 0x2a3640
+
+[header.args]

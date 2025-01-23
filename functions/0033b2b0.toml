@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314846Z
+addr = 0x33b2b0
+size = 0x9c
+name = "add_record"
+artifact_type = "Function"
+
+[header]
+name = "add_record"
+addr = 0x33b2b0
+
+[header.args]

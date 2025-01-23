@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313640Z
+addr = 0x31b230
+size = 0x1f4
+name = "btm_acl_role_changed"
+artifact_type = "Function"
+
+[header]
+name = "btm_acl_role_changed"
+addr = 0x31b230
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314175Z
+addr = 0x328adc
+size = 0x5c
+name = "btsnd_hcic_read_local_features"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_read_local_features"
+addr = 0x328adc
+
+[header.args]

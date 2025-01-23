@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314140Z
+addr = 0x32846c
+size = 0xb0
+name = "btsnd_hcic_delete_stored_key"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_delete_stored_key"
+addr = 0x32846c
+
+[header.args]

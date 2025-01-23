@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310375Z
+addr = 0x2be600
+size = 0x1ec
+name = "__OSStopPlayRecord"
+artifact_type = "Function"
+
+[header]
+name = "__OSStopPlayRecord"
+addr = 0x2be600
+
+[header.args]

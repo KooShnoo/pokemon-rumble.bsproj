@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309965Z
+addr = 0x2b3f50
+size = 0xcc
+name = "__OSStopAudioSystem"
+artifact_type = "Function"
+
+[header]
+name = "__OSStopAudioSystem"
+addr = 0x2b3f50
+
+[header.args]

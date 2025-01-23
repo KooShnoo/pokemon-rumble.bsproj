@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309410Z
+addr = 0x2930c0
+size = 0x30
+name = "LinkListImpl_Erase"
+artifact_type = "Function"
+
+[header]
+name = "LinkListImpl_Erase"
+addr = 0x2930c0
+
+[header.args]

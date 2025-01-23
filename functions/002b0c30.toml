@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309780Z
+addr = 0x2b0c30
+size = 0x2c
+name = "EqualsResName"
+artifact_type = "Function"
+
+[header]
+name = "EqualsResName"
+addr = 0x2b0c30
+
+[header.args]

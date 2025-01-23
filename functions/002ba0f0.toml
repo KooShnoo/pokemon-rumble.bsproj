@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310178Z
+addr = 0x2ba0f0
+size = 0x6c
+name = "__OSUnlockAllMutex"
+artifact_type = "Function"
+
+[header]
+name = "__OSUnlockAllMutex"
+addr = 0x2ba0f0
+
+[header.args]

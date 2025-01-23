@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306542Z
+addr = 0xa0760
+size = 0x150
+name = "AllocHeap"
+artifact_type = "Function"
+
+[header]
+name = "AllocHeap"
+addr = 0xa0760
+
+[header.args]

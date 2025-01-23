@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312374Z
+addr = 0x2e8cc0
+size = 0xd4
+name = "SCFindU8Item"
+artifact_type = "Function"
+
+[header]
+name = "SCFindU8Item"
+addr = 0x2e8cc0
+
+[header.args]

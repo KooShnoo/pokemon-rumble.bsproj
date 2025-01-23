@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309470Z
+addr = 0x295580
+size = 0x3c
+name = "ResFont_construct"
+artifact_type = "Function"
+
+[header]
+name = "ResFont_construct"
+addr = 0x295580
+
+[header.args]

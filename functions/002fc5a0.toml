@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312754Z
+addr = 0x2fc5a0
+size = 0x50
+name = "WPADSetSpeakerVolume"
+artifact_type = "Function"
+
+[header]
+name = "WPADSetSpeakerVolume"
+addr = 0x2fc5a0
+
+[header.args]

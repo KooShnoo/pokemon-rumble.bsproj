@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312189Z
+addr = 0x2e2d10
+size = 0xe8
+name = "CXSecureUnfilterDiff"
+artifact_type = "Function"
+
+[header]
+name = "CXSecureUnfilterDiff"
+addr = 0x2e2d10
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313935Z
+addr = 0x3228b4
+size = 0x40
+name = "btm_sec_dev_reset"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_dev_reset"
+addr = 0x3228b4
+
+[header.args]

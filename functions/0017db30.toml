@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307665Z
+addr = 0x17db30
+size = 0x200
+name = "init_volume"
+artifact_type = "Function"
+
+[header]
+name = "init_volume"
+addr = 0x17db30
+
+[header.args]

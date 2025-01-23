@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315695Z
+addr = 0x3514ac
+size = 0xf8
+name = "TRKTargetAccessDefault"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetAccessDefault"
+addr = 0x3514ac
+
+[header.args]

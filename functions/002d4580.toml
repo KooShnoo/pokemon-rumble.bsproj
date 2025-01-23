@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311572Z
+addr = 0x2d4580
+size = 0xd8
+name = "cbForStateCoverClosed"
+artifact_type = "Function"
+
+[header]
+name = "cbForStateCoverClosed"
+addr = 0x2d4580
+
+[header.args]

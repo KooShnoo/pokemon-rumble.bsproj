@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313429Z
+addr = 0x315e34
+size = 0x8c
+name = "bta_dm_remname_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_remname_cback"
+addr = 0x315e34
+
+[header.args]

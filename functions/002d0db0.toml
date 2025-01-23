@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311460Z
+addr = 0x2d0db0
+size = 0x90
+name = "__GXSetViewport"
+artifact_type = "Function"
+
+[header]
+name = "__GXSetViewport"
+addr = 0x2d0db0
+
+[header.args]

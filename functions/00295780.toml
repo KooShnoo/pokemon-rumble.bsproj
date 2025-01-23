@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309475Z
+addr = 0x295780
+size = 0x108
+name = "ResFont_Rebuild"
+artifact_type = "Function"
+
+[header]
+name = "ResFont_Rebuild"
+addr = 0x295780
+
+[header.args]

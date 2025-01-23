@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308804Z
+addr = 0x264d50
+size = 0x70
+name = "GetViewport"
+artifact_type = "Function"
+
+[header]
+name = "GetViewport"
+addr = 0x264d50
+
+[header.args]

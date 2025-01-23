@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315198Z
+addr = 0x345208
+size = 0x1c4
+name = "_fseek"
+artifact_type = "Function"
+
+[header]
+name = "_fseek"
+addr = 0x345208
+
+[header.args]

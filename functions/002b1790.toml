@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309807Z
+addr = 0x2b1790
+size = 0x70
+name = "BindAnimation"
+artifact_type = "Function"
+
+[header]
+name = "BindAnimation"
+addr = 0x2b1790
+
+[header.args]

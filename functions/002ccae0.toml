@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310987Z
+addr = 0x2ccae0
+size = 0x10
+name = "GXPokeAlphaMode"
+artifact_type = "Function"
+
+[header]
+name = "GXPokeAlphaMode"
+addr = 0x2ccae0
+
+[header.args]

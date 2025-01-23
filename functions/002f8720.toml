@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312683Z
+addr = 0x2f8720
+size = 0x274
+name = "__wpadClearControlBlock"
+artifact_type = "Function"
+
+[header]
+name = "__wpadClearControlBlock"
+addr = 0x2f8720
+
+[header.args]

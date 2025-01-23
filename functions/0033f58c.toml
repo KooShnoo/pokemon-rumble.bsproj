@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315007Z
+addr = 0x33f58c
+size = 0x124
+name = "__DBEXIReadReg"
+artifact_type = "Function"
+
+[header]
+name = "__DBEXIReadReg"
+addr = 0x33f58c
+
+[header.args]

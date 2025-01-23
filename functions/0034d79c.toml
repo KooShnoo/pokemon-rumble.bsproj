@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315416Z
+addr = 0x34d79c
+size = 0xa0
+name = "stricmp"
+artifact_type = "Function"
+
+[header]
+name = "stricmp"
+addr = 0x34d79c
+
+[header.args]

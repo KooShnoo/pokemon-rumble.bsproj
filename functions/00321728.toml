@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313912Z
+addr = 0x321728
+size = 0xb0
+name = "BTM_SetPinType"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetPinType"
+addr = 0x321728
+
+[header.args]

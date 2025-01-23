@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309840Z
+addr = 0x2b18e0
+size = 0x8
+name = "PPCMtpmc3"
+artifact_type = "Function"
+
+[header]
+name = "PPCMtpmc3"
+addr = 0x2b18e0
+
+[header.args]

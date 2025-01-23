@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312773Z
+addr = 0x2fdb80
+size = 0x20c
+name = "WPADControlBLC"
+artifact_type = "Function"
+
+[header]
+name = "WPADControlBLC"
+addr = 0x2fdb80
+
+[header.args]

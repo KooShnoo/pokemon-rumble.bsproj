@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312608Z
+addr = 0x2f4a40
+size = 0x1c
+name = "ISFS_Read"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_Read"
+addr = 0x2f4a40
+
+[header.args]

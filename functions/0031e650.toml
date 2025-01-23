@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313789Z
+addr = 0x31e650
+size = 0x10
+name = "BTM_IsInquiryActive"
+artifact_type = "Function"
+
+[header]
+name = "BTM_IsInquiryActive"
+addr = 0x31e650
+
+[header.args]

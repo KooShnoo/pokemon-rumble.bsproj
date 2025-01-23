@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309757Z
+addr = 0x2b0070
+size = 0x68
+name = "AnimResource_CalcAnimationNum"
+artifact_type = "Function"
+
+[header]
+name = "AnimResource_CalcAnimationNum"
+addr = 0x2b0070
+
+[header.args]

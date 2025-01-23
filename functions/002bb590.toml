@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310236Z
+addr = 0x2bb590
+size = 0x78
+name = "OSGetWirelessID"
+artifact_type = "Function"
+
+[header]
+name = "OSGetWirelessID"
+addr = 0x2bb590
+
+[header.args]

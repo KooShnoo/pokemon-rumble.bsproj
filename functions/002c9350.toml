@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310835Z
+addr = 0x2c9350
+size = 0xa4
+name = "C_MTXLightFrustum"
+artifact_type = "Function"
+
+[header]
+name = "C_MTXLightFrustum"
+addr = 0x2c9350
+
+[header.args]

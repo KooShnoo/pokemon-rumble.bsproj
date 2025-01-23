@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307151Z
+addr = 0x145fa0
+size = 0x98
+name = "SinDeg"
+artifact_type = "Function"
+
+[header]
+name = "SinDeg"
+addr = 0x145fa0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312921Z
+addr = 0x30aa50
+size = 0x168
+name = "__wudSyncDone"
+artifact_type = "Function"
+
+[header]
+name = "__wudSyncDone"
+addr = 0x30aa50
+
+[header.args]

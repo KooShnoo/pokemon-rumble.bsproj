@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307697Z
+addr = 0x1859b0
+size = 0x144
+name = "setAdjustFlag"
+artifact_type = "Function"
+
+[header]
+name = "setAdjustFlag"
+addr = 0x1859b0
+
+[header.args]

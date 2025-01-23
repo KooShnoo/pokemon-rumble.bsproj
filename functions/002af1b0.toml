@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309751Z
+addr = 0x2af1b0
+size = 0x1bc
+name = "GetHermiteCurveValue"
+artifact_type = "Function"
+
+[header]
+name = "GetHermiteCurveValue"
+addr = 0x2af1b0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311337Z
+addr = 0x2cfb60
+size = 0x24
+name = "__GXFlushTextureState"
+artifact_type = "Function"
+
+[header]
+name = "__GXFlushTextureState"
+addr = 0x2cfb60
+
+[header.args]

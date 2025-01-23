@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307748Z
+addr = 0x18d570
+size = 0xb8
+name = "SetAnimationEnable"
+artifact_type = "Function"
+
+[header]
+name = "SetAnimationEnable"
+addr = 0x18d570
+
+[header.args]

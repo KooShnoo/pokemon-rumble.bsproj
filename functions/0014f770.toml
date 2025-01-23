@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307348Z
+addr = 0x14f770
+size = 0x64
+name = "method_enablePauseForUI"
+artifact_type = "Function"
+
+[header]
+name = "method_enablePauseForUI"
+addr = 0x14f770
+
+[header.args]

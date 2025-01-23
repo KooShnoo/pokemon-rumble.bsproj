@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312434Z
+addr = 0x2f06f0
+size = 0x14
+name = "ARCGetStartAddrInMem"
+artifact_type = "Function"
+
+[header]
+name = "ARCGetStartAddrInMem"
+addr = 0x2f06f0
+
+[header.args]

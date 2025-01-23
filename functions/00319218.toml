@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313554Z
+addr = 0x319218
+size = 0x298
+name = "bta_hh_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_cback"
+addr = 0x319218
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315749Z
+addr = 0x3529ac
+size = 0x8
+name = "bta_sys_set_trace_level"
+artifact_type = "Function"
+
+[header]
+name = "bta_sys_set_trace_level"
+addr = 0x3529ac
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311389Z
+addr = 0x2d00d0
+size = 0x15c
+name = "GXSetTevOrder"
+artifact_type = "Function"
+
+[header]
+name = "GXSetTevOrder"
+addr = 0x2d00d0
+
+[header.args]

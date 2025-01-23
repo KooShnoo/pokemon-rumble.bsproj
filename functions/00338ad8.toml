@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314775Z
+addr = 0x338ad8
+size = 0x64
+name = "rfc_check_send_cmd"
+artifact_type = "Function"
+
+[header]
+name = "rfc_check_send_cmd"
+addr = 0x338ad8
+
+[header.args]

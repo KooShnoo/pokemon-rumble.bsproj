@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311438Z
+addr = 0x2d0bb0
+size = 0x50
+name = "GXLoadPosMtxImm"
+artifact_type = "Function"
+
+[header]
+name = "GXLoadPosMtxImm"
+addr = 0x2d0bb0
+
+[header.args]

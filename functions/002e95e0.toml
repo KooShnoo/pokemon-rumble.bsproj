@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312386Z
+addr = 0x2e95e0
+size = 0x54
+name = "SCGetAspectRatio"
+artifact_type = "Function"
+
+[header]
+name = "SCGetAspectRatio"
+addr = 0x2e95e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315264Z
+addr = 0x345ef8
+size = 0x40
+name = "strncmp"
+artifact_type = "Function"
+
+[header]
+name = "strncmp"
+addr = 0x345ef8
+
+[header.args]

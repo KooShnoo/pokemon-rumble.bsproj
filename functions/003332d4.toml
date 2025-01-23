@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314590Z
+addr = 0x3332d4
+size = 0xc8
+name = "PORT_LineStatusInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_LineStatusInd"
+addr = 0x3332d4
+
+[header.args]

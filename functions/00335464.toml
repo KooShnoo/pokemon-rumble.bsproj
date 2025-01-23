@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314644Z
+addr = 0x335464
+size = 0xf4
+name = "rfc_mx_conf_cnf"
+artifact_type = "Function"
+
+[header]
+name = "rfc_mx_conf_cnf"
+addr = 0x335464
+
+[header.args]

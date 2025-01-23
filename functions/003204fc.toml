@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313862Z
+addr = 0x3204fc
+size = 0xb0
+name = "btm_pm_proc_cmd_status"
+artifact_type = "Function"
+
+[header]
+name = "btm_pm_proc_cmd_status"
+addr = 0x3204fc
+
+[header.args]

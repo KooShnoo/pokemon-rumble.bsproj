@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311004Z
+addr = 0x2ccbf0
+size = 0x1c
+name = "GXPokeZMode"
+artifact_type = "Function"
+
+[header]
+name = "GXPokeZMode"
+addr = 0x2ccbf0
+
+[header.args]

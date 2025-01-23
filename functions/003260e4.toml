@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314038Z
+addr = 0x3260e4
+size = 0x1f8
+name = "gap_disconnect_ind"
+artifact_type = "Function"
+
+[header]
+name = "gap_disconnect_ind"
+addr = 0x3260e4
+
+[header.args]

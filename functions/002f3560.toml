@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312552Z
+addr = 0x2f3560
+size = 0x180
+name = "_isfsFuncCb"
+artifact_type = "Function"
+
+[header]
+name = "_isfsFuncCb"
+addr = 0x2f3560
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309921Z
+addr = 0x2b3810
+size = 0xac
+name = "DLInsert"
+artifact_type = "Function"
+
+[header]
+name = "DLInsert"
+addr = 0x2b3810
+
+[header.args]

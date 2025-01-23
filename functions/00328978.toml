@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314168Z
+addr = 0x328978
+size = 0x94
+name = "btsnd_hcic_write_link_super_tout"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_link_super_tout"
+addr = 0x328978
+
+[header.args]

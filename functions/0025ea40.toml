@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308778Z
+addr = 0x25ea40
+size = 0x270
+name = "static_ctor_fn_8025EA40"
+artifact_type = "Function"
+
+[header]
+name = "static_ctor_fn_8025EA40"
+addr = 0x25ea40
+
+[header.args]

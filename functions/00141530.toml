@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307042Z
+addr = 0x141530
+size = 0xe8
+name = "IsPasswordUsed"
+artifact_type = "Function"
+
+[header]
+name = "IsPasswordUsed"
+addr = 0x141530
+
+[header.args]

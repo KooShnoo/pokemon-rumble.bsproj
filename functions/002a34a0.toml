@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309564Z
+addr = 0x2a34a0
+size = 0x58
+name = "CntBit1"
+artifact_type = "Function"
+
+[header]
+name = "CntBit1"
+addr = 0x2a34a0
+
+[header.args]

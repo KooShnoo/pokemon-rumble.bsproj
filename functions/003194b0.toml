@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313557Z
+addr = 0x3194b0
+size = 0x88
+name = "BTA_HhEnable"
+artifact_type = "Function"
+
+[header]
+name = "BTA_HhEnable"
+addr = 0x3194b0
+
+[header.args]

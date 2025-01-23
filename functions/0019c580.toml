@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307787Z
+addr = 0x19c580
+size = 0x2cc
+name = "__HBMSYNSetupVolumeEnvelope"
+artifact_type = "Function"
+
+[header]
+name = "__HBMSYNSetupVolumeEnvelope"
+addr = 0x19c580
+
+[header.args]

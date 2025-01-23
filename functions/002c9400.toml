@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310838Z
+addr = 0x2c9400
+size = 0xf8
+name = "C_MTXLightPerspective"
+artifact_type = "Function"
+
+[header]
+name = "C_MTXLightPerspective"
+addr = 0x2c9400
+
+[header.args]

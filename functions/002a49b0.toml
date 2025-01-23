@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309601Z
+addr = 0x2a49b0
+size = 0x1ac
+name = "IntersectAABB_Ex"
+artifact_type = "Function"
+
+[header]
+name = "IntersectAABB_Ex"
+addr = 0x2a49b0
+
+[header.args]

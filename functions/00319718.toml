@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313569Z
+addr = 0x319718
+size = 0xa8
+name = "BTA_HhAddDev"
+artifact_type = "Function"
+
+[header]
+name = "BTA_HhAddDev"
+addr = 0x319718
+
+[header.args]

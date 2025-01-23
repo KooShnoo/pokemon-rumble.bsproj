@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313108Z
+addr = 0x312ae0
+size = 0x1ac
+name = "hcisu_h2_send_msg_now"
+artifact_type = "Function"
+
+[header]
+name = "hcisu_h2_send_msg_now"
+addr = 0x312ae0
+
+[header.args]

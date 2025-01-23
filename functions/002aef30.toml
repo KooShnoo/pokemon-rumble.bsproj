@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309745Z
+addr = 0x2aef30
+size = 0xd0
+name = "ReplaceImage"
+artifact_type = "Function"
+
+[header]
+name = "ReplaceImage"
+addr = 0x2aef30
+
+[header.args]

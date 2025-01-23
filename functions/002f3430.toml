@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312549Z
+addr = 0x2f3430
+size = 0x128
+name = "ISFS_OpenLib"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_OpenLib"
+addr = 0x2f3430
+
+[header.args]

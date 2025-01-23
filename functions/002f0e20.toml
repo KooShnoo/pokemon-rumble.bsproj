@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312460Z
+addr = 0x2f0e20
+size = 0xec
+name = "ESP_DiGetTmd"
+artifact_type = "Function"
+
+[header]
+name = "ESP_DiGetTmd"
+addr = 0x2f0e20
+
+[header.args]

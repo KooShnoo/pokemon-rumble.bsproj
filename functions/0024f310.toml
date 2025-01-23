@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308432Z
+addr = 0x24f310
+size = 0x3c
+name = "IsValidTexObj"
+artifact_type = "Function"
+
+[header]
+name = "IsValidTexObj"
+addr = 0x24f310
+
+[header.args]

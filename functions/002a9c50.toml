@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309660Z
+addr = 0x2a9c50
+size = 0x1d8
+name = "DrawSelf"
+artifact_type = "Function"
+
+[header]
+name = "DrawSelf"
+addr = 0x2a9c50
+
+[header.args]

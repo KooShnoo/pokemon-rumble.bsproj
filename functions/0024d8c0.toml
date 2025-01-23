@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308319Z
+addr = 0x24d8c0
+size = 0x54
+name = "GetResTexPlttInfoOffsetFromTexName"
+artifact_type = "Function"
+
+[header]
+name = "GetResTexPlttInfoOffsetFromTexName"
+addr = 0x24d8c0
+
+[header.args]

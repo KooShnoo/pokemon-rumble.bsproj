@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307094Z
+addr = 0x144b20
+size = 0xd4
+name = "method_BWorldLightSet_getMotionLength"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldLightSet_getMotionLength"
+addr = 0x144b20
+
+[header.args]

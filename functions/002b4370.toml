@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310005Z
+addr = 0x2b4370
+size = 0xa0
+name = "LCStoreData"
+artifact_type = "Function"
+
+[header]
+name = "LCStoreData"
+addr = 0x2b4370
+
+[header.args]

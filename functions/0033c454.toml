@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314879Z
+addr = 0x33c454
+size = 0x154
+name = "sdp_server_handle_client_req"
+artifact_type = "Function"
+
+[header]
+name = "sdp_server_handle_client_req"
+addr = 0x33c454
+
+[header.args]

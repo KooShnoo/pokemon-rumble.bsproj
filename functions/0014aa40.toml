@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307283Z
+addr = 0x14aa40
+size = 0xc0
+name = "method_CNullObj_mpGetLength"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_mpGetLength"
+addr = 0x14aa40
+
+[header.args]

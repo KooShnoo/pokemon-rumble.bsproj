@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309657Z
+addr = 0x2a96e0
+size = 0x284
+name = "Window"
+artifact_type = "Function"
+
+[header]
+name = "Window"
+addr = 0x2a96e0
+
+[header.args]

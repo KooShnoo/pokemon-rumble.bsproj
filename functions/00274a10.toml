@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309054Z
+addr = 0x274a10
+size = 0xd8
+name = "SetAdpcmLoop"
+artifact_type = "Function"
+
+[header]
+name = "SetAdpcmLoop"
+addr = 0x274a10
+
+[header.args]

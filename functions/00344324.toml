@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315176Z
+addr = 0x344324
+size = 0x74c
+name = "__dec2num"
+artifact_type = "Function"
+
+[header]
+name = "__dec2num"
+addr = 0x344324
+
+[header.args]

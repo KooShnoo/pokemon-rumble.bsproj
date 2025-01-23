@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315069Z
+addr = 0x3405b4
+size = 0x138
+name = "__div2i"
+artifact_type = "Function"
+
+[header]
+name = "__div2i"
+addr = 0x3405b4
+
+[header.args]

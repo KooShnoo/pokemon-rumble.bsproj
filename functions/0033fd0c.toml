@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315037Z
+addr = 0x33fd0c
+size = 0x104
+name = "__construct_new_array"
+artifact_type = "Function"
+
+[header]
+name = "__construct_new_array"
+addr = 0x33fd0c
+
+[header.args]

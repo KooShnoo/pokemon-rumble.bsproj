@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306956Z
+addr = 0x13bad0
+size = 0x60
+name = "IsTimerWorking"
+artifact_type = "Function"
+
+[header]
+name = "IsTimerWorking"
+addr = 0x13bad0
+
+[header.args]

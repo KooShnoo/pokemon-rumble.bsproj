@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309181Z
+addr = 0x2800a0
+size = 0x3c
+name = "GetVariablePtr"
+artifact_type = "Function"
+
+[header]
+name = "GetVariablePtr"
+addr = 0x2800a0
+
+[header.args]

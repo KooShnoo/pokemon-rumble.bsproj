@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309815Z
+addr = 0x2b1820
+size = 0x8
+name = "PPCMfhid0"
+artifact_type = "Function"
+
+[header]
+name = "PPCMfhid0"
+addr = 0x2b1820
+
+[header.args]

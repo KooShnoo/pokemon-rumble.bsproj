@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313895Z
+addr = 0x3213b0
+size = 0x104
+name = "btm_esco_proc_conn_chg"
+artifact_type = "Function"
+
+[header]
+name = "btm_esco_proc_conn_chg"
+addr = 0x3213b0
+
+[header.args]

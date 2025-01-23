@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315236Z
+addr = 0x345a64
+size = 0x18
+name = "__signbitd"
+artifact_type = "Function"
+
+[header]
+name = "__signbitd"
+addr = 0x345a64
+
+[header.args]

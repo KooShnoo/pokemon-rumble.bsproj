@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313387Z
+addr = 0x3150e8
+size = 0x224
+name = "bta_dm_inq_cmpl"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_inq_cmpl"
+addr = 0x3150e8
+
+[header.args]

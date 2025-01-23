@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312751Z
+addr = 0x2faf60
+size = 0x15fc
+name = "WPADControlSpeaker"
+artifact_type = "Function"
+
+[header]
+name = "WPADControlSpeaker"
+addr = 0x2faf60
+
+[header.args]

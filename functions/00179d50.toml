@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307566Z
+addr = 0x179d50
+size = 0x100
+name = "is_visible"
+artifact_type = "Function"
+
+[header]
+name = "is_visible"
+addr = 0x179d50
+
+[header.args]

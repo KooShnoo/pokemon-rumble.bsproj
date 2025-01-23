@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312505Z
+addr = 0x2f1d30
+size = 0xc0
+name = "IOS_CloseAsync"
+artifact_type = "Function"
+
+[header]
+name = "IOS_CloseAsync"
+addr = 0x2f1d30
+
+[header.args]

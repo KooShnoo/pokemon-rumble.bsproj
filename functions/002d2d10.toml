@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311541Z
+addr = 0x2d2d10
+size = 0x338
+name = "stateCheckID"
+artifact_type = "Function"
+
+[header]
+name = "stateCheckID"
+addr = 0x2d2d10
+
+[header.args]

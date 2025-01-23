@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314009Z
+addr = 0x3255f4
+size = 0x158
+name = "btu_hcif_cmd_timeout"
+artifact_type = "Function"
+
+[header]
+name = "btu_hcif_cmd_timeout"
+addr = 0x3255f4
+
+[header.args]

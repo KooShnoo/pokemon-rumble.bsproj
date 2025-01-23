@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310125Z
+addr = 0x2b8d00
+size = 0x14
+name = "__OSSetInterruptHandler"
+artifact_type = "Function"
+
+[header]
+name = "__OSSetInterruptHandler"
+addr = 0x2b8d00
+
+[header.args]

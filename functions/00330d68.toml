@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314501Z
+addr = 0x330d68
+size = 0xd8
+name = "l2cu_send_peer_connect_rsp"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_send_peer_connect_rsp"
+addr = 0x330d68
+
+[header.args]

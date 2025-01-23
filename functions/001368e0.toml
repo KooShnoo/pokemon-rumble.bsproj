@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306895Z
+addr = 0x1368e0
+size = 0xcc
+name = "method_BWorldCamera_mpGetLoopCount"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_mpGetLoopCount"
+addr = 0x1368e0
+
+[header.args]

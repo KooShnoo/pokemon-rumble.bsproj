@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313822Z
+addr = 0x31f260
+size = 0x220
+name = "btm_event_filter_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_event_filter_complete"
+addr = 0x31f260
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310249Z
+addr = 0x2bbaf0
+size = 0x280
+name = "__OSThreadInit"
+artifact_type = "Function"
+
+[header]
+name = "__OSThreadInit"
+addr = 0x2bbaf0
+
+[header.args]

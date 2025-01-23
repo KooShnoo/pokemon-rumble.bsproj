@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313785Z
+addr = 0x31e4c8
+size = 0x188
+name = "BTM_SetConnectability"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetConnectability"
+addr = 0x31e4c8
+
+[header.args]

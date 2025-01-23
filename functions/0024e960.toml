@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308350Z
+addr = 0x24e960
+size = 0x64
+name = "CallPrimitiveDisplayList"
+artifact_type = "Function"
+
+[header]
+name = "CallPrimitiveDisplayList"
+addr = 0x24e960
+
+[header.args]

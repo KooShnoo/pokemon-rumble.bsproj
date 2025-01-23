@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308124Z
+addr = 0x247e90
+size = 0x49c
+name = "DrawSmoothStripe_BSpline_ConnectEmitter"
+artifact_type = "Function"
+
+[header]
+name = "DrawSmoothStripe_BSpline_ConnectEmitter"
+addr = 0x247e90
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311807Z
+addr = 0x2dc6a0
+size = 0x178
+name = "__AXPrintStudio"
+artifact_type = "Function"
+
+[header]
+name = "__AXPrintStudio"
+addr = 0x2dc6a0
+
+[header.args]

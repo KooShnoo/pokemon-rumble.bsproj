@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311620Z
+addr = 0x2d67f0
+size = 0x58
+name = "__DVDCheckWaitingQueue"
+artifact_type = "Function"
+
+[header]
+name = "__DVDCheckWaitingQueue"
+addr = 0x2d67f0
+
+[header.args]

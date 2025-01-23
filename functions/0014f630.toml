@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307345Z
+addr = 0x14f630
+size = 0x64
+name = "SetNewObjRegister"
+artifact_type = "Function"
+
+[header]
+name = "SetNewObjRegister"
+addr = 0x14f630
+
+[header.args]

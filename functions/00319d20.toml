@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313582Z
+addr = 0x319d20
+size = 0xb4
+name = "bta_hh_evt_code"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_evt_code"
+addr = 0x319d20
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307293Z
+addr = 0x14ad90
+size = 0xa0
+name = "method_CNullObj_mpResume"
+artifact_type = "Function"
+
+[header]
+name = "method_CNullObj_mpResume"
+addr = 0x14ad90
+
+[header.args]

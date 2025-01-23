@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311587Z
+addr = 0x2d5d70
+size = 0x9c
+name = "DVDGetDriveStatus"
+artifact_type = "Function"
+
+[header]
+name = "DVDGetDriveStatus"
+addr = 0x2d5d70
+
+[header.args]

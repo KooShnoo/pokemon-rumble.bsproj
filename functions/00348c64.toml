@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315286Z
+addr = 0x348c64
+size = 0x418
+name = "__wcstoul"
+artifact_type = "Function"
+
+[header]
+name = "__wcstoul"
+addr = 0x348c64
+
+[header.args]

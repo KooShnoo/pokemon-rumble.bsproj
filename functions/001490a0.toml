@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307232Z
+addr = 0x1490a0
+size = 0x118
+name = "method_nullSetTarget"
+artifact_type = "Function"
+
+[header]
+name = "method_nullSetTarget"
+addr = 0x1490a0
+
+[header.args]

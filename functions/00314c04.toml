@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313367Z
+addr = 0x314c04
+size = 0xbc
+name = "bta_dm_disable_timer_cback"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_disable_timer_cback"
+addr = 0x314c04
+
+[header.args]

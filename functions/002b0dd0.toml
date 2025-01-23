@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309792Z
+addr = 0x2b0dd0
+size = 0xec
+name = "SetSize"
+artifact_type = "Function"
+
+[header]
+name = "SetSize"
+addr = 0x2b0dd0
+
+[header.args]

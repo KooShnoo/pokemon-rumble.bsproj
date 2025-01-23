@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313250Z
+addr = 0x3143a8
+size = 0x10
+name = "bta_sys_pm_register"
+artifact_type = "Function"
+
+[header]
+name = "bta_sys_pm_register"
+addr = 0x3143a8
+
+[header.args]

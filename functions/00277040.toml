@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309085Z
+addr = 0x277040
+size = 0x38
+name = "Bank"
+artifact_type = "Function"
+
+[header]
+name = "Bank"
+addr = 0x277040
+
+[header.args]

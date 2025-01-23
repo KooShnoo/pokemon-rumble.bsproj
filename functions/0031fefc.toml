@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313851Z
+addr = 0x31fefc
+size = 0x50
+name = "btm_pm_sm_alloc"
+artifact_type = "Function"
+
+[header]
+name = "btm_pm_sm_alloc"
+addr = 0x31fefc
+
+[header.args]

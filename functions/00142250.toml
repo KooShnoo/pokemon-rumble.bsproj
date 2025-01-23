@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307049Z
+addr = 0x142250
+size = 0x50
+name = "GetConsoleLang"
+artifact_type = "Function"
+
+[header]
+name = "GetConsoleLang"
+addr = 0x142250
+
+[header.args]

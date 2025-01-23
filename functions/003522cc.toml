@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315715Z
+addr = 0x3522cc
+size = 0x10
+name = "TRKTargetGetPC"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetGetPC"
+addr = 0x3522cc
+
+[header.args]

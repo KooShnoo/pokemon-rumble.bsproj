@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311035Z
+addr = 0x2cd2e0
+size = 0x34
+name = "GXSetLineWidth"
+artifact_type = "Function"
+
+[header]
+name = "GXSetLineWidth"
+addr = 0x2cd2e0
+
+[header.args]

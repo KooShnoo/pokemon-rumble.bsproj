@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309454Z
+addr = 0x294b30
+size = 0xc0
+name = "HandleUndefinedChar"
+artifact_type = "Function"
+
+[header]
+name = "HandleUndefinedChar"
+addr = 0x294b30
+
+[header.args]

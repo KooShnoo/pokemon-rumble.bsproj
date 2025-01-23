@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309153Z
+addr = 0x27c980
+size = 0x78
+name = "MEM_SND_ARCHIVE_Setup"
+artifact_type = "Function"
+
+[header]
+name = "MEM_SND_ARCHIVE_Setup"
+addr = 0x27c980
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306545Z
+addr = 0xa3130
+size = 0x50
+name = "FreeEmitter"
+artifact_type = "Function"
+
+[header]
+name = "FreeEmitter"
+addr = 0xa3130
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311392Z
+addr = 0x2d0230
+size = 0x24
+name = "GXSetNumTevStages"
+artifact_type = "Function"
+
+[header]
+name = "GXSetNumTevStages"
+addr = 0x2d0230
+
+[header.args]

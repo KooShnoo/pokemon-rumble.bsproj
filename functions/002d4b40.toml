@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311577Z
+addr = 0x2d4b40
+size = 0x5b0
+name = "stateBusy"
+artifact_type = "Function"
+
+[header]
+name = "stateBusy"
+addr = 0x2d4b40
+
+[header.args]

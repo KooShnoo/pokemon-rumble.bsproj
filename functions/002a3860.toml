@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309582Z
+addr = 0x2a3860
+size = 0x54
+name = "MTX34Scale"
+artifact_type = "Function"
+
+[header]
+name = "MTX34Scale"
+addr = 0x2a3860
+
+[header.args]

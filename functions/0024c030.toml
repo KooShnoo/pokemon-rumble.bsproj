@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308238Z
+addr = 0x24c030
+size = 0x4c
+name = "GetResAnmScnNumEntries"
+artifact_type = "Function"
+
+[header]
+name = "GetResAnmScnNumEntries"
+addr = 0x24c030
+
+[header.args]

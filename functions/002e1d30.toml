@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312160Z
+addr = 0x2e1d30
+size = 0x3b8
+name = "CXReadUncompHuffman"
+artifact_type = "Function"
+
+[header]
+name = "CXReadUncompHuffman"
+addr = 0x2e1d30
+
+[header.args]

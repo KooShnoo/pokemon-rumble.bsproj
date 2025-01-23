@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307544Z
+addr = 0x178070
+size = 0x330
+name = "CNTOpen"
+artifact_type = "Function"
+
+[header]
+name = "CNTOpen"
+addr = 0x178070
+
+[header.args]

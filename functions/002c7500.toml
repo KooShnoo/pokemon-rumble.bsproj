@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310801Z
+addr = 0x2c7500
+size = 0x6c
+name = "__VISetClosedCaption"
+artifact_type = "Function"
+
+[header]
+name = "__VISetClosedCaption"
+addr = 0x2c7500
+
+[header.args]

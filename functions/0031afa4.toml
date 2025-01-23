@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313625Z
+addr = 0x31afa4
+size = 0x10
+name = "BTM_SetDefaultLinkPolicy"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetDefaultLinkPolicy"
+addr = 0x31afa4
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313093Z
+addr = 0x3124a0
+size = 0xa8
+name = "GKI_shutdown"
+artifact_type = "Function"
+
+[header]
+name = "GKI_shutdown"
+addr = 0x3124a0
+
+[header.args]

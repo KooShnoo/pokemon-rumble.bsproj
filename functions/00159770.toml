@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307408Z
+addr = 0x159770
+size = 0x64
+name = "IsPiiChangeRequested"
+artifact_type = "Function"
+
+[header]
+name = "IsPiiChangeRequested"
+addr = 0x159770
+
+[header.args]

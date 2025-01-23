@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311746Z
+addr = 0x2db2d0
+size = 0x9bc
+name = "__AXNextFrame"
+artifact_type = "Function"
+
+[header]
+name = "__AXNextFrame"
+addr = 0x2db2d0
+
+[header.args]

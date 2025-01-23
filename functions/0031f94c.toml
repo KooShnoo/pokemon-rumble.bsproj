@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313833Z
+addr = 0x31f94c
+size = 0x158
+name = "btm_process_remote_name"
+artifact_type = "Function"
+
+[header]
+name = "btm_process_remote_name"
+addr = 0x31f94c
+
+[header.args]

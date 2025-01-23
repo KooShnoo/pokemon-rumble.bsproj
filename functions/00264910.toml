@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308794Z
+addr = 0x264910
+size = 0x21c
+name = "SetPosture"
+artifact_type = "Function"
+
+[header]
+name = "SetPosture"
+addr = 0x264910
+
+[header.args]

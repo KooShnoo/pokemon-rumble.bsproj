@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309032Z
+addr = 0x273fe0
+size = 0x5c
+name = "VoiceCallback"
+artifact_type = "Function"
+
+[header]
+name = "VoiceCallback"
+addr = 0x273fe0
+
+[header.args]

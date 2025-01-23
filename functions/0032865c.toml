@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314145Z
+addr = 0x32865c
+size = 0x38
+name = "btsnd_hcic_write_page_tout"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_page_tout"
+addr = 0x32865c
+
+[header.args]

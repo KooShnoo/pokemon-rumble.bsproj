@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313960Z
+addr = 0x3238c4
+size = 0x1ac
+name = "btm_sec_link_key_notification"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_link_key_notification"
+addr = 0x3238c4
+
+[header.args]

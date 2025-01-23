@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308839Z
+addr = 0x267e10
+size = 0xec
+name = "ScnObj"
+artifact_type = "Function"
+
+[header]
+name = "ScnObj"
+addr = 0x267e10
+
+[header.args]

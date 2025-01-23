@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309584Z
+addr = 0x2a38c0
+size = 0x6c
+name = "MTX34Trans"
+artifact_type = "Function"
+
+[header]
+name = "MTX34Trans"
+addr = 0x2a38c0
+
+[header.args]

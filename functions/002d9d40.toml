@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311704Z
+addr = 0x2d9d40
+size = 0x8
+name = "DVDLowUnmaskStatusInterrupts"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowUnmaskStatusInterrupts"
+addr = 0x2d9d40
+
+[header.args]

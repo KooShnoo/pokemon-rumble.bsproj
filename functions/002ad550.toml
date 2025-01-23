@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309713Z
+addr = 0x2ad550
+size = 0x64
+name = "GetTevStageAry"
+artifact_type = "Function"
+
+[header]
+name = "GetTevStageAry"
+addr = 0x2ad550
+
+[header.args]

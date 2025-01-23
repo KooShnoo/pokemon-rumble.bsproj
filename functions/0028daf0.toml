@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309363Z
+addr = 0x28daf0
+size = 0x58
+name = "Destroy"
+artifact_type = "Function"
+
+[header]
+name = "Destroy"
+addr = 0x28daf0
+
+[header.args]

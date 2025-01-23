@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315251Z
+addr = 0x345c60
+size = 0xc0
+name = "strcpy"
+artifact_type = "Function"
+
+[header]
+name = "strcpy"
+addr = 0x345c60
+
+[header.args]

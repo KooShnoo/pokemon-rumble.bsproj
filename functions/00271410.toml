@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308973Z
+addr = 0x271410
+size = 0x120
+name = "ApplyViewMtx"
+artifact_type = "Function"
+
+[header]
+name = "ApplyViewMtx"
+addr = 0x271410
+
+[header.args]

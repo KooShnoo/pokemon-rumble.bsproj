@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315485Z
+addr = 0x34e6cc
+size = 0x138
+name = "InitMetroTRKCommTable"
+artifact_type = "Function"
+
+[header]
+name = "InitMetroTRKCommTable"
+addr = 0x34e6cc
+
+[header.args]

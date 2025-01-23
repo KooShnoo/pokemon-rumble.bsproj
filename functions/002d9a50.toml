@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311698Z
+addr = 0x2d9a50
+size = 0x16c
+name = "DVDLowPrepareStatusRegister"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowPrepareStatusRegister"
+addr = 0x2d9a50
+
+[header.args]

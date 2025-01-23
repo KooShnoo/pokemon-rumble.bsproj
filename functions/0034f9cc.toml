@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315623Z
+addr = 0x34f9cc
+size = 0xa4
+name = "TRK_AppendBuffer"
+artifact_type = "Function"
+
+[header]
+name = "TRK_AppendBuffer"
+addr = 0x34f9cc
+
+[header.args]

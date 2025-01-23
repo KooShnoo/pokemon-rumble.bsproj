@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306820Z
+addr = 0x11b440
+size = 0x58
+name = "MessageWindowControl_dt"
+artifact_type = "Function"
+
+[header]
+name = "MessageWindowControl_dt"
+addr = 0x11b440
+
+[header.args]

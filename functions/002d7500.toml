@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311654Z
+addr = 0x2d7500
+size = 0x5c
+name = "DVDSetAutoFatalMessaging"
+artifact_type = "Function"
+
+[header]
+name = "DVDSetAutoFatalMessaging"
+addr = 0x2d7500
+
+[header.args]

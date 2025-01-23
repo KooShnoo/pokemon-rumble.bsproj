@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314787Z
+addr = 0x338f9c
+size = 0xcc
+name = "SDP_FindServiceInDb"
+artifact_type = "Function"
+
+[header]
+name = "SDP_FindServiceInDb"
+addr = 0x338f9c
+
+[header.args]

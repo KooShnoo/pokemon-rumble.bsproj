@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313139Z
+addr = 0x3132c0
+size = 0xe0
+name = "uusb_WriteCtrlDataCB"
+artifact_type = "Function"
+
+[header]
+name = "uusb_WriteCtrlDataCB"
+addr = 0x3132c0
+
+[header.args]

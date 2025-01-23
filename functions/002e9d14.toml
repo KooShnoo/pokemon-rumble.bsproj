@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312417Z
+addr = 0x2e9d14
+size = 0x2d8
+name = "WENCGetEncodeData"
+artifact_type = "Function"
+
+[header]
+name = "WENCGetEncodeData"
+addr = 0x2e9d14
+
+[header.args]

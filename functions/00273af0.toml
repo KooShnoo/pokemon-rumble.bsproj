@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309019Z
+addr = 0x273af0
+size = 0x98
+name = "SetLoopFlag"
+artifact_type = "Function"
+
+[header]
+name = "SetLoopFlag"
+addr = 0x273af0
+
+[header.args]

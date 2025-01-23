@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314427Z
+addr = 0x32e780
+size = 0x238
+name = "l2c_link_hci_conn_comp"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_hci_conn_comp"
+addr = 0x32e780
+
+[header.args]

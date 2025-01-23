@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312916Z
+addr = 0x30a3a0
+size = 0x378
+name = "__wudSyncVirginStandard"
+artifact_type = "Function"
+
+[header]
+name = "__wudSyncVirginStandard"
+addr = 0x30a3a0
+
+[header.args]

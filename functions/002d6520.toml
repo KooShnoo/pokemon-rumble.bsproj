@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311608Z
+addr = 0x2d6520
+size = 0x138
+name = "__DVDPrepareReset"
+artifact_type = "Function"
+
+[header]
+name = "__DVDPrepareReset"
+addr = 0x2d6520
+
+[header.args]

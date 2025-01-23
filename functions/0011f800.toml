@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306823Z
+addr = 0x11f800
+size = 0x4c
+name = "Font_ct"
+artifact_type = "Function"
+
+[header]
+name = "Font_ct"
+addr = 0x11f800
+
+[header.args]

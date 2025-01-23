@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311166Z
+addr = 0x2ce180
+size = 0x1c
+name = "GXGetLightPos"
+artifact_type = "Function"
+
+[header]
+name = "GXGetLightPos"
+addr = 0x2ce180
+
+[header.args]

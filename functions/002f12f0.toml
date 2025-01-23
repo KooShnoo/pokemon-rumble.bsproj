@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312478Z
+addr = 0x2f12f0
+size = 0x8
+name = "IPCGetBufferHi"
+artifact_type = "Function"
+
+[header]
+name = "IPCGetBufferHi"
+addr = 0x2f12f0
+
+[header.args]

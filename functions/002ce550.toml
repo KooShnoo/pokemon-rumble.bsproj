@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311202Z
+addr = 0x2ce550
+size = 0x24
+name = "GXSetNumChans"
+artifact_type = "Function"
+
+[header]
+name = "GXSetNumChans"
+addr = 0x2ce550
+
+[header.args]

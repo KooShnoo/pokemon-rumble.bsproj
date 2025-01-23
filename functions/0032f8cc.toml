@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314470Z
+addr = 0x32f8cc
+size = 0x330
+name = "l2c_rcv_acl_data"
+artifact_type = "Function"
+
+[header]
+name = "l2c_rcv_acl_data"
+addr = 0x32f8cc
+
+[header.args]

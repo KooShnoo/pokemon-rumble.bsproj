@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312394Z
+addr = 0x2e9730
+size = 0x6c
+name = "SCGetLanguage"
+artifact_type = "Function"
+
+[header]
+name = "SCGetLanguage"
+addr = 0x2e9730
+
+[header.args]

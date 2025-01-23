@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307301Z
+addr = 0x14b470
+size = 0xb8
+name = "method_setModelScaleXYZ"
+artifact_type = "Function"
+
+[header]
+name = "method_setModelScaleXYZ"
+addr = 0x14b470
+
+[header.args]

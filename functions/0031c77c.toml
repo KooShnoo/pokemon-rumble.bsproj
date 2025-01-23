@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313689Z
+addr = 0x31c77c
+size = 0xa8
+name = "BTM_SendHciReset"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SendHciReset"
+addr = 0x31c77c
+
+[header.args]

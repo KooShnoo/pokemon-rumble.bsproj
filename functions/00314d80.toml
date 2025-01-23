@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313373Z
+addr = 0x314d80
+size = 0x9c
+name = "bta_dm_pin_reply"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_pin_reply"
+addr = 0x314d80
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311232Z
+addr = 0x2ceb90
+size = 0x14
+name = "GXInitTexObjWrapMode"
+artifact_type = "Function"
+
+[header]
+name = "GXInitTexObjWrapMode"
+addr = 0x2ceb90
+
+[header.args]

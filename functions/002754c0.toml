@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309060Z
+addr = 0x2754c0
+size = 0x190
+name = "SetLpf"
+artifact_type = "Function"
+
+[header]
+name = "SetLpf"
+addr = 0x2754c0
+
+[header.args]

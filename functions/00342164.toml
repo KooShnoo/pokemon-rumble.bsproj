@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315120Z
+addr = 0x342164
+size = 0x144
+name = "__throw"
+artifact_type = "Function"
+
+[header]
+name = "__throw"
+addr = 0x342164
+
+[header.args]

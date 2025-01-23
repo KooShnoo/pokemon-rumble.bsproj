@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309820Z
+addr = 0x2b1850
+size = 0x8
+name = "PPCMtl2cr"
+artifact_type = "Function"
+
+[header]
+name = "PPCMtl2cr"
+addr = 0x2b1850
+
+[header.args]

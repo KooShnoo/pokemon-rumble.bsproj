@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313462Z
+addr = 0x316c8c
+size = 0x84
+name = "bta_dm_keep_acl"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_keep_acl"
+addr = 0x316c8c
+
+[header.args]

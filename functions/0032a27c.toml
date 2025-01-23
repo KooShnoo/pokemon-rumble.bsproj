@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314339Z
+addr = 0x32a27c
+size = 0xa0
+name = "HID_HostCloseDev"
+artifact_type = "Function"
+
+[header]
+name = "HID_HostCloseDev"
+addr = 0x32a27c
+
+[header.args]

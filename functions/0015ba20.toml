@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307464Z
+addr = 0x15ba20
+size = 0xd8
+name = "method_setPrefix"
+artifact_type = "Function"
+
+[header]
+name = "method_setPrefix"
+addr = 0x15ba20
+
+[header.args]

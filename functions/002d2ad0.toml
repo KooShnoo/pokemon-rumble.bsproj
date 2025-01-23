@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311538Z
+addr = 0x2d2ad0
+size = 0x240
+name = "cbForStateGoToRetry"
+artifact_type = "Function"
+
+[header]
+name = "cbForStateGoToRetry"
+addr = 0x2d2ad0
+
+[header.args]

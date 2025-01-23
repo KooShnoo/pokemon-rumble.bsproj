@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314516Z
+addr = 0x331838
+size = 0x170
+name = "l2cu_send_peer_echo_req"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_send_peer_echo_req"
+addr = 0x331838
+
+[header.args]

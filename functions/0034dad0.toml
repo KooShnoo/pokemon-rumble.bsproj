@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315431Z
+addr = 0x34dad0
+size = 0x24
+name = "gdev_cc_post_stop"
+artifact_type = "Function"
+
+[header]
+name = "gdev_cc_post_stop"
+addr = 0x34dad0
+
+[header.args]

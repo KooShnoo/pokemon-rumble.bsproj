@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310791Z
+addr = 0x2c6ac0
+size = 0x348
+name = "sendSlaveAddr"
+artifact_type = "Function"
+
+[header]
+name = "sendSlaveAddr"
+addr = 0x2c6ac0
+
+[header.args]

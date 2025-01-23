@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307389Z
+addr = 0x157030
+size = 0xd8
+name = "method_CPii_getMotionLength"
+artifact_type = "Function"
+
+[header]
+name = "method_CPii_getMotionLength"
+addr = 0x157030
+
+[header.args]

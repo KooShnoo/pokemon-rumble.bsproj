@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312778Z
+addr = 0x2fe000
+size = 0x1b4
+name = "WPADiSendWriteDataCmd"
+artifact_type = "Function"
+
+[header]
+name = "WPADiSendWriteDataCmd"
+addr = 0x2fe000
+
+[header.args]

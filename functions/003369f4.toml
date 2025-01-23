@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314685Z
+addr = 0x3369f4
+size = 0xbc
+name = "RFCOMM_PortNegReq"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_PortNegReq"
+addr = 0x3369f4
+
+[header.args]

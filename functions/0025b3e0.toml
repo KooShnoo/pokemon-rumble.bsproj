@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308711Z
+addr = 0x25b3e0
+size = 0x80
+name = "GDLoadTexMtxImm3x3"
+artifact_type = "Function"
+
+[header]
+name = "GDLoadTexMtxImm3x3"
+addr = 0x25b3e0
+
+[header.args]

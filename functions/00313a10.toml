@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313163Z
+addr = 0x313a10
+size = 0x44
+name = "UUSB_Unregister"
+artifact_type = "Function"
+
+[header]
+name = "UUSB_Unregister"
+addr = 0x313a10
+
+[header.args]

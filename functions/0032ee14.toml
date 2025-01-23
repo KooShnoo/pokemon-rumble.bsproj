@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314442Z
+addr = 0x32ee14
+size = 0x2cc
+name = "l2c_link_check_send_pkts"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_check_send_pkts"
+addr = 0x32ee14
+
+[header.args]

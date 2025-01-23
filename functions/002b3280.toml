@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309914Z
+addr = 0x2b3280
+size = 0x84
+name = "OSSetPeriodicAlarm"
+artifact_type = "Function"
+
+[header]
+name = "OSSetPeriodicAlarm"
+addr = 0x2b3280
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307384Z
+addr = 0x156c50
+size = 0x1d0
+name = "method_CPii_requestNextEx"
+artifact_type = "Function"
+
+[header]
+name = "method_CPii_requestNextEx"
+addr = 0x156c50
+
+[header.args]

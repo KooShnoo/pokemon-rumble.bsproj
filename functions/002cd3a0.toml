@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311076Z
+addr = 0x2cd3a0
+size = 0x28
+name = "GXSetCullMode"
+artifact_type = "Function"
+
+[header]
+name = "GXSetCullMode"
+addr = 0x2cd3a0
+
+[header.args]

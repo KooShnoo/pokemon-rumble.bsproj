@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309567Z
+addr = 0x2a3500
+size = 0x70
+name = "SinFIdx"
+artifact_type = "Function"
+
+[header]
+name = "SinFIdx"
+addr = 0x2a3500
+
+[header.args]

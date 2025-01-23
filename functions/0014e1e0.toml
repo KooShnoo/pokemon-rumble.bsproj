@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307331Z
+addr = 0x14e1e0
+size = 0x58
+name = "Scene_destroy"
+artifact_type = "Function"
+
+[header]
+name = "Scene_destroy"
+addr = 0x14e1e0
+
+[header.args]

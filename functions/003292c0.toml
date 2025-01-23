@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314237Z
+addr = 0x3292c0
+size = 0xc0
+name = "hidd_conn_initiate"
+artifact_type = "Function"
+
+[header]
+name = "hidd_conn_initiate"
+addr = 0x3292c0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308716Z
+addr = 0x25b540
+size = 0xcc
+name = "ZeroMemory32ByteBlocks"
+artifact_type = "Function"
+
+[header]
+name = "ZeroMemory32ByteBlocks"
+addr = 0x25b540
+
+[header.args]

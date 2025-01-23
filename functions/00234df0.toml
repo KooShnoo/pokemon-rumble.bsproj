@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308016Z
+addr = 0x234df0
+size = 0x7c
+name = "AddTexture"
+artifact_type = "Function"
+
+[header]
+name = "AddTexture"
+addr = 0x234df0
+
+[header.args]

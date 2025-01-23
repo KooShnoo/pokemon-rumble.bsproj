@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311727Z
+addr = 0x2da520
+size = 0xac
+name = "__AXServiceCallbackStack"
+artifact_type = "Function"
+
+[header]
+name = "__AXServiceCallbackStack"
+addr = 0x2da520
+
+[header.args]

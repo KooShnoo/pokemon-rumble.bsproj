@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310159Z
+addr = 0x2b9770
+size = 0xc
+name = "OSGetConsoleSimulatedMem1Size"
+artifact_type = "Function"
+
+[header]
+name = "OSGetConsoleSimulatedMem1Size"
+addr = 0x2b9770
+
+[header.args]

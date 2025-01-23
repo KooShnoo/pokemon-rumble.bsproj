@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307009Z
+addr = 0x13e810
+size = 0x118
+name = "EndStage"
+artifact_type = "Function"
+
+[header]
+name = "EndStage"
+addr = 0x13e810
+
+[header.args]

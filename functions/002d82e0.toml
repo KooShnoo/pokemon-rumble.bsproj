@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311675Z
+addr = 0x2d82e0
+size = 0x210
+name = "DVDLowGetNoDiscBufferSizes"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowGetNoDiscBufferSizes"
+addr = 0x2d82e0
+
+[header.args]

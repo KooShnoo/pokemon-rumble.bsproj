@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312628Z
+addr = 0x2f5130
+size = 0xa4
+name = "PADClampCircle2"
+artifact_type = "Function"
+
+[header]
+name = "PADClampCircle2"
+addr = 0x2f5130
+
+[header.args]

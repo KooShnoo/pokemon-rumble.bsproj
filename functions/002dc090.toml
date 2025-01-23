@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311759Z
+addr = 0x2dc090
+size = 0x54
+name = "__AXDSPResumeCallback"
+artifact_type = "Function"
+
+[header]
+name = "__AXDSPResumeCallback"
+addr = 0x2dc090
+
+[header.args]

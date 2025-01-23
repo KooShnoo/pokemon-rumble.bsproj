@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306948Z
+addr = 0x13a300
+size = 0xdc
+name = "IsDlgPiiSelectorShown"
+artifact_type = "Function"
+
+[header]
+name = "IsDlgPiiSelectorShown"
+addr = 0x13a300
+
+[header.args]

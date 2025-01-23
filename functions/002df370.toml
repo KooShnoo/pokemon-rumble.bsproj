@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311853Z
+addr = 0x2df370
+size = 0xd0
+name = "AXFXReverbStdExpSettings"
+artifact_type = "Function"
+
+[header]
+name = "AXFXReverbStdExpSettings"
+addr = 0x2df370
+
+[header.args]

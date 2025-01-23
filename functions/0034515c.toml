@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315193Z
+addr = 0x34515c
+size = 0xa8
+name = "_ftell"
+artifact_type = "Function"
+
+[header]
+name = "_ftell"
+addr = 0x34515c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311691Z
+addr = 0x2d93f0
+size = 0x184
+name = "DVDLowSetMaximumRotation"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowSetMaximumRotation"
+addr = 0x2d93f0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311142Z
+addr = 0x2cdee0
+size = 0x10
+name = "GXInitLightAttnA"
+artifact_type = "Function"
+
+[header]
+name = "GXInitLightAttnA"
+addr = 0x2cdee0
+
+[header.args]

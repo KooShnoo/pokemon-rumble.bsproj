@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307418Z
+addr = 0x159bd0
+size = 0x94
+name = "method_isCPiiOrPPD"
+artifact_type = "Function"
+
+[header]
+name = "method_isCPiiOrPPD"
+addr = 0x159bd0
+
+[header.args]

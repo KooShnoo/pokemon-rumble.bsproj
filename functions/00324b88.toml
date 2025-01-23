@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313986Z
+addr = 0x324b88
+size = 0x18c
+name = "btu_hcif_send_cmd"
+artifact_type = "Function"
+
+[header]
+name = "btu_hcif_send_cmd"
+addr = 0x324b88
+
+[header.args]

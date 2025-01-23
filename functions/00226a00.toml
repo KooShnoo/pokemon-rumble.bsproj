@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307932Z
+addr = 0x226a00
+size = 0xe8
+name = "RetireEffectAll"
+artifact_type = "Function"
+
+[header]
+name = "RetireEffectAll"
+addr = 0x226a00
+
+[header.args]

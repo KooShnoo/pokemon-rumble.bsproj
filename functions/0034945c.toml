@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315316Z
+addr = 0x34945c
+size = 0xd0
+name = "__write_console"
+artifact_type = "Function"
+
+[header]
+name = "__write_console"
+addr = 0x34945c
+
+[header.args]

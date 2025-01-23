@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314739Z
+addr = 0x33835c
+size = 0x38
+name = "rfc_calc_fcs"
+artifact_type = "Function"
+
+[header]
+name = "rfc_calc_fcs"
+addr = 0x33835c
+
+[header.args]

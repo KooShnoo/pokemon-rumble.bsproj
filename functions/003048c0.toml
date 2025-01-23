@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312834Z
+addr = 0x3048c0
+size = 0x1a0
+name = "calc_button_repeat"
+artifact_type = "Function"
+
+[header]
+name = "calc_button_repeat"
+addr = 0x3048c0
+
+[header.args]

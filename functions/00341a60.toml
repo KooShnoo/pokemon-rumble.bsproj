@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315110Z
+addr = 0x341a60
+size = 0x44
+name = "__unexpected"
+artifact_type = "Function"
+
+[header]
+name = "__unexpected"
+addr = 0x341a60
+
+[header.args]

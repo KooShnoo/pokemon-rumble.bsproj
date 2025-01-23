@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311525Z
+addr = 0x2d2130
+size = 0xf4
+name = "CategorizeError"
+artifact_type = "Function"
+
+[header]
+name = "CategorizeError"
+addr = 0x2d2130
+
+[header.args]

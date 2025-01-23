@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308822Z
+addr = 0x266460
+size = 0x194
+name = "CalcWorldMtx_Maya_SSC_Apply"
+artifact_type = "Function"
+
+[header]
+name = "CalcWorldMtx_Maya_SSC_Apply"
+addr = 0x266460
+
+[header.args]

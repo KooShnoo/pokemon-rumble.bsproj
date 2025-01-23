@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311293Z
+addr = 0x2cf270
+size = 0x164
+name = "__GXSetSUTexRegs"
+artifact_type = "Function"
+
+[header]
+name = "__GXSetSUTexRegs"
+addr = 0x2cf270
+
+[header.args]

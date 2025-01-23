@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314142Z
+addr = 0x32851c
+size = 0x140
+name = "btsnd_hcic_change_name"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_change_name"
+addr = 0x32851c
+
+[header.args]

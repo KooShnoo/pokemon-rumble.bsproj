@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307188Z
+addr = 0x148010
+size = 0x8c
+name = "method_BModelObj_pause"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_pause"
+addr = 0x148010
+
+[header.args]

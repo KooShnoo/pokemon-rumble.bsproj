@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310786Z
+addr = 0x2c6a20
+size = 0x10
+name = "OnReset"
+artifact_type = "Function"
+
+[header]
+name = "OnReset"
+addr = 0x2c6a20
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314633Z
+addr = 0x334614
+size = 0x2a0
+name = "RFCOMM_BufDataInd"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_BufDataInd"
+addr = 0x334614
+
+[header.args]

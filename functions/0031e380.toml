@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313778Z
+addr = 0x31e380
+size = 0xb0
+name = "BTM_SetInquiryScanType"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetInquiryScanType"
+addr = 0x31e380
+
+[header.args]

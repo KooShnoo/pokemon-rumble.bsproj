@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315743Z
+addr = 0x352904
+size = 0x10
+name = "TRKTargetSetInputPendingPtr"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetSetInputPendingPtr"
+addr = 0x352904
+
+[header.args]

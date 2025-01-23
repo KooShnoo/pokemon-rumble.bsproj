@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315304Z
+addr = 0x349300
+size = 0x44
+name = "wcsncpy"
+artifact_type = "Function"
+
+[header]
+name = "wcsncpy"
+addr = 0x349300
+
+[header.args]

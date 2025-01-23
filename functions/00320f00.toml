@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313879Z
+addr = 0x320f00
+size = 0xb8
+name = "BTM_RemoveSco"
+artifact_type = "Function"
+
+[header]
+name = "BTM_RemoveSco"
+addr = 0x320f00
+
+[header.args]

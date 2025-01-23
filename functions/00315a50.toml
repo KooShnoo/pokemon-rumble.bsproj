@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313413Z
+addr = 0x315a50
+size = 0x1a0
+name = "bta_dm_find_services"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_find_services"
+addr = 0x315a50
+
+[header.args]

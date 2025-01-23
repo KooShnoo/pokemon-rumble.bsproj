@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313658Z
+addr = 0x31bbe8
+size = 0xbc
+name = "btm_remove_acl"
+artifact_type = "Function"
+
+[header]
+name = "btm_remove_acl"
+addr = 0x31bbe8
+
+[header.args]

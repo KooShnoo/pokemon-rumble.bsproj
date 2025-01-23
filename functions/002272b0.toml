@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307941Z
+addr = 0x2272b0
+size = 0x2e0
+name = "InitializeDatas"
+artifact_type = "Function"
+
+[header]
+name = "InitializeDatas"
+addr = 0x2272b0
+
+[header.args]

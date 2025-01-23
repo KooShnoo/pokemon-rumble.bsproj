@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308316Z
+addr = 0x24d860
+size = 0x54
+name = "GetResMat"
+artifact_type = "Function"
+
+[header]
+name = "GetResMat"
+addr = 0x24d860
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313475Z
+addr = 0x316e40
+size = 0x38
+name = "BTA_DmIsDeviceUp"
+artifact_type = "Function"
+
+[header]
+name = "BTA_DmIsDeviceUp"
+addr = 0x316e40
+
+[header.args]

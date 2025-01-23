@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308754Z
+addr = 0x25d280
+size = 0x614
+name = "LoadResMatChan"
+artifact_type = "Function"
+
+[header]
+name = "LoadResMatChan"
+addr = 0x25d280
+
+[header.args]

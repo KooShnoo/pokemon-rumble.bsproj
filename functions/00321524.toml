@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313900Z
+addr = 0x321524
+size = 0x60
+name = "btm_num_sco_links_active"
+artifact_type = "Function"
+
+[header]
+name = "btm_num_sco_links_active"
+addr = 0x321524
+
+[header.args]

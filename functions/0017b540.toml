@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307623Z
+addr = 0x17b540
+size = 0x198
+name = "GetFreePlayer"
+artifact_type = "Function"
+
+[header]
+name = "GetFreePlayer"
+addr = 0x17b540
+
+[header.args]

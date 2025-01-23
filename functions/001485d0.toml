@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307204Z
+addr = 0x1485d0
+size = 0xcc
+name = "method_BModelObj_mpIsPlayingNotYetLooped"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_mpIsPlayingNotYetLooped"
+addr = 0x1485d0
+
+[header.args]

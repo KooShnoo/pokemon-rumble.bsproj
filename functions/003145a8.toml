@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313269Z
+addr = 0x3145a8
+size = 0x30
+name = "bta_sys_idle"
+artifact_type = "Function"
+
+[header]
+name = "bta_sys_idle"
+addr = 0x3145a8
+
+[header.args]

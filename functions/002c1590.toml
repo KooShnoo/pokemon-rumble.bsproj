@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310565Z
+addr = 0x2c1590
+size = 0xb8
+name = "EXIDetach"
+artifact_type = "Function"
+
+[header]
+name = "EXIDetach"
+addr = 0x2c1590
+
+[header.args]

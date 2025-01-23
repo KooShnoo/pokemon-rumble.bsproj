@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309358Z
+addr = 0x28d980
+size = 0x14
+name = "__ct"
+artifact_type = "Function"
+
+[header]
+name = "__ct"
+addr = 0x28d980
+
+[header.args]

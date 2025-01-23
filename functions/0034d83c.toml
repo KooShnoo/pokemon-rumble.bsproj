@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315418Z
+addr = 0x34d83c
+size = 0x4
+name = "__msl_strnicmp"
+artifact_type = "Function"
+
+[header]
+name = "__msl_strnicmp"
+addr = 0x34d83c
+
+[header.args]

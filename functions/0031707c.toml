@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313490Z
+addr = 0x31707c
+size = 0xf0
+name = "BTA_DmAddDevice"
+artifact_type = "Function"
+
+[header]
+name = "BTA_DmAddDevice"
+addr = 0x31707c
+
+[header.args]

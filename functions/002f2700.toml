@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312525Z
+addr = 0x2f2700
+size = 0x13c
+name = "__ios_Ioctlv"
+artifact_type = "Function"
+
+[header]
+name = "__ios_Ioctlv"
+addr = 0x2f2700
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306870Z
+addr = 0x135f70
+size = 0x88
+name = "method_BWorldCamera_stop"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_stop"
+addr = 0x135f70
+
+[header.args]

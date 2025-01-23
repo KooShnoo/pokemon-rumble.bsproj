@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313324Z
+addr = 0x3149c0
+size = 0x40
+name = "ptim_stop_timer"
+artifact_type = "Function"
+
+[header]
+name = "ptim_stop_timer"
+addr = 0x3149c0
+
+[header.args]

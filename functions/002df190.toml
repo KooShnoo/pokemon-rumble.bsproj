@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311847Z
+addr = 0x2df190
+size = 0x60
+name = "AXFXReverbStdExpGetMemSize"
+artifact_type = "Function"
+
+[header]
+name = "AXFXReverbStdExpGetMemSize"
+addr = 0x2df190
+
+[header.args]

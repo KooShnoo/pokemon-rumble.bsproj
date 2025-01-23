@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311905Z
+addr = 0x2e13f0
+size = 0x168
+name = "RecycleRegion_"
+artifact_type = "Function"
+
+[header]
+name = "RecycleRegion_"
+addr = 0x2e13f0
+
+[header.args]

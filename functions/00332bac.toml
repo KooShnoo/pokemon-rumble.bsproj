@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314574Z
+addr = 0x332bac
+size = 0x140
+name = "PORT_DlcEstablishInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_DlcEstablishInd"
+addr = 0x332bac
+
+[header.args]

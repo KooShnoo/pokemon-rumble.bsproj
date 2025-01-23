@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309491Z
+addr = 0x2964c0
+size = 0x20c
+name = "ConstructOpAnalyzeTGLP"
+artifact_type = "Function"
+
+[header]
+name = "ConstructOpAnalyzeTGLP"
+addr = 0x2964c0
+
+[header.args]

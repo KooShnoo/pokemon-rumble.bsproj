@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312439Z
+addr = 0x2f0790
+size = 0x7c
+name = "ARCOpenDir"
+artifact_type = "Function"
+
+[header]
+name = "ARCOpenDir"
+addr = 0x2f0790
+
+[header.args]

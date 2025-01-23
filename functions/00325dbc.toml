@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314033Z
+addr = 0x325dbc
+size = 0x13c
+name = "gap_config_ind"
+artifact_type = "Function"
+
+[header]
+name = "gap_config_ind"
+addr = 0x325dbc
+
+[header.args]

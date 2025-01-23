@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307962Z
+addr = 0x22c430
+size = 0x5cc
+name = "AnimCurveExecuteTexture"
+artifact_type = "Function"
+
+[header]
+name = "AnimCurveExecuteTexture"
+addr = 0x22c430
+
+[header.args]

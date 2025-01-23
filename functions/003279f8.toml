@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314104Z
+addr = 0x3279f8
+size = 0xe8
+name = "btsnd_hcic_accept_esco_conn"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_accept_esco_conn"
+addr = 0x3279f8
+
+[header.args]

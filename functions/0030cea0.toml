@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312947Z
+addr = 0x30cea0
+size = 0x394
+name = "__wudClearControlBlock"
+artifact_type = "Function"
+
+[header]
+name = "__wudClearControlBlock"
+addr = 0x30cea0
+
+[header.args]

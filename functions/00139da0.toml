@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306933Z
+addr = 0x139da0
+size = 0x70
+name = "HideNoticeDisplay"
+artifact_type = "Function"
+
+[header]
+name = "HideNoticeDisplay"
+addr = 0x139da0
+
+[header.args]

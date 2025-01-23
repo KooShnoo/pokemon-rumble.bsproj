@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307196Z
+addr = 0x1481c0
+size = 0xe0
+name = "method_BModelObj_getCurrentMPID"
+artifact_type = "Function"
+
+[header]
+name = "method_BModelObj_getCurrentMPID"
+addr = 0x1481c0
+
+[header.args]

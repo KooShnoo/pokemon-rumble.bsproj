@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310079Z
+addr = 0x2b7000
+size = 0x120
+name = "ConfigureVideo"
+artifact_type = "Function"
+
+[header]
+name = "ConfigureVideo"
+addr = 0x2b7000
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306813Z
+addr = 0xf8d60
+size = 0x8c
+name = "__ct__CPlayerPii"
+artifact_type = "Function"
+
+[header]
+name = "__ct__CPlayerPii"
+addr = 0xf8d60
+
+[header.args]

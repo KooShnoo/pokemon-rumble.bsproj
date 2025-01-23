@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309407Z
+addr = 0x293090
+size = 0x2c
+name = "LinkListImpl_Insert"
+artifact_type = "Function"
+
+[header]
+name = "LinkListImpl_Insert"
+addr = 0x293090
+
+[header.args]

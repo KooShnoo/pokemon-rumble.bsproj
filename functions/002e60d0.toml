@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312282Z
+addr = 0x2e60d0
+size = 0xd4
+name = "nandRemoveTailToken"
+artifact_type = "Function"
+
+[header]
+name = "nandRemoveTailToken"
+addr = 0x2e60d0
+
+[header.args]

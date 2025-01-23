@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307727Z
+addr = 0x18b240
+size = 0x58
+name = "GetIndTexSRTAry"
+artifact_type = "Function"
+
+[header]
+name = "GetIndTexSRTAry"
+addr = 0x18b240
+
+[header.args]

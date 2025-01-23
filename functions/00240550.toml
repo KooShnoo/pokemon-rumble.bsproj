@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308103Z
+addr = 0x240550
+size = 0x364
+name = "CalcRotate"
+artifact_type = "Function"
+
+[header]
+name = "CalcRotate"
+addr = 0x240550
+
+[header.args]

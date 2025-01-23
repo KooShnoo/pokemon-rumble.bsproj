@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315400Z
+addr = 0x34d3ec
+size = 0xcc
+name = "sin"
+artifact_type = "Function"
+
+[header]
+name = "sin"
+addr = 0x34d3ec
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314390Z
+addr = 0x32c720
+size = 0x90
+name = "L2CA_Deregister"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_Deregister"
+addr = 0x32c720
+
+[header.args]

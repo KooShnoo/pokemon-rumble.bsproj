@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308249Z
+addr = 0x24c6b0
+size = 0x94c
+name = "CheckRevision"
+artifact_type = "Function"
+
+[header]
+name = "CheckRevision"
+addr = 0x24c6b0
+
+[header.args]

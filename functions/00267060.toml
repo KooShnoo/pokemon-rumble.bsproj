@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308826Z
+addr = 0x267060
+size = 0x1b4
+name = "CalcWorldMtx_Xsi"
+artifact_type = "Function"
+
+[header]
+name = "CalcWorldMtx_Xsi"
+addr = 0x267060
+
+[header.args]

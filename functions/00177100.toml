@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307514Z
+addr = 0x177100
+size = 0x50
+name = "NETSHA1Init"
+artifact_type = "Function"
+
+[header]
+name = "NETSHA1Init"
+addr = 0x177100
+
+[header.args]

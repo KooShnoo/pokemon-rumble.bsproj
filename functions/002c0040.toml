@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310489Z
+addr = 0x2c0040
+size = 0x204
+name = "__OSRelaunchTitle"
+artifact_type = "Function"
+
+[header]
+name = "__OSRelaunchTitle"
+addr = 0x2c0040
+
+[header.args]

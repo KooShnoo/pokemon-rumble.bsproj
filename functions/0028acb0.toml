@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309317Z
+addr = 0x28acb0
+size = 0x300
+name = "LoadHeader"
+artifact_type = "Function"
+
+[header]
+name = "LoadHeader"
+addr = 0x28acb0
+
+[header.args]

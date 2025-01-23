@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310038Z
+addr = 0x2b4b80
+size = 0x24
+name = "OSClearContext"
+artifact_type = "Function"
+
+[header]
+name = "OSClearContext"
+addr = 0x2b4b80
+
+[header.args]

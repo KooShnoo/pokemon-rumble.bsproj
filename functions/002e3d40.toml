@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312217Z
+addr = 0x2e3d40
+size = 0x50
+name = "__DSP_debug_printf"
+artifact_type = "Function"
+
+[header]
+name = "__DSP_debug_printf"
+addr = 0x2e3d40
+
+[header.args]

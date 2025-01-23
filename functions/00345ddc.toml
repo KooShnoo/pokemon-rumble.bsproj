@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315261Z
+addr = 0x345ddc
+size = 0x11c
+name = "strcmp"
+artifact_type = "Function"
+
+[header]
+name = "strcmp"
+addr = 0x345ddc
+
+[header.args]

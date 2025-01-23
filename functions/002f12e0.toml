@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312475Z
+addr = 0x2f12e0
+size = 0x10
+name = "IPCWriteReg"
+artifact_type = "Function"
+
+[header]
+name = "IPCWriteReg"
+addr = 0x2f12e0
+
+[header.args]

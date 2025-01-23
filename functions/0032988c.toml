@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314287Z
+addr = 0x32988c
+size = 0x450
+name = "hidh_search_callback"
+artifact_type = "Function"
+
+[header]
+name = "hidh_search_callback"
+addr = 0x32988c
+
+[header.args]

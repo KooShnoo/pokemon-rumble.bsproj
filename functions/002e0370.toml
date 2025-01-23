@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311874Z
+addr = 0x2e0370
+size = 0x360
+name = "AXFXChorusExpCallback"
+artifact_type = "Function"
+
+[header]
+name = "AXFXChorusExpCallback"
+addr = 0x2e0370
+
+[header.args]

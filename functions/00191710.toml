@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307759Z
+addr = 0x191710
+size = 0xf8
+name = "GetFrameSize"
+artifact_type = "Function"
+
+[header]
+name = "GetFrameSize"
+addr = 0x191710
+
+[header.args]

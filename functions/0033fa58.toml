@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315024Z
+addr = 0x33fa58
+size = 0x18
+name = "__register_global_object"
+artifact_type = "Function"
+
+[header]
+name = "__register_global_object"
+addr = 0x33fa58
+
+[header.args]

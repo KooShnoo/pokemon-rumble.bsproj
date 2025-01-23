@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314580Z
+addr = 0x332e30
+size = 0x150
+name = "PORT_PortNegInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_PortNegInd"
+addr = 0x332e30
+
+[header.args]

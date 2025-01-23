@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314989Z
+addr = 0x33eefc
+size = 0x5c
+name = "DBInitComm"
+artifact_type = "Function"
+
+[header]
+name = "DBInitComm"
+addr = 0x33eefc
+
+[header.args]

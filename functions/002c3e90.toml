@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310720Z
+addr = 0x2c3e90
+size = 0xd4
+name = "SISetSamplingRate"
+artifact_type = "Function"
+
+[header]
+name = "SISetSamplingRate"
+addr = 0x2c3e90
+
+[header.args]

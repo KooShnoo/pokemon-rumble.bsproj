@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310310Z
+addr = 0x2bd100
+size = 0x58
+name = "__OSTimeToSystemTime"
+artifact_type = "Function"
+
+[header]
+name = "__OSTimeToSystemTime"
+addr = 0x2bd100
+
+[header.args]

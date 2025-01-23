@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307320Z
+addr = 0x14d170
+size = 0x3c
+name = "mat34_from_angle_axis"
+artifact_type = "Function"
+
+[header]
+name = "mat34_from_angle_axis"
+addr = 0x14d170
+
+[header.args]

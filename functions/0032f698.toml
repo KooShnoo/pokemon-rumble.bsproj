@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314463Z
+addr = 0x32f698
+size = 0xdc
+name = "l2c_link_segments_xmitted"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_segments_xmitted"
+addr = 0x32f698
+
+[header.args]

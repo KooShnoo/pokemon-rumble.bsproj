@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306415Z
+addr = 0x4000
+size = 0x24
+name = "__check_pad3"
+artifact_type = "Function"
+
+[header]
+name = "__check_pad3"
+addr = 0x4000
+
+[header.args]

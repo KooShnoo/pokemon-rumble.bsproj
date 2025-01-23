@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309698Z
+addr = 0x2ad370
+size = 0x34
+name = "GetMatColAry"
+artifact_type = "Function"
+
+[header]
+name = "GetMatColAry"
+addr = 0x2ad370
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308922Z
+addr = 0x26d180
+size = 0x48
+name = "GetResMatTevColor"
+artifact_type = "Function"
+
+[header]
+name = "GetResMatTevColor"
+addr = 0x26d180
+
+[header.args]

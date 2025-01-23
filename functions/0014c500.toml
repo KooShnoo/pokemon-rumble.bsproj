@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307312Z
+addr = 0x14c500
+size = 0xbc
+name = "method_setZX"
+artifact_type = "Function"
+
+[header]
+name = "method_setZX"
+addr = 0x14c500
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314795Z
+addr = 0x3394d0
+size = 0x4b0
+name = "SDP_GetLocalDiRecord"
+artifact_type = "Function"
+
+[header]
+name = "SDP_GetLocalDiRecord"
+addr = 0x3394d0
+
+[header.args]

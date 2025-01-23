@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315105Z
+addr = 0x341000
+size = 0x554
+name = "ExPPC_PopStackFrame"
+artifact_type = "Function"
+
+[header]
+name = "ExPPC_PopStackFrame"
+addr = 0x341000
+
+[header.args]

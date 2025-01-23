@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314509Z
+addr = 0x3314f0
+size = 0x1b4
+name = "l2cu_send_peer_config_rej"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_send_peer_config_rej"
+addr = 0x3314f0
+
+[header.args]

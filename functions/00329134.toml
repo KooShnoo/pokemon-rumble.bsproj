@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314230Z
+addr = 0x329134
+size = 0x30
+name = "btsnd_hcic_write_pagescan_type"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_pagescan_type"
+addr = 0x329134
+
+[header.args]

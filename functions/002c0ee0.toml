@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310541Z
+addr = 0x2c0ee0
+size = 0xf8
+name = "EXIDma"
+artifact_type = "Function"
+
+[header]
+name = "EXIDma"
+addr = 0x2c0ee0
+
+[header.args]

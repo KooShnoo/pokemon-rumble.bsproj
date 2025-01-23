@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310611Z
+addr = 0x2c1940
+size = 0x218
+name = "TCIntrruptHandler"
+artifact_type = "Function"
+
+[header]
+name = "TCIntrruptHandler"
+addr = 0x2c1940
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310332Z
+addr = 0x2bd940
+size = 0x40
+name = "OSUTF32toSJIS"
+artifact_type = "Function"
+
+[header]
+name = "OSUTF32toSJIS"
+addr = 0x2bd940
+
+[header.args]

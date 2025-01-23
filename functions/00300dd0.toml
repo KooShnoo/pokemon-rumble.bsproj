@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312805Z
+addr = 0x300dd0
+size = 0x4cc
+name = "__parse_cl_data"
+artifact_type = "Function"
+
+[header]
+name = "__parse_cl_data"
+addr = 0x300dd0
+
+[header.args]

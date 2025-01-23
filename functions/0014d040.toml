@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307317Z
+addr = 0x14d040
+size = 0x3c
+name = "eggnw4cthing_vf80"
+artifact_type = "Function"
+
+[header]
+name = "eggnw4cthing_vf80"
+addr = 0x14d040
+
+[header.args]

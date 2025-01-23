@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312341Z
+addr = 0x2e7c50
+size = 0xa0
+name = "SCInit"
+artifact_type = "Function"
+
+[header]
+name = "SCInit"
+addr = 0x2e7c50
+
+[header.args]

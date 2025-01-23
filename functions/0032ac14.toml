@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314358Z
+addr = 0x32ac14
+size = 0x214
+name = "hidh_sec_check_complete_orig"
+artifact_type = "Function"
+
+[header]
+name = "hidh_sec_check_complete_orig"
+addr = 0x32ac14
+
+[header.args]

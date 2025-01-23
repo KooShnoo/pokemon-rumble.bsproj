@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312344Z
+addr = 0x2e7cf0
+size = 0x11c
+name = "SCCheckStatus"
+artifact_type = "Function"
+
+[header]
+name = "SCCheckStatus"
+addr = 0x2e7cf0
+
+[header.args]

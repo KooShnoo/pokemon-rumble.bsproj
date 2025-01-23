@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315186Z
+addr = 0x344eb4
+size = 0xbc
+name = "fclose"
+artifact_type = "Function"
+
+[header]
+name = "fclose"
+addr = 0x344eb4
+
+[header.args]

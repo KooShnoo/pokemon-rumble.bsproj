@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309901Z
+addr = 0x2b2f30
+size = 0x20
+name = "OSGetAppType"
+artifact_type = "Function"
+
+[header]
+name = "OSGetAppType"
+addr = 0x2b2f30
+
+[header.args]

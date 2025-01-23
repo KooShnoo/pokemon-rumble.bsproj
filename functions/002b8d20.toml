@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310128Z
+addr = 0x2b8d20
+size = 0x10
+name = "VMBASEGetVirtualAddrFromPageInMRAM"
+artifact_type = "Function"
+
+[header]
+name = "VMBASEGetVirtualAddrFromPageInMRAM"
+addr = 0x2b8d20
+
+[header.args]

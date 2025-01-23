@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313671Z
+addr = 0x31c198
+size = 0x120
+name = "btm_sec_alloc_dev"
+artifact_type = "Function"
+
+[header]
+name = "btm_sec_alloc_dev"
+addr = 0x31c198
+
+[header.args]

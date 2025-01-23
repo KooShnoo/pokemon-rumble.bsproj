@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314651Z
+addr = 0x335ffc
+size = 0xe8
+name = "rfc_process_pn"
+artifact_type = "Function"
+
+[header]
+name = "rfc_process_pn"
+addr = 0x335ffc
+
+[header.args]

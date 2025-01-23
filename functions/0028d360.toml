@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309341Z
+addr = 0x28d360
+size = 0x7c
+name = "AppendTask"
+artifact_type = "Function"
+
+[header]
+name = "AppendTask"
+addr = 0x28d360
+
+[header.args]

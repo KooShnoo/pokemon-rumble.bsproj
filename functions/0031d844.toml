@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313737Z
+addr = 0x31d844
+size = 0x38
+name = "BTM_RegisterForVSEvents"
+artifact_type = "Function"
+
+[header]
+name = "BTM_RegisterForVSEvents"
+addr = 0x31d844
+
+[header.args]

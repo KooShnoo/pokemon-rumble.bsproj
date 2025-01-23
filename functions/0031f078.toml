@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313817Z
+addr = 0x31f078
+size = 0x104
+name = "btm_inq_db_new"
+artifact_type = "Function"
+
+[header]
+name = "btm_inq_db_new"
+addr = 0x31f078
+
+[header.args]

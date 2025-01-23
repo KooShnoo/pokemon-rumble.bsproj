@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308765Z
+addr = 0x25dd90
+size = 0x2f0
+name = "LoadResShpPrimitive"
+artifact_type = "Function"
+
+[header]
+name = "LoadResShpPrimitive"
+addr = 0x25dd90
+
+[header.args]

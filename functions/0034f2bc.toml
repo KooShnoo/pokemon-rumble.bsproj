@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315592Z
+addr = 0x34f2bc
+size = 0xe4
+name = "HandleCloseFileSupportRequest"
+artifact_type = "Function"
+
+[header]
+name = "HandleCloseFileSupportRequest"
+addr = 0x34f2bc
+
+[header.args]

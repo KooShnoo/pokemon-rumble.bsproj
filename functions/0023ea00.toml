@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308087Z
+addr = 0x23ea00
+size = 0xd8
+name = "CalcAhead_Speed"
+artifact_type = "Function"
+
+[header]
+name = "CalcAhead_Speed"
+addr = 0x23ea00
+
+[header.args]

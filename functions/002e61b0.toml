@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312284Z
+addr = 0x2e61b0
+size = 0xd4
+name = "nandGetHeadToken"
+artifact_type = "Function"
+
+[header]
+name = "nandGetHeadToken"
+addr = 0x2e61b0
+
+[header.args]

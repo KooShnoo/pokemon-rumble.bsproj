@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315717Z
+addr = 0x3522dc
+size = 0x1f4
+name = "TRKTargetSupportRequest"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetSupportRequest"
+addr = 0x3522dc
+
+[header.args]

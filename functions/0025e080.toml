@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308769Z
+addr = 0x25e080
+size = 0x88
+name = "SetViewPosNrmMtxArray"
+artifact_type = "Function"
+
+[header]
+name = "SetViewPosNrmMtxArray"
+addr = 0x25e080
+
+[header.args]

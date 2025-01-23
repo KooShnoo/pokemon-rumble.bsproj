@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312770Z
+addr = 0x2fcb00
+size = 0x1080
+name = "WPADControlDpd"
+artifact_type = "Function"
+
+[header]
+name = "WPADControlDpd"
+addr = 0x2fcb00
+
+[header.args]

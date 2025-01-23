@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308799Z
+addr = 0x264c70
+size = 0x40
+name = "SetFrustum"
+artifact_type = "Function"
+
+[header]
+name = "SetFrustum"
+addr = 0x264c70
+
+[header.args]

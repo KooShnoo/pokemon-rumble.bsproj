@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306849Z
+addr = 0x135480
+size = 0x1d4
+name = "method_BWorldCamera_playEx"
+artifact_type = "Function"
+
+[header]
+name = "method_BWorldCamera_playEx"
+addr = 0x135480
+
+[header.args]

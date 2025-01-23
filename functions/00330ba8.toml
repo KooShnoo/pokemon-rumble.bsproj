@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314496Z
+addr = 0x330ba8
+size = 0xfc
+name = "l2cu_send_peer_cmd_reject"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_send_peer_cmd_reject"
+addr = 0x330ba8
+
+[header.args]

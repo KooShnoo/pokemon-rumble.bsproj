@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306485Z
+addr = 0x52f60
+size = 0x4fc
+name = "BModelObj_fn_80052F60"
+artifact_type = "Function"
+
+[header]
+name = "BModelObj_fn_80052F60"
+addr = 0x52f60
+
+[header.args]

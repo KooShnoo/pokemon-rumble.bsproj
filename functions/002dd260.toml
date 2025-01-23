@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311823Z
+addr = 0x2dd260
+size = 0x40
+name = "__AXSetPBDefault"
+artifact_type = "Function"
+
+[header]
+name = "__AXSetPBDefault"
+addr = 0x2dd260
+
+[header.args]

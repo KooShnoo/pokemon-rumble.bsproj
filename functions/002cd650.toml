@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311109Z
+addr = 0x2cd650
+size = 0x224
+name = "GXGetYScaleFactor"
+artifact_type = "Function"
+
+[header]
+name = "GXGetYScaleFactor"
+addr = 0x2cd650
+
+[header.args]

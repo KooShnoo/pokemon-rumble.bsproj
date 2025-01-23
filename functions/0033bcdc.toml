@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314859Z
+addr = 0x33bcdc
+size = 0x13c
+name = "sdp_config_ind"
+artifact_type = "Function"
+
+[header]
+name = "sdp_config_ind"
+addr = 0x33bcdc
+
+[header.args]

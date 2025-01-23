@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314864Z
+addr = 0x33bf94
+size = 0xf8
+name = "sdp_disconnect_ind"
+artifact_type = "Function"
+
+[header]
+name = "sdp_disconnect_ind"
+addr = 0x33bf94
+
+[header.args]

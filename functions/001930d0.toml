@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307768Z
+addr = 0x1930d0
+size = 0xc
+name = "Fade"
+artifact_type = "Function"
+
+[header]
+name = "Fade"
+addr = 0x1930d0
+
+[header.args]

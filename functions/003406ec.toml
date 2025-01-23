@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315071Z
+addr = 0x3406ec
+size = 0xe4
+name = "__mod2u"
+artifact_type = "Function"
+
+[header]
+name = "__mod2u"
+addr = 0x3406ec
+
+[header.args]

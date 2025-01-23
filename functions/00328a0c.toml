@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314170Z
+addr = 0x328a0c
+size = 0x70
+name = "btsnd_hcic_write_cur_iac_lap"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_write_cur_iac_lap"
+addr = 0x328a0c
+
+[header.args]

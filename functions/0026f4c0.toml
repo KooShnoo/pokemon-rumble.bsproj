@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308935Z
+addr = 0x26f4c0
+size = 0x1f8
+name = "RemoveAnmObj"
+artifact_type = "Function"
+
+[header]
+name = "RemoveAnmObj"
+addr = 0x26f4c0
+
+[header.args]

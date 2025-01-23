@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311845Z
+addr = 0x2ded10
+size = 0x278
+name = "AXFXDelayExpCallback"
+artifact_type = "Function"
+
+[header]
+name = "AXFXDelayExpCallback"
+addr = 0x2ded10
+
+[header.args]

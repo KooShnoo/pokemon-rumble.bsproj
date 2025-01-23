@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313835Z
+addr = 0x31faa4
+size = 0x40
+name = "btm_inq_rmt_name_failed"
+artifact_type = "Function"
+
+[header]
+name = "btm_inq_rmt_name_failed"
+addr = 0x31faa4
+
+[header.args]

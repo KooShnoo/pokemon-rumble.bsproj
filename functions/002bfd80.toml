@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310479Z
+addr = 0x2bfd80
+size = 0xd4
+name = "__OSCheckTmdSysVersion"
+artifact_type = "Function"
+
+[header]
+name = "__OSCheckTmdSysVersion"
+addr = 0x2bfd80
+
+[header.args]

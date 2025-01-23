@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313449Z
+addr = 0x3164f4
+size = 0x280
+name = "bta_dm_acl_change"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_acl_change"
+addr = 0x3164f4
+
+[header.args]

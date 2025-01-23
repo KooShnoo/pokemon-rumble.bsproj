@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307440Z
+addr = 0x15ab80
+size = 0xd8
+name = "method_setAP"
+artifact_type = "Function"
+
+[header]
+name = "method_setAP"
+addr = 0x15ab80
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311464Z
+addr = 0x2d0e40
+size = 0x3c
+name = "GXSetViewportJitter"
+artifact_type = "Function"
+
+[header]
+name = "GXSetViewportJitter"
+addr = 0x2d0e40
+
+[header.args]

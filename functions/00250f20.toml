@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308578Z
+addr = 0x250f20
+size = 0x18
+name = "DCStore"
+artifact_type = "Function"
+
+[header]
+name = "DCStore"
+addr = 0x250f20
+
+[header.args]

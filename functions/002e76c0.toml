@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312336Z
+addr = 0x2e76c0
+size = 0xf8
+name = "NANDLoggingAddMessageAsync"
+artifact_type = "Function"
+
+[header]
+name = "NANDLoggingAddMessageAsync"
+addr = 0x2e76c0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307002Z
+addr = 0x13e530
+size = 0xa0
+name = "AddMoney"
+artifact_type = "Function"
+
+[header]
+name = "AddMoney"
+addr = 0x13e530
+
+[header.args]

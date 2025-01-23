@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307817Z
+addr = 0x1af970
+size = 0xd4
+name = "ks_fopen"
+artifact_type = "Function"
+
+[header]
+name = "ks_fopen"
+addr = 0x1af970
+
+[header.args]

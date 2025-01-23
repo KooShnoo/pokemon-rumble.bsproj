@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309932Z
+addr = 0x2b3a60
+size = 0x8
+name = "OSGetArenaHi"
+artifact_type = "Function"
+
+[header]
+name = "OSGetArenaHi"
+addr = 0x2b3a60
+
+[header.args]

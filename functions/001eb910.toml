@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307885Z
+addr = 0x1eb910
+size = 0xd8
+name = "sprintf"
+artifact_type = "Function"
+
+[header]
+name = "sprintf"
+addr = 0x1eb910
+
+[header.args]

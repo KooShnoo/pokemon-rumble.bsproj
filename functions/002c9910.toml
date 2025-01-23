@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310856Z
+addr = 0x2c9910
+size = 0x24
+name = "PSVECAdd"
+artifact_type = "Function"
+
+[header]
+name = "PSVECAdd"
+addr = 0x2c9910
+
+[header.args]

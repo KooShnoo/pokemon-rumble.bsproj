@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314395Z
+addr = 0x32c9e4
+size = 0x190
+name = "L2CA_ConnectRsp"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_ConnectRsp"
+addr = 0x32c9e4
+
+[header.args]

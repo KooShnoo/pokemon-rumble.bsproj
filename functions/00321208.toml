@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313892Z
+addr = 0x321208
+size = 0x1a8
+name = "BTM_ChangeEScoLinkParms"
+artifact_type = "Function"
+
+[header]
+name = "BTM_ChangeEScoLinkParms"
+addr = 0x321208
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312714Z
+addr = 0x2f9f50
+size = 0xc0
+name = "WPADDisconnect"
+artifact_type = "Function"
+
+[header]
+name = "WPADDisconnect"
+addr = 0x2f9f50
+
+[header.args]

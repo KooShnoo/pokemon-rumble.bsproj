@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315231Z
+addr = 0x345958
+size = 0xac
+name = "__copy_longs_rev_unaligned"
+artifact_type = "Function"
+
+[header]
+name = "__copy_longs_rev_unaligned"
+addr = 0x345958
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315130Z
+addr = 0x3426dc
+size = 0x240
+name = "allocate_from_var_pools"
+artifact_type = "Function"
+
+[header]
+name = "allocate_from_var_pools"
+addr = 0x3426dc
+
+[header.args]

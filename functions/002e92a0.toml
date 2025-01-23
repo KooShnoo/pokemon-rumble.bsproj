@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312384Z
+addr = 0x2e92a0
+size = 0x338
+name = "MyNandCallback"
+artifact_type = "Function"
+
+[header]
+name = "MyNandCallback"
+addr = 0x2e92a0
+
+[header.args]

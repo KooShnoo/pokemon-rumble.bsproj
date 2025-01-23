@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308721Z
+addr = 0x25b6a0
+size = 0x3d8
+name = "EnvironmentMapping"
+artifact_type = "Function"
+
+[header]
+name = "EnvironmentMapping"
+addr = 0x25b6a0
+
+[header.args]

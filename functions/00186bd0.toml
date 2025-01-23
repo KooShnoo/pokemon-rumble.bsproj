@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307704Z
+addr = 0x186bd0
+size = 0x2d8
+name = "Animate"
+artifact_type = "Function"
+
+[header]
+name = "Animate"
+addr = 0x186bd0
+
+[header.args]

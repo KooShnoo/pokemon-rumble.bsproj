@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314677Z
+addr = 0x33687c
+size = 0x70
+name = "RFCOMM_DlcEstablishRsp"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_DlcEstablishRsp"
+addr = 0x33687c
+
+[header.args]

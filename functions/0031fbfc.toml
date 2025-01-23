@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313843Z
+addr = 0x31fbfc
+size = 0x1d0
+name = "BTM_SetPowerMode"
+artifact_type = "Function"
+
+[header]
+name = "BTM_SetPowerMode"
+addr = 0x31fbfc
+
+[header.args]

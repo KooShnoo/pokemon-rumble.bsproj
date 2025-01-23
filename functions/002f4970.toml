@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312603Z
+addr = 0x2f4970
+size = 0x1c
+name = "ISFS_Write"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_Write"
+addr = 0x2f4970
+
+[header.args]

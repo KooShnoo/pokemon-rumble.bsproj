@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313646Z
+addr = 0x31b480
+size = 0x1a0
+name = "btm_get_max_packet_size"
+artifact_type = "Function"
+
+[header]
+name = "btm_get_max_packet_size"
+addr = 0x31b480
+
+[header.args]

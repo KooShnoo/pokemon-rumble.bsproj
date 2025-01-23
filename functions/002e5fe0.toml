@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312277Z
+addr = 0x2e5fe0
+size = 0x88
+name = "NANDCloseAsync"
+artifact_type = "Function"
+
+[header]
+name = "NANDCloseAsync"
+addr = 0x2e5fe0
+
+[header.args]

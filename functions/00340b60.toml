@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315089Z
+addr = 0x340b60
+size = 0x34
+name = "__fini_cpp_exceptions"
+artifact_type = "Function"
+
+[header]
+name = "__fini_cpp_exceptions"
+addr = 0x340b60
+
+[header.args]

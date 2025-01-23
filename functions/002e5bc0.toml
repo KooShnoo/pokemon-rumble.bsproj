@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312264Z
+addr = 0x2e5bc0
+size = 0x110
+name = "nandOpen"
+artifact_type = "Function"
+
+[header]
+name = "nandOpen"
+addr = 0x2e5bc0
+
+[header.args]

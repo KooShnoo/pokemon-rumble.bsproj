@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.310273Z
+addr = 0x2bc120
+size = 0x22c
+name = "SelectThread"
+artifact_type = "Function"
+
+[header]
+name = "SelectThread"
+addr = 0x2bc120
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315702Z
+addr = 0x351844
+size = 0x170
+name = "TRKTargetAccessExtended2"
+artifact_type = "Function"
+
+[header]
+name = "TRKTargetAccessExtended2"
+addr = 0x351844
+
+[header.args]

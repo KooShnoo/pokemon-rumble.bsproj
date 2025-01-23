@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312585Z
+addr = 0x2f4470
+size = 0xf4
+name = "ISFS_CreateFile"
+artifact_type = "Function"
+
+[header]
+name = "ISFS_CreateFile"
+addr = 0x2f4470
+
+[header.args]

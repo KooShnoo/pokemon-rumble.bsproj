@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307834Z
+addr = 0x1b1580
+size = 0xc
+name = "operator_delete"
+artifact_type = "Function"
+
+[header]
+name = "operator_delete"
+addr = 0x1b1580
+
+[header.args]

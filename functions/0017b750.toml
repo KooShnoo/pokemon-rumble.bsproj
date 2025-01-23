@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307626Z
+addr = 0x17b750
+size = 0x240
+name = "AudioSoundThreadProc"
+artifact_type = "Function"
+
+[header]
+name = "AudioSoundThreadProc"
+addr = 0x17b750
+
+[header.args]

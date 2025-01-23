@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313241Z
+addr = 0x3142e8
+size = 0xa0
+name = "bdcmp"
+artifact_type = "Function"
+
+[header]
+name = "bdcmp"
+addr = 0x3142e8
+
+[header.args]

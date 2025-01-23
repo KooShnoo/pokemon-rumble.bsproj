@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312222Z
+addr = 0x2e41c0
+size = 0x1a4
+name = "__DSP_exec_task"
+artifact_type = "Function"
+
+[header]
+name = "__DSP_exec_task"
+addr = 0x2e41c0
+
+[header.args]

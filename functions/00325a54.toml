@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314027Z
+addr = 0x325a54
+size = 0x18c
+name = "gap_connect_ind"
+artifact_type = "Function"
+
+[header]
+name = "gap_connect_ind"
+addr = 0x325a54
+
+[header.args]

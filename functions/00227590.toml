@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307944Z
+addr = 0x227590
+size = 0x170
+name = "Initialize"
+artifact_type = "Function"
+
+[header]
+name = "Initialize"
+addr = 0x227590
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313590Z
+addr = 0x319f90
+size = 0xbc
+name = "bta_hh_add_device_to_list"
+artifact_type = "Function"
+
+[header]
+name = "bta_hh_add_device_to_list"
+addr = 0x319f90
+
+[header.args]

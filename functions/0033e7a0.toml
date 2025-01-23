@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314941Z
+addr = 0x33e7a0
+size = 0xf8
+name = "GDSetTexImgAttr"
+artifact_type = "Function"
+
+[header]
+name = "GDSetTexImgAttr"
+addr = 0x33e7a0
+
+[header.args]

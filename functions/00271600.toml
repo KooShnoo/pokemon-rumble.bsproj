@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308978Z
+addr = 0x271600
+size = 0x68
+name = "SelectAmbLightObj"
+artifact_type = "Function"
+
+[header]
+name = "SelectAmbLightObj"
+addr = 0x271600
+
+[header.args]

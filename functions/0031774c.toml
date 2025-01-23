@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313505Z
+addr = 0x31774c
+size = 0x380
+name = "bta_dm_pm_set_mode"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_pm_set_mode"
+addr = 0x31774c
+
+[header.args]

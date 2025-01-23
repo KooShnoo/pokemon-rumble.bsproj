@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309353Z
+addr = 0x28d8c0
+size = 0x70
+name = "WaitTask"
+artifact_type = "Function"
+
+[header]
+name = "WaitTask"
+addr = 0x28d8c0
+
+[header.args]

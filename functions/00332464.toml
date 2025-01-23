@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314554Z
+addr = 0x332464
+size = 0xd0
+name = "l2cu_create_conn_after_switch"
+artifact_type = "Function"
+
+[header]
+name = "l2cu_create_conn_after_switch"
+addr = 0x332464
+
+[header.args]

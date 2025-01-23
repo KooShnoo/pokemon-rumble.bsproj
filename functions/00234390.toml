@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307999Z
+addr = 0x234390
+size = 0x41c
+name = "Draw_ModifyColor"
+artifact_type = "Function"
+
+[header]
+name = "Draw_ModifyColor"
+addr = 0x234390
+
+[header.args]

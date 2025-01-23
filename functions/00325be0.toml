@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314030Z
+addr = 0x325be0
+size = 0x1dc
+name = "gap_connect_cfm"
+artifact_type = "Function"
+
+[header]
+name = "gap_connect_cfm"
+addr = 0x325be0
+
+[header.args]

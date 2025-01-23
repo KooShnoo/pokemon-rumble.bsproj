@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314595Z
+addr = 0x333404
+size = 0xa0
+name = "PORT_CloseInd"
+artifact_type = "Function"
+
+[header]
+name = "PORT_CloseInd"
+addr = 0x333404
+
+[header.args]

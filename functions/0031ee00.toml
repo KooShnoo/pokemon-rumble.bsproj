@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313812Z
+addr = 0x31ee00
+size = 0x198
+name = "btm_inq_db_reset"
+artifact_type = "Function"
+
+[header]
+name = "btm_inq_db_reset"
+addr = 0x31ee00
+
+[header.args]

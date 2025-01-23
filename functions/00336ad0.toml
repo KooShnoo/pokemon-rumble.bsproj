@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314690Z
+addr = 0x336ad0
+size = 0xa4
+name = "RFCOMM_ControlReq"
+artifact_type = "Function"
+
+[header]
+name = "RFCOMM_ControlReq"
+addr = 0x336ad0
+
+[header.args]

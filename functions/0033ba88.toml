@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314854Z
+addr = 0x33ba88
+size = 0xc4
+name = "sdp_connect_ind"
+artifact_type = "Function"
+
+[header]
+name = "sdp_connect_ind"
+addr = 0x33ba88
+
+[header.args]

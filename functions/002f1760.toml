@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312493Z
+addr = 0x2f1760
+size = 0xc0
+name = "IPCCltInit"
+artifact_type = "Function"
+
+[header]
+name = "IPCCltInit"
+addr = 0x2f1760
+
+[header.args]

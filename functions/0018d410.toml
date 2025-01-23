@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307743Z
+addr = 0x18d410
+size = 0xa0
+name = "UnbindAnimationSelf"
+artifact_type = "Function"
+
+[header]
+name = "UnbindAnimationSelf"
+addr = 0x18d410
+
+[header.args]

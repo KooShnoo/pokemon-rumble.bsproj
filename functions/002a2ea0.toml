@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309557Z
+addr = 0x2a2ea0
+size = 0xc8
+name = "VRegisterf"
+artifact_type = "Function"
+
+[header]
+name = "VRegisterf"
+addr = 0x2a2ea0
+
+[header.args]

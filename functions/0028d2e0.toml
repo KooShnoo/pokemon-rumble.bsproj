@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309338Z
+addr = 0x28d2e0
+size = 0x58
+name = "LinkList__dt<Q44nw4r3snd6detail8SeqSound,184>"
+artifact_type = "Function"
+
+[header]
+name = "LinkList__dt<Q44nw4r3snd6detail8SeqSound,184>"
+addr = 0x28d2e0
+
+[header.args]

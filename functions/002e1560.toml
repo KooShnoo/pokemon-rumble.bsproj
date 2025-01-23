@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311908Z
+addr = 0x2e1560
+size = 0xb0
+name = "MEMCreateExpHeapEx"
+artifact_type = "Function"
+
+[header]
+name = "MEMCreateExpHeapEx"
+addr = 0x2e1560
+
+[header.args]

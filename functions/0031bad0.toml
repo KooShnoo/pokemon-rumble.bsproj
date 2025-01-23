@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313656Z
+addr = 0x31bad0
+size = 0x118
+name = "btm_read_rssi_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_read_rssi_complete"
+addr = 0x31bad0
+
+[header.args]

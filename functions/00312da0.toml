@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313110Z
+addr = 0x312da0
+size = 0x3c
+name = "hcisu_h2_handle_event"
+artifact_type = "Function"
+
+[header]
+name = "hcisu_h2_handle_event"
+addr = 0x312da0
+
+[header.args]

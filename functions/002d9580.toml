@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311693Z
+addr = 0x2d9580
+size = 0x1b0
+name = "DVDLowRead"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowRead"
+addr = 0x2d9580
+
+[header.args]

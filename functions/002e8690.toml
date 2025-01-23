@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312364Z
+addr = 0x2e8690
+size = 0x194
+name = "DeleteItemByID"
+artifact_type = "Function"
+
+[header]
+name = "DeleteItemByID"
+addr = 0x2e8690
+
+[header.args]

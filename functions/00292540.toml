@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309384Z
+addr = 0x292540
+size = 0x1b8
+name = "StartChannel"
+artifact_type = "Function"
+
+[header]
+name = "StartChannel"
+addr = 0x292540
+
+[header.args]

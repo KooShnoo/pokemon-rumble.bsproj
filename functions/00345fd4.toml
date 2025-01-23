@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315271Z
+addr = 0x345fd4
+size = 0x1324
+name = "__strtold"
+artifact_type = "Function"
+
+[header]
+name = "__strtold"
+addr = 0x345fd4
+
+[header.args]

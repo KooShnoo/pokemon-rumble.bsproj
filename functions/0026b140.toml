@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308908Z
+addr = 0x26b140
+size = 0x258
+name = "ScnMdlSmpl_CalcPosture"
+artifact_type = "Function"
+
+[header]
+name = "ScnMdlSmpl_CalcPosture"
+addr = 0x26b140
+
+[header.args]

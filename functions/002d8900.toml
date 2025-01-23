@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311680Z
+addr = 0x2d8900
+size = 0x198
+name = "DVDLowUnencryptedRead"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowUnencryptedRead"
+addr = 0x2d8900
+
+[header.args]

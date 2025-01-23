@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308155Z
+addr = 0x24b030
+size = 0xd8
+name = "Get"
+artifact_type = "Function"
+
+[header]
+name = "Get"
+addr = 0x24b030
+
+[header.args]

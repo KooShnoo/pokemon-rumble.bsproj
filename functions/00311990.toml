@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313062Z
+addr = 0x311990
+size = 0x1c
+name = "GKI_getnext"
+artifact_type = "Function"
+
+[header]
+name = "GKI_getnext"
+addr = 0x311990
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309405Z
+addr = 0x293040
+size = 0x44
+name = "LinkListImpl_Clear"
+artifact_type = "Function"
+
+[header]
+name = "LinkListImpl_Clear"
+addr = 0x293040
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308596Z
+addr = 0x251460
+size = 0x134
+name = "GetResColorAnmResult"
+artifact_type = "Function"
+
+[header]
+name = "GetResColorAnmResult"
+addr = 0x251460
+
+[header.args]

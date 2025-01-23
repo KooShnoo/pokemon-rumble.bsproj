@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307994Z
+addr = 0x234230
+size = 0x40
+name = "EndCalc"
+artifact_type = "Function"
+
+[header]
+name = "EndCalc"
+addr = 0x234230
+
+[header.args]

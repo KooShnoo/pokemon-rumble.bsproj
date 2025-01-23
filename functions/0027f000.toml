@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309156Z
+addr = 0x27f000
+size = 0xf8
+name = "RemoteSpeakerAlarmProc"
+artifact_type = "Function"
+
+[header]
+name = "RemoteSpeakerAlarmProc"
+addr = 0x27f000
+
+[header.args]

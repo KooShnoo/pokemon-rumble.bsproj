@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311548Z
+addr = 0x2d3800
+size = 0x164
+name = "cbForStateOpenPartition2"
+artifact_type = "Function"
+
+[header]
+name = "cbForStateOpenPartition2"
+addr = 0x2d3800
+
+[header.args]

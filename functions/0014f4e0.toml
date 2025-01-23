@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307342Z
+addr = 0x14f4e0
+size = 0x78
+name = "method_getRegister"
+artifact_type = "Function"
+
+[header]
+name = "method_getRegister"
+addr = 0x14f4e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308180Z
+addr = 0x24b630
+size = 0x7c
+name = "GetResTex"
+artifact_type = "Function"
+
+[header]
+name = "GetResTex"
+addr = 0x24b630
+
+[header.args]

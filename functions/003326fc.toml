@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314564Z
+addr = 0x3326fc
+size = 0x160
+name = "PORT_StartCnf"
+artifact_type = "Function"
+
+[header]
+name = "PORT_StartCnf"
+addr = 0x3326fc
+
+[header.args]

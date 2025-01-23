@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309904Z
+addr = 0x2b2f50
+size = 0x58
+name = "__OSInitAlarm"
+artifact_type = "Function"
+
+[header]
+name = "__OSInitAlarm"
+addr = 0x2b2f50
+
+[header.args]

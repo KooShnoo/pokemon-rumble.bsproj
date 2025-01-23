@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312274Z
+addr = 0x2e5f70
+size = 0x6c
+name = "NANDClose"
+artifact_type = "Function"
+
+[header]
+name = "NANDClose"
+addr = 0x2e5f70
+
+[header.args]

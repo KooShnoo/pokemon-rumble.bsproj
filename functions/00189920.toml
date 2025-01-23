@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307722Z
+addr = 0x189920
+size = 0x1184
+name = "Material"
+artifact_type = "Function"
+
+[header]
+name = "Material"
+addr = 0x189920
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313699Z
+addr = 0x31cbc8
+size = 0x1b0
+name = "btm_reset_complete"
+artifact_type = "Function"
+
+[header]
+name = "btm_reset_complete"
+addr = 0x31cbc8
+
+[header.args]

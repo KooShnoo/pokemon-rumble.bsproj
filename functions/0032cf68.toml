@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314411Z
+addr = 0x32cf68
+size = 0xc8
+name = "L2CA_SetIdleTimeout"
+artifact_type = "Function"
+
+[header]
+name = "L2CA_SetIdleTimeout"
+addr = 0x32cf68
+
+[header.args]

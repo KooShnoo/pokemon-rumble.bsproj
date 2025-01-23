@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312996Z
+addr = 0x30ed90
+size = 0x190
+name = "WUDiMoveTopOfDisconnectedStdDevice"
+artifact_type = "Function"
+
+[header]
+name = "WUDiMoveTopOfDisconnectedStdDevice"
+addr = 0x30ed90
+
+[header.args]

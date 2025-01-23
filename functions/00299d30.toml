@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309529Z
+addr = 0x299d30
+size = 0x150
+name = "UpdateVertexColor"
+artifact_type = "Function"
+
+[header]
+name = "UpdateVertexColor"
+addr = 0x299d30
+
+[header.args]

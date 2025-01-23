@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311678Z
+addr = 0x2d84f0
+size = 0x298
+name = "DVDLowGetNoDiscOpenPartitionParams"
+artifact_type = "Function"
+
+[header]
+name = "DVDLowGetNoDiscOpenPartitionParams"
+addr = 0x2d84f0
+
+[header.args]

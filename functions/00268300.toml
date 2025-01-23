@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308846Z
+addr = 0x268300
+size = 0x80
+name = "SetBoundingVolume"
+artifact_type = "Function"
+
+[header]
+name = "SetBoundingVolume"
+addr = 0x268300
+
+[header.args]

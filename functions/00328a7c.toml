@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314173Z
+addr = 0x328a7c
+size = 0x60
+name = "btsnd_hcic_read_local_ver"
+artifact_type = "Function"
+
+[header]
+name = "btsnd_hcic_read_local_ver"
+addr = 0x328a7c
+
+[header.args]

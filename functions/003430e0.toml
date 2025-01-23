@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315148Z
+addr = 0x3430e0
+size = 0xa4
+name = "__close_all"
+artifact_type = "Function"
+
+[header]
+name = "__close_all"
+addr = 0x3430e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.315203Z
+addr = 0x3453e4
+size = 0x4c
+name = "__mbtowc_noconv"
+artifact_type = "Function"
+
+[header]
+name = "__mbtowc_noconv"
+addr = 0x3453e4
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313125Z
+addr = 0x312e80
+size = 0x1a8
+name = "uusb_ReadIntrDataCB"
+artifact_type = "Function"
+
+[header]
+name = "uusb_ReadIntrDataCB"
+addr = 0x312e80
+
+[header.args]

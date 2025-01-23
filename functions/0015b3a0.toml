@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307453Z
+addr = 0x15b3a0
+size = 0xd8
+name = "method_setBonusSPD"
+artifact_type = "Function"
+
+[header]
+name = "method_setBonusSPD"
+addr = 0x15b3a0
+
+[header.args]

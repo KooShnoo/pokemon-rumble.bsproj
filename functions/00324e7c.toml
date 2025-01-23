@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313994Z
+addr = 0x324e7c
+size = 0x100
+name = "btu_hcif_qos_setup_comp_evt"
+artifact_type = "Function"
+
+[header]
+name = "btu_hcif_qos_setup_comp_evt"
+addr = 0x324e7c
+
+[header.args]

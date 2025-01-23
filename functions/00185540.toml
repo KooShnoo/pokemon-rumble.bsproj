@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.307689Z
+addr = 0x185540
+size = 0x328
+name = "reset_btn"
+artifact_type = "Function"
+
+[header]
+name = "reset_btn"
+addr = 0x185540
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.312939Z
+addr = 0x30c020
+size = 0x638
+name = "__wudInitDevInfo"
+artifact_type = "Function"
+
+[header]
+name = "__wudInitDevInfo"
+addr = 0x30c020
+
+[header.args]

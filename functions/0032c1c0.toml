@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314379Z
+addr = 0x32c1c0
+size = 0x29c
+name = "hidh_conn_snd_data"
+artifact_type = "Function"
+
+[header]
+name = "hidh_conn_snd_data"
+addr = 0x32c1c0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314473Z
+addr = 0x32fbfc
+size = 0xa70
+name = "process_l2cap_cmd"
+artifact_type = "Function"
+
+[header]
+name = "process_l2cap_cmd"
+addr = 0x32fbfc
+
+[header.args]

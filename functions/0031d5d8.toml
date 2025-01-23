@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313719Z
+addr = 0x31d5d8
+size = 0x4c
+name = "BTM_ReadLocalVersion"
+artifact_type = "Function"
+
+[header]
+name = "BTM_ReadLocalVersion"
+addr = 0x31d5d8
+
+[header.args]

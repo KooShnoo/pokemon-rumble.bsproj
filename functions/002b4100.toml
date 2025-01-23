@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309980Z
+addr = 0x2b4100
+size = 0x2c
+name = "DCStoreRangeNoSync"
+artifact_type = "Function"
+
+[header]
+name = "DCStoreRangeNoSync"
+addr = 0x2b4100
+
+[header.args]

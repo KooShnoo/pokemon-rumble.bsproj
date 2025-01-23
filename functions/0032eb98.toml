@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.314437Z
+addr = 0x32eb98
+size = 0x174
+name = "l2c_link_timeout"
+artifact_type = "Function"
+
+[header]
+name = "l2c_link_timeout"
+addr = 0x32eb98
+
+[header.args]

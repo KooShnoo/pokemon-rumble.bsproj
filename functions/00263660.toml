@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308788Z
+addr = 0x263660
+size = 0x228
+name = "DrawResMdlDirectly"
+artifact_type = "Function"
+
+[header]
+name = "DrawResMdlDirectly"
+addr = 0x263660
+
+[header.args]

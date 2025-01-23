@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.313419Z
+addr = 0x315cd0
+size = 0x48
+name = "bta_dm_sdp_callback"
+artifact_type = "Function"
+
+[header]
+name = "bta_dm_sdp_callback"
+addr = 0x315cd0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.309189Z
+addr = 0x280990
+size = 0xf4
+name = "Prepare"
+artifact_type = "Function"
+
+[header]
+name = "Prepare"
+addr = 0x280990
+
+[header.args]

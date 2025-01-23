@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.311473Z
+addr = 0x2d0eb0
+size = 0x68
+name = "GXSetScissor"
+artifact_type = "Function"
+
+[header]
+name = "GXSetScissor"
+addr = 0x2d0eb0
+
+[header.args]

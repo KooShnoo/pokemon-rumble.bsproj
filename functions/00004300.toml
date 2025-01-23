@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.306466Z
+addr = 0x4300
+size = 0x24
+name = "__init_hardware"
+artifact_type = "Function"
+
+[header]
+name = "__init_hardware"
+addr = 0x4300
+
+[header.args]

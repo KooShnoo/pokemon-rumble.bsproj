@@ -1,0 +1,11 @@
+last_change = 2025-01-23T22:49:51.308681Z
+addr = 0x255140
+size = 0x16c
+name = "Bind"
+artifact_type = "Function"
+
+[header]
+name = "Bind"
+addr = 0x255140
+
+[header.args]
